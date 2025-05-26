@@ -1,4 +1,4 @@
-name: Update hat
+name: 2 Update hat
 on:
   schedule:
     - cron: "15 10 * * *"

@@ -1,4 +1,4 @@
-name: Update skystreaming
+name: 3 Update skystreaming
 on:
   schedule:
     - cron: "25 10 * * *"

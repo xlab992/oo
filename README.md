@@ -20,8 +20,10 @@ Una volta configurati ed eseguiti gli script e i workflow GitHub Actions, avrai 
 
 *   🌍 **TUTTE le liste in un file solo:**
     *   `listone.m3u8`
+
+
       
-*   🇮🇹 **Canali Italiani Generali da DaddyLive:**
+*   🇮🇹 **Canali Italiani Generali da DaddyLive con Hattrick e Skystreaming:**
     *   `247ita.m3u8`
 *   🇮🇹 **Canali Italiani Filtrati da Vavoo:**
     *   `channels_italy.m3u8`
@@ -39,8 +41,8 @@ Prima di poter generare le liste, è necessario configurare alcuni parametri neg
 
 ### 1. Script Basati su DaddyLive
 
-Modifica i seguenti script:
-*   `247ita.py`
+Modifica il file:
+*   `.env`
 *   `fullita.py`
 *   `itaevents.py`
 *   `onlyevents.py`

@@ -85,7 +85,7 @@ Dopo aver modificato e committato gli script sul tuo repository GitHub:
 7. Clicca su Save.
 
    
-### Esecuzione dei Workflow
+### Esecuzione dei Workflow (solo la prima volta, poi va in automatico)
 Torna alla sezione Actions . Esegui i workflow nel seguente ordine:
 
 1. 🚀 1 Update 24 7 :
@@ -97,6 +97,10 @@ Torna alla sezione Actions . Esegui i workflow nel seguente ordine:
    - Sulla destra, clicca su "Run workflow".
    - Conferma cliccando sul pulsante verde "Run workflow".
 3. 🚀 3 Update skystreaming :
+   - Clicca sul nome del workflow.
+   - Sulla destra, clicca su "Run workflow".
+   - Conferma cliccando sul pulsante verde "Run workflow".
+3. 🚀 3.5 Update thisnot :
    - Clicca sul nome del workflow.
    - Sulla destra, clicca su "Run workflow".
    - Conferma cliccando sul pulsante verde "Run workflow".

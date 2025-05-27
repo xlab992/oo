@@ -2,14 +2,25 @@
 
 Questo repository contiene script Python per generare automaticamente liste M3U di canali televisivi italiani, con un focus sugli eventi sportivi e la possibilità di utilizzare un proxy per una maggiore stabilità dei flussi.
 
-**Installare il seguente proxy**
+Si possono utilizzare due proxy, proxydd,tvproxy e mediaflow proxy
+per OMG consiglio Mediaflow, a breve uscirà una versione che consentirà di far partire anche i flussi HAT.
+
+**Link ai proxy**
 https://github.com/ciccioxm3/proxydd 
-seguire le info nel readme
+https://github.com/nzo66/tvproxy
+seguire le info di installazione nel readme
+
+https://github.com/mhdzumair/mediaflow-proxy
+
+per far girare anche i link HAT andarà installata una versione diversa di Mediaflow, quando sarà disponibile aggiornerò il readme
 
 ## ✨ Liste M3U Disponibili
 
 Una volta configurati ed eseguiti gli script e i workflow GitHub Actions, avrai a disposizione le seguenti liste:
 
+*   🌍 **TUTTE le liste in un file solo:**
+    *   `listone.m3u8`
+      
 *   🇮🇹 **Canali Italiani Generali da DaddyLive:**
     *   `247ita.m3u8`
 *   🇮🇹 **Canali Italiani Filtrati da Vavoo:**
@@ -20,8 +31,6 @@ Una volta configurati ed eseguiti gli script e i workflow GitHub Actions, avrai 
     *   `fullita.m3u8`
 *   🌍 **TUTTI gli Eventi Sportivi (Molto Estesa):**
     *   `onlyevents.m3u8`
-*   🌍 **TUTTE le liste in un file solo:**
-    *   `listone.m3u8`
 ---
 
 ## 🛠️ Configurazione Iniziale degli Script

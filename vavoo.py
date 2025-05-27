@@ -6,6 +6,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 PROXYMFP = os.getenv("PROXYMFP")
+NOMEGITHUB = os.getenv("NOMEGITHUB")
+NOMEREPO = os.getenv("NOMEREPO")
 
 HEADER = "&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/"
 OUTPUT_FILE = "channels_italy.m3u8"

@@ -1,634 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - LASK Linz vs Hartberg" tvg-name="19:00 Austria - Football Bundesliga : LASK Linz vs Hartberg - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/LASK%20Linz_vs_Hartberg.png" group-title="Calcio", Sky Sport Austria 1
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-559.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - LASK Linz vs Hartberg" tvg-name="19:00 Austria - Football Bundesliga : LASK Linz vs Hartberg - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/LASK%20Linz_vs_Hartberg.png" group-title="Calcio", Arena Sport 3 Serbia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-431.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - LASK Linz vs Hartberg" tvg-name="19:00 Austria - Football Bundesliga : LASK Linz vs Hartberg - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/LASK%20Linz_vs_Hartberg.png" group-title="Calcio", Sport Klub 3 Croatia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Austria - Football Bundesliga - LASK Linz vs Hartberg" tvg-name="19:00 Austria - Football Bundesliga : LASK Linz vs Hartberg - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/LASK%20Linz_vs_Hartberg.png" group-title="Calcio", Sport 5 Stars Israel
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-147.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bundesliga - Elversberg vs Heidenheim" tvg-name="20:30 Bundesliga : Elversberg vs Heidenheim - 26/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748248653_elversberg-x-heidenheim.jpg" group-title="Calcio", Sky Sport Bundesliga 1
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-558.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bundesliga - Elversberg vs Heidenheim" tvg-name="20:30 Bundesliga : Elversberg vs Heidenheim - 26/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748248653_elversberg-x-heidenheim.jpg" group-title="Calcio", Sky Sports+
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-36.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bundesliga - Elversberg vs Heidenheim" tvg-name="20:30 Bundesliga : Elversberg vs Heidenheim - 26/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748248653_elversberg-x-heidenheim.jpg" group-title="Calcio", Sky Sport Top Event DE
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-556.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bundesliga - Elversberg vs Heidenheim" tvg-name="20:30 Bundesliga : Elversberg vs Heidenheim - 26/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748248653_elversberg-x-heidenheim.jpg" group-title="Calcio", Tivibu Spor 1 Turkey
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-17.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bundesliga - Elversberg vs Heidenheim" tvg-name="20:30 Bundesliga : Elversberg vs Heidenheim - 26/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748248653_elversberg-x-heidenheim.jpg" group-title="Calcio", Eleven Sports 2 Poland
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-72.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bundesliga - Elversberg vs Heidenheim" tvg-name="20:30 Bundesliga : Elversberg vs Heidenheim - 26/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748248653_elversberg-x-heidenheim.jpg" group-title="Calcio", Sky Sport Calcio IT
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bundesliga - Elversberg vs Heidenheim" tvg-name="20:30 Bundesliga : Elversberg vs Heidenheim - 26/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748248653_elversberg-x-heidenheim.jpg" group-title="Calcio", beIN Sports 1 France
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-116.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bundesliga - Elversberg vs Heidenheim" tvg-name="20:30 Bundesliga : Elversberg vs Heidenheim - 26/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748248653_elversberg-x-heidenheim.jpg" group-title="Calcio", Canal+ Sport 2 Afrique
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-487.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bundesliga - Elversberg vs Heidenheim" tvg-name="20:30 Bundesliga : Elversberg vs Heidenheim - 26/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748248653_elversberg-x-heidenheim.jpg" group-title="Calcio", Digi Sport 3 Romania
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-402.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bundesliga - Elversberg vs Heidenheim" tvg-name="20:30 Bundesliga : Elversberg vs Heidenheim - 26/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748248653_elversberg-x-heidenheim.jpg" group-title="Calcio", Nova Sports 3 Greece
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-633.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bundesliga - Elversberg vs Heidenheim" tvg-name="20:30 Bundesliga : Elversberg vs Heidenheim - 26/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748248653_elversberg-x-heidenheim.jpg" group-title="Calcio", beIN SPORTS Australia 2
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-492.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bundesliga - Elversberg vs Heidenheim" tvg-name="20:30 Bundesliga : Elversberg vs Heidenheim - 26/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748248653_elversberg-x-heidenheim.jpg" group-title="Calcio", beIN Sports 3 Malaysia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-714.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bundesliga - Elversberg vs Heidenheim" tvg-name="20:30 Bundesliga : Elversberg vs Heidenheim - 26/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748248653_elversberg-x-heidenheim.jpg" group-title="Calcio", Diema Sport 2 Bulgaria
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-466.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bundesliga - Elversberg vs Heidenheim" tvg-name="20:30 Bundesliga : Elversberg vs Heidenheim - 26/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748248653_elversberg-x-heidenheim.jpg" group-title="Calcio", beIN Sports 4 Turkey
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-67.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bundesliga - Elversberg vs Heidenheim" tvg-name="20:30 Bundesliga : Elversberg vs Heidenheim - 26/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748248653_elversberg-x-heidenheim.jpg" group-title="Calcio", MATCH! Futbol 3 Russia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-138.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bundesliga - Elversberg vs Heidenheim" tvg-name="20:30 Bundesliga : Elversberg vs Heidenheim - 26/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748248653_elversberg-x-heidenheim.jpg" group-title="Calcio", Sportv2 Brazil
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bundesliga - Elversberg vs Heidenheim" tvg-name="20:30 Bundesliga : Elversberg vs Heidenheim - 26/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748248653_elversberg-x-heidenheim.jpg" group-title="Calcio", Arena Premium 3 Serbia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-139.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bundesliga - Elversberg vs Heidenheim" tvg-name="20:30 Bundesliga : Elversberg vs Heidenheim - 26/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748248653_elversberg-x-heidenheim.jpg" group-title="Calcio", Sport Klub 2 Croatia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bundesliga - Elversberg vs Heidenheim" tvg-name="20:30 Bundesliga : Elversberg vs Heidenheim - 26/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748248653_elversberg-x-heidenheim.jpg" group-title="Calcio", beIN SPORTS MENA 5
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-95.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bundesliga - Elversberg vs Heidenheim" tvg-name="20:30 Bundesliga : Elversberg vs Heidenheim - 26/05/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-05/1748248653_elversberg-x-heidenheim.jpg" group-title="Calcio", Sport 1 Israel
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-140.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Brazil - Serie B - Criciúma vs Coritiba" tvg-name="00:00 Brazil - Serie B : Criciúma vs Coritiba - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Crici%C3%BAma_vs_Coritiba.png" group-title="Calcio", ESPN Brazil
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Brazil - Serie B - Botafogo SP vs CRB" tvg-name="01:00 Brazil - Serie B : Botafogo SP vs CRB - 26/05/25" tvg-logo="https://logodetimes.com/times/botafogo-sp/logo-botafogo-sp-2048.png" group-title="Calcio", ESPN4 Brazil
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-85.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Darderi L. vs Korda S." tvg-name="11:00 ATP - ROLAND GARROS : Darderi L. vs Korda S. - 26/05/25" tvg-logo="https://i.pinimg.com/originals/64/b4/63/64b463acb7f436fb84780ec2145efc89.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 13
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Darderi L. vs Korda S." tvg-name="11:00 ATP - ROLAND GARROS : Darderi L. vs Korda S. - 26/05/25" tvg-logo="https://i.pinimg.com/originals/64/b4/63/64b463acb7f436fb84780ec2145efc89.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 33
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Gaston H. vs Blanchet U." tvg-name="11:00 ATP - ROLAND GARROS : Gaston H. vs Blanchet U. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Gaston%20H._vs_Blanchet%20U..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 7
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Gaston H. vs Blanchet U." tvg-name="11:00 ATP - ROLAND GARROS : Gaston H. vs Blanchet U. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Gaston%20H._vs_Blanchet%20U..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 27
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Kecmanovic M. vs Baez S." tvg-name="11:00 ATP - ROLAND GARROS : Kecmanovic M. vs Baez S. - 26/05/25" tvg-logo="https://www.tipsbetting.co.uk/wp-content/uploads/2021/06/Miomir-Kecmanovic-.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 4
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Kecmanovic M. vs Baez S." tvg-name="11:00 ATP - ROLAND GARROS : Kecmanovic M. vs Baez S. - 26/05/25" tvg-logo="https://www.tipsbetting.co.uk/wp-content/uploads/2021/06/Miomir-Kecmanovic-.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 24
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Nishioka Y. vs Popyrin A." tvg-name="11:00 ATP - ROLAND GARROS : Nishioka Y. vs Popyrin A. - 26/05/25" tvg-logo="https://nishioka-shokai.co.jp/wp-content/uploads/2023/12/favicon.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 6
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Nishioka Y. vs Popyrin A." tvg-name="11:00 ATP - ROLAND GARROS : Nishioka Y. vs Popyrin A. - 26/05/25" tvg-logo="https://nishioka-shokai.co.jp/wp-content/uploads/2023/12/favicon.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 26
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Ruud C. vs Ramos A." tvg-name="11:00 ATP - ROLAND GARROS : Ruud C. vs Ramos A. - 26/05/25" tvg-logo="https://aplusac.net/wp-content/uploads/2018/05/ruud-3d-square.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 3
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Ruud C. vs Ramos A." tvg-name="11:00 ATP - ROLAND GARROS : Ruud C. vs Ramos A. - 26/05/25" tvg-logo="https://aplusac.net/wp-content/uploads/2018/05/ruud-3d-square.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 23
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Tabilo A. vs Cazaux A." tvg-name="11:00 ATP - ROLAND GARROS : Tabilo A. vs Cazaux A. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Tabilo%20A._vs_Cazaux%20A..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 9
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Tabilo A. vs Cazaux A." tvg-name="11:00 ATP - ROLAND GARROS : Tabilo A. vs Cazaux A. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Tabilo%20A._vs_Cazaux%20A..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 29
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Llamas Ruiz P. vs Davidovich Fokina A." tvg-name="12:30 ATP - ROLAND GARROS : Llamas Ruiz P. vs Davidovich Fokina A. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Llamas%20Ruiz%20P._vs_Davidovich%20Fokina%20A..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 5
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Llamas Ruiz P. vs Davidovich Fokina A." tvg-name="12:30 ATP - ROLAND GARROS : Llamas Ruiz P. vs Davidovich Fokina A. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Llamas%20Ruiz%20P._vs_Davidovich%20Fokina%20A..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 25
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zeppieri G. vs Alcaraz C." tvg-name="12:30 ATP - ROLAND GARROS : Zeppieri G. vs Alcaraz C. - 26/05/25" tvg-logo="https://img.italiaonline.it/0WO0N0000003wL0WAI_Logo_thumb.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 2
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zeppieri G. vs Alcaraz C." tvg-name="12:30 ATP - ROLAND GARROS : Zeppieri G. vs Alcaraz C. - 26/05/25" tvg-logo="https://img.italiaonline.it/0WO0N0000003wL0WAI_Logo_thumb.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 22
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Altmaier D. vs Fritz T." tvg-name="13:00 ATP - ROLAND GARROS : Altmaier D. vs Fritz T. - 26/05/25" tvg-logo="https://png.pngtree.com/png-clipart/20211024/original/pngtree-letter-d-logo-png-image_6863919.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 3
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Altmaier D. vs Fritz T." tvg-name="13:00 ATP - ROLAND GARROS : Altmaier D. vs Fritz T. - 26/05/25" tvg-logo="https://png.pngtree.com/png-clipart/20211024/original/pngtree-letter-d-logo-png-image_6863919.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 23
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Bautista-Agut R. vs Rune H." tvg-name="13:00 ATP - ROLAND GARROS : Bautista-Agut R. vs Rune H. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Bautista-Agut%20R._vs_Rune%20H..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 7
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Bautista-Agut R. vs Rune H." tvg-name="13:00 ATP - ROLAND GARROS : Bautista-Agut R. vs Rune H. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Bautista-Agut%20R._vs_Rune%20H..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 27
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Etcheverry T. M. vs Tsitsipas S." tvg-name="13:00 ATP - ROLAND GARROS : Etcheverry T. M. vs Tsitsipas S. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Etcheverry%20T.%20M._vs_Tsitsipas%20S..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 6
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Etcheverry T. M. vs Tsitsipas S." tvg-name="13:00 ATP - ROLAND GARROS : Etcheverry T. M. vs Tsitsipas S. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Etcheverry%20T.%20M._vs_Tsitsipas%20S..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 26
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Lehecka J. vs Thompson J." tvg-name="13:00 ATP - ROLAND GARROS : Lehecka J. vs Thompson J. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Lehecka%20J._vs_Thompson%20J..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 4
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Lehecka J. vs Thompson J." tvg-name="13:00 ATP - ROLAND GARROS : Lehecka J. vs Thompson J. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Lehecka%20J._vs_Thompson%20J..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 24
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Fearnley J. vs Wawrinka S." tvg-name="14:00 ATP - ROLAND GARROS : Fearnley J. vs Wawrinka S. - 26/05/25" tvg-logo="https://www.jsfearnley.com/wp-content/themes/fearnley/images/logo.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 14
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Fearnley J. vs Wawrinka S." tvg-name="14:00 ATP - ROLAND GARROS : Fearnley J. vs Wawrinka S. - 26/05/25" tvg-logo="https://www.jsfearnley.com/wp-content/themes/fearnley/images/logo.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 34
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Khachanov K. vs Vukic A." tvg-name="14:00 ATP - ROLAND GARROS : Khachanov K. vs Vukic A. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Khachanov%20K._vs_Vukic%20A..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 12
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Khachanov K. vs Vukic A." tvg-name="14:00 ATP - ROLAND GARROS : Khachanov K. vs Vukic A. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Khachanov%20K._vs_Vukic%20A..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 32
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Ofner S. vs Struff J-L." tvg-name="14:00 ATP - ROLAND GARROS : Ofner S. vs Struff J-L. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Ofner%20S._vs_Struff%20J-L..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 8
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Ofner S. vs Struff J-L." tvg-name="14:00 ATP - ROLAND GARROS : Ofner S. vs Struff J-L. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Ofner%20S._vs_Struff%20J-L..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 28
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Cerundolo F. vs Diallo G." tvg-name="14:30 ATP - ROLAND GARROS : Cerundolo F. vs Diallo G. - 26/05/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2023/09/18/04/10/cerundolo_head_2023.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 13
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Cerundolo F. vs Diallo G." tvg-name="14:30 ATP - ROLAND GARROS : Cerundolo F. vs Diallo G. - 26/05/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2023/09/18/04/10/cerundolo_head_2023.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 33
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Misolic F. vs Bu Y." tvg-name="14:30 ATP - ROLAND GARROS : Misolic F. vs Bu Y. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Misolic%20F._vs_Bu%20Y..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 5
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Misolic F. vs Bu Y." tvg-name="14:30 ATP - ROLAND GARROS : Misolic F. vs Bu Y. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Misolic%20F._vs_Bu%20Y..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 25
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Shapovalov D. vs Martinez P." tvg-name="14:30 ATP - ROLAND GARROS : Shapovalov D. vs Martinez P. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Shapovalov%20D._vs_Martinez%20P..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 9
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Shapovalov D. vs Martinez P." tvg-name="14:30 ATP - ROLAND GARROS : Shapovalov D. vs Martinez P. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Shapovalov%20D._vs_Martinez%20P..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 29
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Atmane T. vs Gasquet R." tvg-name="15:00 ATP - ROLAND GARROS : Atmane T. vs Gasquet R. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Atmane%20T._vs_Gasquet%20R..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 1
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Atmane T. vs Gasquet R." tvg-name="15:00 ATP - ROLAND GARROS : Atmane T. vs Gasquet R. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Atmane%20T._vs_Gasquet%20R..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Giron M. vs Griekspoor T." tvg-name="16:00 ATP - ROLAND GARROS : Giron M. vs Griekspoor T. - 26/05/25" tvg-logo="https://www.giron-santander.gov.co/Style Library/v2/images/logos/Escudo.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 8
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Giron M. vs Griekspoor T." tvg-name="16:00 ATP - ROLAND GARROS : Giron M. vs Griekspoor T. - 26/05/25" tvg-logo="https://www.giron-santander.gov.co/Style Library/v2/images/logos/Escudo.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 28
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Jarry N. vs Fils A." tvg-name="16:00 ATP - ROLAND GARROS : Jarry N. vs Fils A. - 26/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ben-jerrys-2-logo-png-transparent.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 2
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Jarry N. vs Fils A." tvg-name="16:00 ATP - ROLAND GARROS : Jarry N. vs Fils A. - 26/05/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ben-jerrys-2-logo-png-transparent.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 22
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - O'Connell C. vs Humbert U." tvg-name="16:00 ATP - ROLAND GARROS : O'Connell C. vs Humbert U. - 26/05/25" tvg-logo="https://5starassets.blob.core.windows.net/athleticsites/2634285/611/images/986a20da-1fa6-4a97-a76e-1eb10c1f43a2.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 14
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - O'Connell C. vs Humbert U." tvg-name="16:00 ATP - ROLAND GARROS : O'Connell C. vs Humbert U. - 26/05/25" tvg-logo="https://5starassets.blob.core.windows.net/athleticsites/2634285/611/images/986a20da-1fa6-4a97-a76e-1eb10c1f43a2.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 34
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Ugo Carabelli C. vs Munar J." tvg-name="16:00 ATP - ROLAND GARROS : Ugo Carabelli C. vs Munar J. - 26/05/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2022/05/18/18/19/carabelli-2022-head2.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 12
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Ugo Carabelli C. vs Munar J." tvg-name="16:00 ATP - ROLAND GARROS : Ugo Carabelli C. vs Munar J. - 26/05/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2022/05/18/18/19/carabelli-2022-head2.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 32
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Rinderknech A." tvg-name="20:15 ATP - ROLAND GARROS : Sinner J. vs Rinderknech A. - 26/05/25" tvg-logo="https://logodix.com/logo/1151936.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 1
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Rinderknech A." tvg-name="20:15 ATP - ROLAND GARROS : Sinner J. vs Rinderknech A. - 26/05/25" tvg-logo="https://logodix.com/logo/1151936.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Bouzas Maneiro J. vs Navarro E." tvg-name="11:00 WTA - ROLAND GARROS : Bouzas Maneiro J. vs Navarro E. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Bouzas%20Maneiro%20J._vs_Navarro%20E..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 2
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Bouzas Maneiro J. vs Navarro E." tvg-name="11:00 WTA - ROLAND GARROS : Bouzas Maneiro J. vs Navarro E. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Bouzas%20Maneiro%20J._vs_Navarro%20E..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 22
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Korpatsch T. vs Starodubtseva Y." tvg-name="11:00 WTA - ROLAND GARROS : Korpatsch T. vs Starodubtseva Y. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Korpatsch%20T._vs_Starodubtseva%20Y..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 5
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Korpatsch T. vs Starodubtseva Y." tvg-name="11:00 WTA - ROLAND GARROS : Korpatsch T. vs Starodubtseva Y. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Korpatsch%20T._vs_Starodubtseva%20Y..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 25
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Kudermetova V. vs Tomova V." tvg-name="11:00 WTA - ROLAND GARROS : Kudermetova V. vs Tomova V. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Kudermetova%20V._vs_Tomova%20V..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 12
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Kudermetova V. vs Tomova V." tvg-name="11:00 WTA - ROLAND GARROS : Kudermetova V. vs Tomova V. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Kudermetova%20V._vs_Tomova%20V..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 32
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Raducanu E. vs Wang Xin." tvg-name="11:00 WTA - ROLAND GARROS : Raducanu E. vs Wang Xin. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Raducanu%20E._vs_Wang%20Xin..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 8
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Raducanu E. vs Wang Xin." tvg-name="11:00 WTA - ROLAND GARROS : Raducanu E. vs Wang Xin. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Raducanu%20E._vs_Wang%20Xin..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 28
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Rybakina E. vs Riera J." tvg-name="11:00 WTA - ROLAND GARROS : Rybakina E. vs Riera J. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Rybakina%20E._vs_Riera%20J..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 14
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Rybakina E. vs Riera J." tvg-name="11:00 WTA - ROLAND GARROS : Rybakina E. vs Riera J. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Rybakina%20E._vs_Riera%20J..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 34
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sramkova R. vs Swiatek I." tvg-name="12:00 WTA - ROLAND GARROS : Sramkova R. vs Swiatek I. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Sramkova%20R._vs_Swiatek%20I..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 1
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sramkova R. vs Swiatek I." tvg-name="12:00 WTA - ROLAND GARROS : Sramkova R. vs Swiatek I. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Sramkova%20R._vs_Swiatek%20I..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 21
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Collins D. vs Burrage J." tvg-name="12:30 WTA - ROLAND GARROS : Collins D. vs Burrage J. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Collins%20D._vs_Burrage%20J..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 8
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Collins D. vs Burrage J." tvg-name="12:30 WTA - ROLAND GARROS : Collins D. vs Burrage J. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Collins%20D._vs_Burrage%20J..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 28
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Parry D. vs Montgomery R." tvg-name="12:30 WTA - ROLAND GARROS : Parry D. vs Montgomery R. - 26/05/25" tvg-logo="https://assets-netstorage.groww.in/stock-assets/logos/GSTK500125.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 14
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Parry D. vs Montgomery R." tvg-name="12:30 WTA - ROLAND GARROS : Parry D. vs Montgomery R. - 26/05/25" tvg-logo="https://assets-netstorage.groww.in/stock-assets/logos/GSTK500125.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 34
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sherif M. vs Samsonova L." tvg-name="12:30 WTA - ROLAND GARROS : Sherif M. vs Samsonova L. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Sherif%20M._vs_Samsonova%20L..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 12
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sherif M. vs Samsonova L." tvg-name="12:30 WTA - ROLAND GARROS : Sherif M. vs Samsonova L. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Sherif%20M._vs_Samsonova%20L..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 32
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Cristian J. vs Birrell K." tvg-name="13:00 WTA - ROLAND GARROS : Cristian J. vs Birrell K. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Cristian%20J._vs_Birrell%20K..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 13
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Cristian J. vs Birrell K." tvg-name="13:00 WTA - ROLAND GARROS : Cristian J. vs Birrell K. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Cristian%20J._vs_Birrell%20K..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 33
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Tomljanovic A. vs Joint M." tvg-name="13:00 WTA - ROLAND GARROS : Tomljanovic A. vs Joint M. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Tomljanovic%20A._vs_Joint%20M..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 9
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Tomljanovic A. vs Joint M." tvg-name="13:00 WTA - ROLAND GARROS : Tomljanovic A. vs Joint M. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Tomljanovic%20A._vs_Joint%20M..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 29
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Osaka N. vs Badosa P." tvg-name="13:30 WTA - ROLAND GARROS : Osaka N. vs Badosa P. - 26/05/25" tvg-logo="https://logodix.com/logo/1774327.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 1
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Osaka N. vs Badosa P." tvg-name="13:30 WTA - ROLAND GARROS : Osaka N. vs Badosa P. - 26/05/25" tvg-logo="https://logodix.com/logo/1774327.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 21
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Garcia C. vs Pera B." tvg-name="14:30 WTA - ROLAND GARROS : Garcia C. vs Pera B. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Garcia%20C._vs_Pera%20B..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 2
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Garcia C. vs Pera B." tvg-name="14:30 WTA - ROLAND GARROS : Garcia C. vs Pera B. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Garcia%20C._vs_Pera%20B..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 22
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Ruse G. vs Kessler M." tvg-name="14:30 WTA - ROLAND GARROS : Ruse G. vs Kessler M. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Ruse%20G._vs_Kessler%20M..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 4
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Ruse G. vs Kessler M." tvg-name="14:30 WTA - ROLAND GARROS : Ruse G. vs Kessler M. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Ruse%20G._vs_Kessler%20M..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 24
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Kasatkina D. vs Siniakova K." tvg-name="15:00 WTA - ROLAND GARROS : Kasatkina D. vs Siniakova K. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Kasatkina%20D._vs_Siniakova%20K..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 6
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Kasatkina D. vs Siniakova K." tvg-name="15:00 WTA - ROLAND GARROS : Kasatkina D. vs Siniakova K. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Kasatkina%20D._vs_Siniakova%20K..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 26
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Krejcikova B. vs Maria T." tvg-name="15:00 WTA - ROLAND GARROS : Krejcikova B. vs Maria T. - 26/05/25" tvg-logo="https://ausopen.com/sites/default/files/styles/220x/public/202201/17/krejcikova_b-hs.png?itok=YfVHdfui" group-title="Tennis Wta - Roland Garros", Tennis Stream 7
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Krejcikova B. vs Maria T." tvg-name="15:00 WTA - ROLAND GARROS : Krejcikova B. vs Maria T. - 26/05/25" tvg-logo="https://ausopen.com/sites/default/files/styles/220x/public/202201/17/krejcikova_b-hs.png?itok=YfVHdfui" group-title="Tennis Wta - Roland Garros", Tennis Stream 27
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Monnet C. vs Boulter K." tvg-name="15:00 WTA - ROLAND GARROS : Monnet C. vs Boulter K. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Monnet%20C._vs_Boulter%20K..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 3
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Monnet C. vs Boulter K." tvg-name="15:00 WTA - ROLAND GARROS : Monnet C. vs Boulter K. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Monnet%20C._vs_Boulter%20K..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 23
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Tauson C. vs Linette M." tvg-name="16:00 WTA - ROLAND GARROS : Tauson C. vs Linette M. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Tauson%20C._vs_Linette%20M..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 4
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Tauson C. vs Linette M." tvg-name="16:00 WTA - ROLAND GARROS : Tauson C. vs Linette M. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Tauson%20C._vs_Linette%20M..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 24
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Bronzetti L. vs Alexandrova E." tvg-name="16:30 WTA - ROLAND GARROS : Bronzetti L. vs Alexandrova E. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Bronzetti%20L._vs_Alexandrova%20E..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 9
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Bronzetti L. vs Alexandrova E." tvg-name="16:30 WTA - ROLAND GARROS : Bronzetti L. vs Alexandrova E. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Bronzetti%20L._vs_Alexandrova%20E..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 29
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Dolehide C. vs Minnen G." tvg-name="16:30 WTA - ROLAND GARROS : Dolehide C. vs Minnen G. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Dolehide%20C._vs_Minnen%20G..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 5
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Dolehide C. vs Minnen G." tvg-name="16:30 WTA - ROLAND GARROS : Dolehide C. vs Minnen G. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Dolehide%20C._vs_Minnen%20G..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 25
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Jeanjean L. vs Begu I." tvg-name="16:30 WTA - ROLAND GARROS : Jeanjean L. vs Begu I. - 26/05/25" tvg-logo="https://www.supercross-yonne.fr/Media/Logos_Partenaires/Pages/Logo-JeanJean-Partenaire-Moto-Club-Brienon.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 7
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Jeanjean L. vs Begu I." tvg-name="16:30 WTA - ROLAND GARROS : Jeanjean L. vs Begu I. - 26/05/25" tvg-logo="https://www.supercross-yonne.fr/Media/Logos_Partenaires/Pages/Logo-JeanJean-Partenaire-Moto-Club-Brienon.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 27
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Keys M. vs Saville D." tvg-name="16:30 WTA - ROLAND GARROS : Keys M. vs Saville D. - 26/05/25" tvg-logo="https://cdn-icons-png.flaticon.com/512/30/30982.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 3
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Keys M. vs Saville D." tvg-name="16:30 WTA - ROLAND GARROS : Keys M. vs Saville D. - 26/05/25" tvg-logo="https://cdn-icons-png.flaticon.com/512/30/30982.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 23
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Kudermetova P. vs Ostapenko J." tvg-name="16:30 WTA - ROLAND GARROS : Kudermetova P. vs Ostapenko J. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Kudermetova%20P._vs_Ostapenko%20J..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 13
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Kudermetova P. vs Ostapenko J." tvg-name="16:30 WTA - ROLAND GARROS : Kudermetova P. vs Ostapenko J. - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Kudermetova%20P._vs_Ostapenko%20J..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 33
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Rus A. vs Osorio C." tvg-name="16:30 WTA - ROLAND GARROS : Rus A. vs Osorio C. - 26/05/25" tvg-logo="https://png.pngtree.com/png-clipart/20231006/original/pngtree-deer-logo-vector-illustration-to-generative-ai-png-image_13130236.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 6
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Rus A. vs Osorio C." tvg-name="16:30 WTA - ROLAND GARROS : Rus A. vs Osorio C. - 26/05/25" tvg-logo="https://png.pngtree.com/png-clipart/20231006/original/pngtree-deer-logo-vector-illustration-to-generative-ai-png-image_13130236.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 26
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Townsend T. vs Cocciaretto E." tvg-name="18:00 WTA - ROLAND GARROS : Townsend T. vs Cocciaretto E. - 26/05/25" tvg-logo="https://d3f6gjnauy613m.cloudfront.net/system/production/companies/006/008/d26c12953d6f97099b3546e73c1c781cfe5f2ead/slider_logo.png?1688389200" group-title="Tennis Wta - Roland Garros", Tennis Stream 7
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Townsend T. vs Cocciaretto E." tvg-name="18:00 WTA - ROLAND GARROS : Townsend T. vs Cocciaretto E. - 26/05/25" tvg-logo="https://d3f6gjnauy613m.cloudfront.net/system/production/companies/006/008/d26c12953d6f97099b3546e73c1c781cfe5f2ead/slider_logo.png?1688389200" group-title="Tennis Wta - Roland Garros", Tennis Stream 27
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 1 UK
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-31.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 4 UK
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-34.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT USA
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-338.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", truTV USA
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-341.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN1
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-111.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN4
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-114.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-115.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 5 UK
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-211.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 6 UK
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-212.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 7 UK
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-213.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 8 UK
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-214.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", France 3
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-951.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport 1 NZ
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-589.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport 3 NZ
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-590.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 1
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-885.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 2
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-886.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 3
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-887.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-713.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 Malaysia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-712.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-714.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Poland
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-58.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Spain
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-524.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-773.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 1 SE
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-231.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Italy
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-773.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Greece
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-42.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Argentina
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-150.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2" tvg-name="11:00 Roland-Garros Tennis Men's and Women's Singles | Round 1 | Day 2 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="British GT Championship Oulton Park Third Round - Oulton Park, Cheshire - British GT Championship Oulton Park Third Round - Oulton Park, Cheshire" tvg-name="11:30 British GT Championship Oulton Park Third Round - Oulton Park, Cheshire - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-60.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="British GT Championship Oulton Park Third Round - Oulton Park, Cheshire - British GT Championship Oulton Park Third Round - Oulton Park, Cheshire" tvg-name="16:01 British GT Championship Oulton Park Third Round - Oulton Park, Cheshire - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-60.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Super League - Hapoel Eilat vs Maccabi Rishon Lezion" tvg-name="17:35 Super League : Hapoel Eilat vs Maccabi Rishon Lezion - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Hapoel%20Eilat_vs_Maccabi%20Rishon%20Lezion.png" group-title="Basket", Sport 5 Plus Israel
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Lithuanian League - Neptunas vs Zalgiris" tvg-name="17:50 Lithuanian League : Neptunas vs Zalgiris - 26/05/25" tvg-logo="https://cdn.resfu.com/img_data/equipos/137000.png" group-title="Basket", Sport Klub 1 Croatia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Serie A Playoffs | Quarterfinals | Game 5 - Serie A Playoffs | Quarterfinals | Game 5" tvg-name="17:55 Serie A Playoffs | Quarterfinals | Game 5 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Eurosport 2 IT
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Czech Republic NBL - A Plus Zs Brno BC vs. Basketball Nymburk" tvg-name="18:00 Czech Republic NBL : A Plus Zs Brno BC vs. Basketball Nymburk - 26/05/25" tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/BC_Brno__e03f6b/Basket_Brno_logo_2018.png__72081__thumb.png" group-title="Basket", CT Sport Czech
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-18.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Slovenian League - Playoff - 1/2 Final (G1) : Krka vs Ilirija" tvg-name="18:00 Slovenian League: Playoff - 1/2 Final (G1) : Krka vs Ilirija - 26/05/25" tvg-logo="https://seeklogo.com/images/N/nk-krka-nove-mesto-logo-3CFF35769E-seeklogo.com.png" group-title="Basket", Sport Klub 4 Croatia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Bulgaria NBL - Rilski Sportist vs. Cherno More IG" tvg-name="18:15 Bulgaria NBL : Rilski Sportist vs. Cherno More IG - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Rilski%20Sportist_vs_Cherno%20More%20IG.png" group-title="Basket", Max Sport 2 Bulgaria
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Russia United League - UNICS Kazan vs PBC Lokomotiv-Kuban" tvg-name="18:20 Russia United League : UNICS Kazan vs PBC Lokomotiv-Kuban - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/UNICS%20Kazan_vs_PBC%20Lokomotiv-Kuban.png" group-title="Basket", Match TV Russia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-127.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ABA League - KK Partizan Nis Belgrade vs. BC Dubai" tvg-name="19:00 ABA League : KK Partizan Nis Belgrade vs. BC Dubai - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/KK%20Partizan%20Nis%20Belgrade_vs_BC%20Dubai.png" group-title="Basket", Arena 1 Premium Serbia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ABA League - KK Partizan Nis Belgrade vs. BC Dubai" tvg-name="19:00 ABA League : KK Partizan Nis Belgrade vs. BC Dubai - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/KK%20Partizan%20Nis%20Belgrade_vs_BC%20Dubai.png" group-title="Basket", Arena Sport 2 Croatia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-433.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ABA League - KK Partizan Nis Belgrade vs. BC Dubai" tvg-name="19:00 ABA League : KK Partizan Nis Belgrade vs. BC Dubai - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/KK%20Partizan%20Nis%20Belgrade_vs_BC%20Dubai.png" group-title="Basket", Arena Sport 10 Serbia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-945.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Austria Superliga - Oberwart Gunners vs. BBC Nord Dragonz" tvg-name="19:20 Austria Superliga : Oberwart Gunners vs. BBC Nord Dragonz - 26/05/25" tvg-logo="https://www.gunners.at/uploads/tx_basketball/images/_processed_/1/0/csm_team_16916_295de5d4bf.png" group-title="Basket", ORF Sport Plus
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-19.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Super League - Maccabi Tel Aviv vs Hapoel Holon" tvg-name="19:30 Super League : Maccabi Tel Aviv vs Hapoel Holon - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Maccabi%20Tel%20Aviv_vs_Hapoel%20Holon.png" group-title="Basket", Sport 5 Israel
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="LNB - Cholet vs JL Bourg" tvg-name="19:50 LNB : Cholet vs JL Bourg - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Cholet_vs_JL%20Bourg.png" group-title="Basket", DAZN1 France
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-27.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="LNB - Cholet vs JL Bourg" tvg-name="19:50 LNB : Cholet vs JL Bourg - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Cholet_vs_JL%20Bourg.png" group-title="Basket", Sport Klub 6 Croatia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-28.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Serie A2 - Cantu vs Sebastiani" tvg-name="20:35 Serie A2 : Cantu vs Sebastiani - 26/05/25" tvg-logo="https://pallacanestrocantu.com/wp-content/uploads/2021/07/logo.png" group-title="Basket", Rai Sport 1 IT
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Basket - Serie A Playoffs | Quarterfinals | Game 5" tvg-name="20:40 Basket : Serie A Playoffs | Quarterfinals | Game 5 - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Eurosport 2 IT
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ABA League - KK Buducnost Voli vs. KK Crvena zvezda Belgrade" tvg-name="21:00 ABA League : KK Buducnost Voli vs. KK Crvena zvezda Belgrade - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/KK%20Buducnost%20Voli_vs_KK%20Crvena%20zvezda%20Belgrade.png" group-title="Basket", Arena 1 Premium Serbia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ABA League - KK Buducnost Voli vs. KK Crvena zvezda Belgrade" tvg-name="21:00 ABA League : KK Buducnost Voli vs. KK Crvena zvezda Belgrade - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/KK%20Buducnost%20Voli_vs_KK%20Crvena%20zvezda%20Belgrade.png" group-title="Basket", Arena Sport 2 Croatia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-433.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="ABA League - KK Buducnost Voli vs. KK Crvena zvezda Belgrade" tvg-name="21:00 ABA League : KK Buducnost Voli vs. KK Crvena zvezda Belgrade - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/KK%20Buducnost%20Voli_vs_KK%20Crvena%20zvezda%20Belgrade.png" group-title="Basket", Arena Sport 10 Serbia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-945.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", Home Feed
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-4.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", Away Feed
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-5.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", TNT Sports 1 UK
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-31.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", ESPN USA
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-44.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", ESPN2 USA
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-45.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", Sportsnet One
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-411.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", Movistar Deportes Spain
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-436.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", M+ #Vamos ES
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-521.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", CANAL+ Sport Poland
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-48.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", beIN Sports 1 France
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-116.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", ESPN 1 NL
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-379.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", ESPN 2 Mexico
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-926.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", ESPN Deportes
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-375.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", Arena 1 Premium Serbia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", Cosmote Sport 4 Greece
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-625.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", TV2 Sport X Denmark
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-808.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", TV4 Sportkanalen
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-707.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", Sport TV1 Portugal
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-49.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", ESPN BR
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", Arena Sport 1 Croatia
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-432.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", Cytavision Sports 6
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-916.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", Canal+ Sport Poland
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-48.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", ESPN2 Argentina
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-150.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", Diema sport 3 Bulgaria
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-467.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", beIN SPORTS MENA English 1
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-61.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", beIN SPORTS MENA 1
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-91.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="NBA - Oklahoma City Thunder vs Minnesota Timberwolves" tvg-name="02:30 NBA : Oklahoma City Thunder vs Minnesota Timberwolves - 26/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Oklahoma%20City%20Thunder_vs_Minnesota%20Timberwolves.png" group-title="Basket", Sport 5 Israel
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km) - Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km)" tvg-name="14:30 Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km) - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 Poland
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-57.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km) - Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km)" tvg-name="14:30 Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km) - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 Spain
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-524.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km) - Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km)" tvg-name="14:30 Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km) - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 France
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-772.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km) - Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km)" tvg-name="14:30 Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km) - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", Eurosport 1 SE
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-231.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km) - Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km)" tvg-name="14:30 Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km) - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 Italy
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km) - Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km)" tvg-name="14:30 Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km) - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 France
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-772.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km) - Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km)" tvg-name="14:30 Mercan'Tour Classic Men | Puget-Théniers - Valberg (153km) - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 Greece
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-41.php&redirect_stream=true&api_password=PASSWORD
-
-#EXTINF:-1 tvg-id="Piazza di Siena 2025-Six Barriers Award - Piazza di Siena 2025-Six Barriers Award" tvg-name="15:00 Piazza di Siena 2025-Six Barriers Award - 26/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Equestrian", Rai Sport 1 Italy
-link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=PASSWORD
-
 #EXTINF:-1 tvg-id="Bundesliga 2 - Eintracht Braunschweig vs Saarbrücken" tvg-name="20:30 Bundesliga 2 : Eintracht Braunschweig vs Saarbrücken - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Eintracht%20Braunschweig_vs_Saarbr%C3%BCcken.png" group-title="Calcio", Sky Sport Bundesliga 1
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-558.php&redirect_stream=true&api_password=PASSWORD
 
@@ -695,10 +65,10 @@ link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-57
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Shevchenko A. vs Lajovic D." tvg-name="11:00 ATP - ROLAND GARROS : Shevchenko A. vs Lajovic D. - 27/05/25" tvg-logo="https://edurank.org/assets/img/uni-logos/taras-shevchenko-national-university-of-kyiv-logo.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 33
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Bublik A. vs Duckworth J." tvg-name="12:30 ATP - ROLAND GARROS : Bublik A. vs Duckworth J. - 27/05/25" tvg-logo="https://dubaidutyfreetennischampionships.com/wp-content/uploads/2024/02/BK92-Bublik.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 12
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Bublik A. vs Duckworth J." tvg-name="12:30 ATP - ROLAND GARROS : Bublik A. vs Duckworth J. - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Bublik%20A._vs_Duckworth%20J..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 12
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Bublik A. vs Duckworth J." tvg-name="12:30 ATP - ROLAND GARROS : Bublik A. vs Duckworth J. - 27/05/25" tvg-logo="https://dubaidutyfreetennischampionships.com/wp-content/uploads/2024/02/BK92-Bublik.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 32
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Bublik A. vs Duckworth J." tvg-name="12:30 ATP - ROLAND GARROS : Bublik A. vs Duckworth J. - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Bublik%20A._vs_Duckworth%20J..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 32
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - De Jong J. vs Passaro F." tvg-name="12:30 ATP - ROLAND GARROS : De Jong J. vs Passaro F. - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/De%20Jong%20J._vs_Passaro%20F..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 8
@@ -707,16 +77,16 @@ link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-57
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - De Jong J. vs Passaro F." tvg-name="12:30 ATP - ROLAND GARROS : De Jong J. vs Passaro F. - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/De%20Jong%20J._vs_Passaro%20F..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 28
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Quinn E. vs Dimitrov G." tvg-name="12:30 ATP - ROLAND GARROS : Quinn E. vs Dimitrov G. - 27/05/25" tvg-logo="https://logodix.com/logo/946561.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 6
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Quinn E. vs Dimitrov G." tvg-name="12:30 ATP - ROLAND GARROS : Quinn E. vs Dimitrov G. - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Quinn%20E._vs_Dimitrov%20G..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 6
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Quinn E. vs Dimitrov G." tvg-name="12:30 ATP - ROLAND GARROS : Quinn E. vs Dimitrov G. - 27/05/25" tvg-logo="https://logodix.com/logo/946561.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 26
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Quinn E. vs Dimitrov G." tvg-name="12:30 ATP - ROLAND GARROS : Quinn E. vs Dimitrov G. - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Quinn%20E._vs_Dimitrov%20G..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 26
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Tien L." tvg-name="12:30 ATP - ROLAND GARROS : Zverev A. vs Tien L. - 27/05/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 2
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Tien L." tvg-name="12:30 ATP - ROLAND GARROS : Zverev A. vs Tien L. - 27/05/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/06/Zverev-Tennis-Roland-Garros-PNG-Render-.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 2
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Tien L." tvg-name="12:30 ATP - ROLAND GARROS : Zverev A. vs Tien L. - 27/05/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 22
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Tien L." tvg-name="12:30 ATP - ROLAND GARROS : Zverev A. vs Tien L. - 27/05/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/06/Zverev-Tennis-Roland-Garros-PNG-Render-.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 22
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Muller A. vs Mensik J." tvg-name="13:00 ATP - ROLAND GARROS : Muller A. vs Mensik J. - 27/05/25" tvg-logo="https://images.seeklogo.com/logo-png/32/2/muller-drogerie-logo-png_seeklogo-327982.png?v=1957912786122421720" group-title="Tennis Atp - Roland Garros", Tennis Stream 14
@@ -749,16 +119,16 @@ link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-57
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Herbert P. vs Bonzi B." tvg-name="14:30 ATP - ROLAND GARROS : Herbert P. vs Bonzi B. - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Herbert%20P._vs_Bonzi%20B..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 33
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Marterer M. vs Walton A." tvg-name="14:30 ATP - ROLAND GARROS : Marterer M. vs Walton A. - 27/05/25" tvg-logo="https://png.pngtree.com/png-clipart/20230622/original/pngtree-abstract-letter-m-logo-png-image_9203650.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 12
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Marterer M. vs Walton A." tvg-name="14:30 ATP - ROLAND GARROS : Marterer M. vs Walton A. - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Marterer%20M._vs_Walton%20A..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 12
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Marterer M. vs Walton A." tvg-name="14:30 ATP - ROLAND GARROS : Marterer M. vs Walton A. - 27/05/25" tvg-logo="https://png.pngtree.com/png-clipart/20230622/original/pngtree-abstract-letter-m-logo-png-image_9203650.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 32
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Marterer M. vs Walton A." tvg-name="14:30 ATP - ROLAND GARROS : Marterer M. vs Walton A. - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Marterer%20M._vs_Walton%20A..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 32
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Moutet C. vs Tabur C." tvg-name="14:30 ATP - ROLAND GARROS : Moutet C. vs Tabur C. - 27/05/25" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-c-logo-design-png-image_6152372.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 3
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Moutet C. vs Tabur C." tvg-name="14:30 ATP - ROLAND GARROS : Moutet C. vs Tabur C. - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Moutet%20C._vs_Tabur%20C..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 3
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Moutet C. vs Tabur C." tvg-name="14:30 ATP - ROLAND GARROS : Moutet C. vs Tabur C. - 27/05/25" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-c-logo-design-png-image_6152372.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 23
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Moutet C. vs Tabur C." tvg-name="14:30 ATP - ROLAND GARROS : Moutet C. vs Tabur C. - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Moutet%20C._vs_Tabur%20C..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 23
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - McDonald M. vs Djokovic N." tvg-name="15:00 ATP - ROLAND GARROS : McDonald M. vs Djokovic N. - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/McDonald%20M._vs_Djokovic%20N..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 16
@@ -770,10 +140,10 @@ link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-57
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - McDonald M. vs Djokovic N." tvg-name="15:00 ATP - ROLAND GARROS : McDonald M. vs Djokovic N. - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/McDonald%20M._vs_Djokovic%20N..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Arnaldi M. vs Auger-Aliassime F." tvg-name="16:00 ATP - ROLAND GARROS : Arnaldi M. vs Auger-Aliassime F. - 27/05/25" tvg-logo="https://png.pngtree.com/png-clipart/20211009/original/pngtree-m-logo-design-png-image_6849456.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 6
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Arnaldi M. vs Auger-Aliassime F." tvg-name="16:00 ATP - ROLAND GARROS : Arnaldi M. vs Auger-Aliassime F. - 27/05/25" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-letter-m-logo-png-image_6932645.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 6
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Arnaldi M. vs Auger-Aliassime F." tvg-name="16:00 ATP - ROLAND GARROS : Arnaldi M. vs Auger-Aliassime F. - 27/05/25" tvg-logo="https://png.pngtree.com/png-clipart/20211009/original/pngtree-m-logo-design-png-image_6849456.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 26
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Arnaldi M. vs Auger-Aliassime F." tvg-name="16:00 ATP - ROLAND GARROS : Arnaldi M. vs Auger-Aliassime F. - 27/05/25" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-letter-m-logo-png-image_6932645.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 26
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Bellucci M. vs Draper J." tvg-name="16:00 ATP - ROLAND GARROS : Bellucci M. vs Draper J. - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Bellucci%20M._vs_Draper%20J..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 2
@@ -827,13 +197,13 @@ link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-57
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Wickmayer Y. vs Azarenka V." tvg-name="11:00 WTA - ROLAND GARROS : Wickmayer Y. vs Azarenka V. - 27/05/25" tvg-logo="https://cdn.sportstat.io/base/images/competitors/xKASso4bPVcV9cPCAhQxXdI7Ssqtu1Yyu5npXr02.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 26
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Gracheva V. vs Kenin S." tvg-name="12:00 WTA - ROLAND GARROS : Gracheva V. vs Kenin S. - 27/05/25" tvg-logo="https://png.pngtree.com/png-clipart/20230824/original/pngtree-v-logo-images-picture-image_8347135.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 16
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Gracheva V. vs Kenin S." tvg-name="12:00 WTA - ROLAND GARROS : Gracheva V. vs Kenin S. - 27/05/25" tvg-logo="https://365livesport.org/images/clubs/alisiya-parks-tennis.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 16
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Gracheva V. vs Kenin S." tvg-name="12:00 WTA - ROLAND GARROS : Gracheva V. vs Kenin S. - 27/05/25" tvg-logo="https://png.pngtree.com/png-clipart/20230824/original/pngtree-v-logo-images-picture-image_8347135.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 21
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Gracheva V. vs Kenin S." tvg-name="12:00 WTA - ROLAND GARROS : Gracheva V. vs Kenin S. - 27/05/25" tvg-logo="https://365livesport.org/images/clubs/alisiya-parks-tennis.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 21
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Gracheva V. vs Kenin S." tvg-name="12:00 WTA - ROLAND GARROS : Gracheva V. vs Kenin S. - 27/05/25" tvg-logo="https://png.pngtree.com/png-clipart/20230824/original/pngtree-v-logo-images-picture-image_8347135.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 1
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Gracheva V. vs Kenin S." tvg-name="12:00 WTA - ROLAND GARROS : Gracheva V. vs Kenin S. - 27/05/25" tvg-logo="https://365livesport.org/images/clubs/alisiya-parks-tennis.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 1
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Paquet C. vs Valentova T." tvg-name="12:30 WTA - ROLAND GARROS : Paquet C. vs Valentova T. - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Paquet%20C._vs_Valentova%20T..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 7
@@ -854,10 +224,10 @@ link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-57
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Frech M. vs Jabeur O." tvg-name="13:00 WTA - ROLAND GARROS : Frech M. vs Jabeur O. - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Frech%20M._vs_Jabeur%20O..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 23
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Lamens S. vs Krueger A." tvg-name="13:00 WTA - ROLAND GARROS : Lamens S. vs Krueger A. - 27/05/25" tvg-logo="https://png.pngtree.com/png-clipart/20220131/original/pngtree-letter-s-logo-png-design-png-image_7254698.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 9
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Lamens S. vs Krueger A." tvg-name="13:00 WTA - ROLAND GARROS : Lamens S. vs Krueger A. - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Lamens%20S._vs_Krueger%20A..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 9
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Lamens S. vs Krueger A." tvg-name="13:00 WTA - ROLAND GARROS : Lamens S. vs Krueger A. - 27/05/25" tvg-logo="https://png.pngtree.com/png-clipart/20220131/original/pngtree-letter-s-logo-png-design-png-image_7254698.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 29
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Lamens S. vs Krueger A." tvg-name="13:00 WTA - ROLAND GARROS : Lamens S. vs Krueger A. - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Lamens%20S._vs_Krueger%20A..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 29
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Gadecki O. vs Gauff C." tvg-name="13:30 WTA - ROLAND GARROS : Gadecki O. vs Gauff C. - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Gadecki%20O._vs_Gauff%20C..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 16
@@ -1070,7 +440,7 @@ link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-10
 #EXTINF:-1 tvg-id="LNB - Paris vs Dijon" tvg-name="20:30 LNB : Paris vs Dijon - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Paris_vs_Dijon.png" group-title="Basket", Sport 5 Stars Israel
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-147.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="NBB - Franca vs Flamengo" tvg-name="00:45 NBB : Franca vs Flamengo - 27/05/25" tvg-logo="https://i.pinimg.com/originals/94/ad/28/94ad289c8ace7a595b24658e01b2d8d2.png" group-title="Basket", SporTV2 BR
+#EXTINF:-1 tvg-id="NBB - Franca vs Flamengo" tvg-name="00:45 NBB : Franca vs Flamengo - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Franca_vs_Flamengo.png" group-title="Basket", SporTV2 BR
 link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="WNBA - Golden State Valkyries vs New York Liberty" tvg-name="01:00 WNBA : Golden State Valkyries vs New York Liberty - 27/05/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Golden%20State%20Valkyries_vs_New%20York%20Liberty.png" group-title="Basket", MY9TV USA

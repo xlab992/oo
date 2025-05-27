@@ -3,7 +3,7 @@
 Questo repository contiene script Python per generare automaticamente liste M3U di canali televisivi italiani, con un focus sugli eventi sportivi e la possibilità di utilizzare un proxy per una maggiore stabilità dei flussi.
 
 Si possono utilizzare due proxy, proxydd,tvproxy e mediaflow proxy
-per OMG consiglio Mediaflow, a breve uscirà una versione che consentirà di far partire anche i flussi HAT.
+per OMG consiglio Mediaflow, a breve uscirà una versione che consentirà di far partire anche i flussi HAT (H) e (Hd) e Thisnot (TN)
 
 **Link ai proxy**
 https://github.com/ciccioxm3/proxydd 

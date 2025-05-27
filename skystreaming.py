@@ -12,8 +12,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Carica le variabili d'ambiente
-PROXY_URL = os.getenv("PROXYMFP")
+PROXY_URL = os.getenv("PROXYMFP", "")
 SKYSTR = os.getenv("SKYSTR")
+PROXY_NOPSW = os.getenv("PROXYMFPNOPSW", "")
 
 # Definizione degli headers per le richieste
 headers = {
@@ -153,7 +154,7 @@ def generate_proxy_url(m3u8_url, Host, Origin):
     # Instead of using Origin variable
 
     # Costruisci l'URL proxy completo
-    proxy_url = f"{PROXY_URL}{encoded_link}&h_user-agent={user_agent}&h_referer={referer}&h_origin={origin}"
+    proxy_url = f"{PROXY_URL}{PROXY_NOPSW}{encoded_link}&h_user-agent={user_agent}&h_referer={referer}&h_origin={origin}"
 
     return proxy_url
 

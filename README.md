@@ -43,10 +43,33 @@ Prima di poter generare le liste, è necessario configurare alcuni parametri neg
 
 Modifica il file:
 *   `.env`
-*   `fullita.py`
-*   `itaevents.py`
-*   `onlyevents.py`
-  
+*   Descrizione del file
+  ```python
+#lasciare vuoto proxy e inserire mfpdd e mfpdd2 se si vuole tutto su mfp, altrimenti vuoto mfpdd e mfpdd2 con link proxy propolato
+PROXY=""
+#https://link.proxy.tvproxy**/proxy/m3u?url=  
+MFPDD="link.proxy.mfp/extractor/video?host=DLHD&d=" 
+#inserire link mfp
+MFPDD2="&redirect_stream=true&api_password=PASSWORD"  
+#inserire password
+GUARCAL="sbs"  
+#cambiare se non funzionano i loghi per la serie a verificare sito guardacalcio
+DADDY="dad"   
+#cambiare se daddylive cambka dominio 
+SKYSTR="stream"  
+#cambiate se slystreaming non prende piu nessun link 
+PROXYMFP="link.proxy.mfp/proxy/hls/manifest.m3u8?api_password=PASSWORD&d="  
+#inserire link e password solo per vavoo e skystreaming
+PROXYMFPMPD="link.proxy.mpd/proxy/mpd/manifest.m3u8" 
+# inserire link, serve solo ler mfp quindi hattrick link H e Hd
+PSWMFP="PASSWORD"  
+# password mfp per mpd hattrick 
+HEADER="&h_user-agent=VAVOO/2.6&h_referer= https://vavoo.to/"
+NOMEGITHUB=NOMEGIT   
+#nome utente di git
+NOMEREPO=NOMEREPO  
+#nome repo di gir default OMGTV
+  ```
 All'interno di ciascuno di questi file, individua e modifica la riga seguente:
 
 ```python

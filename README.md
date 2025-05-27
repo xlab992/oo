@@ -43,66 +43,35 @@ Prima di poter generare le liste, è necessario configurare alcuni parametri neg
 
 Modifica il file:
 *   `.env`
-*   Descrizione del file
+  
+    Descrizione del file
   ```python
 #lasciare vuoto proxy e inserire mfpdd e mfpdd2 se si vuole tutto su mfp, altrimenti vuoto mfpdd e mfpdd2 con link proxy propolato
 PROXY=""
-#https://link.proxy.tvproxy**/proxy/m3u?url=  
+#https://link.proxy.tvproxy/proxy/m3u?url=  
 MFPDD="link.proxy.mfp/extractor/video?host=DLHD&d=" 
-#inserire link mfp
+#inserire link mfp lasciare virgolette  (cambiare link.proxy.mfp con il proprio link)
 MFPDD2="&redirect_stream=true&api_password=PASSWORD"  
-#inserire password
+#inserire PASSWORD
 GUARCAL="sbs"  
-#cambiare se non funzionano i loghi per la serie a verificare sito guardacalcio
+#cambiare se non funzionano i loghi per la serie a verificare sito guardacalcio https://t.me/guardacalcio
 DADDY="dad"   
-#cambiare se daddylive cambka dominio 
+#cambiare se daddylive cambka dominio https://daddylive.sx
 SKYSTR="stream"  
-#cambiate se slystreaming non prende piu nessun link 
+#cambiate se slystreaming non prende piu nessun link  controllate su giardiniblog o siti vari
 PROXYMFP="link.proxy.mfp/proxy/hls/manifest.m3u8?api_password=PASSWORD&d="  
-#inserire link e password solo per vavoo e skystreaming
+#inserire link e password solo per vavoo e skystreaming (modificare link.proxy.mfp e PASSWORD)
 PROXYMFPMPD="link.proxy.mpd/proxy/mpd/manifest.m3u8" 
-# inserire link, serve solo ler mfp quindi hattrick link H e Hd
+# inserire link, serve solo ler mfp quindi hattrick link H e Hd     (modificare link.proxy.mpd)
 PSWMFP="PASSWORD"  
-# password mfp per mpd hattrick 
+# password mfp
 HEADER="&h_user-agent=VAVOO/2.6&h_referer= https://vavoo.to/"
 NOMEGITHUB=NOMEGIT   
 #nome utente di git
 NOMEREPO=NOMEREPO  
 #nome repo di gir default OMGTV
   ```
-All'interno di ciascuno di questi file, individua e modifica la riga seguente:
-
-```python
-Daddy
-PRXLINK = "inserisci il tuo link proxy senza / finale"
-```
-
   
-### 2. Script Basato su Vavoo
-Modifica lo script:
-
-- vavoo.py
-All'interno di questo file, individua e modifica le seguenti righe:
-
-```python
-Vavoo
-USREPG = "inserisci il nome del tuo account github"
-BRANCHEPG = "inserisci il nome del tuo fork"
-MFPLINK = "inserisci url del tuo mfp (sempre formato embed)"     # non mettere lo / finale al link
-MFPPSW = "inserisci password del tuo mfp"
-```
-
-### 3. Script Basato su Hattr1ck
-
-Modifica lo script:
-
-- hat.py
-All'interno di questo file, individua e modifica le seguenti righe:
-
-```python
-MFPLINK = "inserisci url del tuo mfp (sempre formato embed)"     # non mettere lo / finale al link
-```
-
   
 ## ⚙️ Configurazione e Esecuzione dei Workflow GitHub Actions
 Dopo aver modificato e committato gli script sul tuo repository GitHub:
@@ -113,59 +82,44 @@ Dopo aver modificato e committato gli script sul tuo repository GitHub:
 4. Nel menu a sinistra, clicca su Actions e poi su General .
 5. Scorri fino alla sezione "Workflow permissions".
 6. Seleziona l'opzione Read and write permissions .
-7. Clicca su Save .
+7. Clicca su Save.
 
    
 ### Esecuzione dei Workflow
 Torna alla sezione Actions . Esegui i workflow nel seguente ordine:
 
-1. 🚀 Update 24 7 VV DD ita and world :
+1. 🚀 1 Update 24 7 :
+   - Clicca sul nome del workflow.
+   - Sulla destra, clicca su "Run workflow".
+   - Conferma cliccando sul pulsante verde "Run workflow".
+2. 🚀 2 Update hat :
+   - Clicca sul nome del workflow.
+   - Sulla destra, clicca su "Run workflow".
+   - Conferma cliccando sul pulsante verde "Run workflow".
+3. 🚀 3 Update skystreaming :
+   - Clicca sul nome del workflow.
+   - Sulla destra, clicca su "Run workflow".
+   - Conferma cliccando sul pulsante verde "Run workflow".
+4. 🚀 4 Update itaEvents :
    - Clicca sul nome del workflow.
    - Sulla destra, clicca su "Run workflow".
    - Conferma cliccando sul pulsante verde "Run workflow".
 2. ⏳ ATTENDI IL COMPLETAMENTO del workflow precedente (deve apparire una spunta verde ✅).
-3. ⚽ Update itaEvents :
-   - Stesso procedimento del workflow precedente.
+
      
-4. (Opzionale) 🌍 Update OnlyEvents :
+4. (Opzionale) 🌍1 Update OnlyEvents :
    - Se desideri la lista con TUTTI gli eventi sportivi (molto estesa e potenzialmente con sport di nicchia), esegui anche questo workflow dopo il completamento degli altri.
 Attendi che tutti i workflow selezionati abbiano una spunta verde ✅. Questo indica che le liste M3U sono state generate e aggiornate nel tuo repository.
+
+
 
 ## 🔗 Usare la lista con OMG
 Per utilizzare le liste generate basta andare ad inserire il link raw del file listone.m3u8
 
-## 🔗 Creare una Lista M3U Unica con GitHub Gist
-Per utilizzare facilmente le tue liste M3U generate (ad esempio con l'applicazione OMG), puoi raggrupparle in un unico file Gist:
-
-1. Vai su GitHub Gist https://gist.github.com/ 
-2. Nel campo "Gist description...", inserisci un nome, ad esempio: Le mie liste M3U .
-3. Nel campo "Filename including extension...", inserisci: liste.m3u (o lista.txt , l'importante è che sia un file di testo).
-4. Nel box di testo principale, incolla gli URL diretti (RAW) delle liste M3U generate nel tuo repository. Assicurati di sostituire TUO_USER_GITHUB e TUO_BRANCH_GITHUB con i tuoi dati:
-   
-   ```python
-   https://raw.githubusercontent.com/TUO_USER_GITHUB/NOME_TUO_REPOSITORY/refs/heads/TUO_BRANCH_GITHUB/channels_italy.m3u8
-   
-   https://raw.githubusercontent.com/TUO_USER_GITHUB/NOME_TUO_REPOSITORY/refs/heads/TUO_BRANCH_GITHUB/247ita.m3u8
-   
-   https://raw.githubusercontent.com/TUO_USER_GITHUB/NOME_TUO_REPOSITORY/refs/heads/TUO_BRANCH_GITHUB/itaevents.m3u8
-   
-   # Puoi aggiungere anche altre liste statiche
-   
-   se lo desideri, ad esempio:
-
-   https://tivustream.website/ios/tivustream_list.m3u
-
-   - Nota: Se preferisci la lista con TUTTI gli eventi, sostituisci itaevents.m3u8 con onlyevents.m3u8 .
-     ```
-   
-5. Clicca sul pulsante verde Create secret gist (o Create public gist se preferisci).
-6. Nella pagina del Gist appena creato, cerca il pulsante Raw in alto a destra.
-7. Fai click con il tasto destro del mouse su Raw e seleziona "Copia indirizzo link". Questo è l'URL diretto al tuo Gist contenente tutte le liste.
-
    
 ## 🔌 Utilizzo con OMG (o altre applicazioni)
 1. Apri la tua applicazione (es. OMG).
-2. Nel campo per l'inserimento dell'URL della lista M3U, incolla l'indirizzo link del Raw Gist che hai copiato al passaggio precedente.
-3. Abilita l'opzione per l'EPG senza link. **(per avere l'epg bisogna per forza avere la lista channels_italy.m3u8 in prima posizione nel file raw)**
+2. Nel campo per l'inserimento dell'URL della lista M3U, incolla l'indirizzo link Raw di listone.m3u8.
+3. Abilita l'opzione per l'EPG senza link.
 5. Procedi con la generazione della configurazione o l'installazione dell'addon, come richiesto dalla tua applicazione.
 🎉 Fatto! Ora dovresti avere accesso ai canali tramite le tue liste M3U personalizzate e auto-aggiornate.

@@ -254,7 +254,7 @@ async def main():
             f'#EXTINF:-1 tvg-id="{channel_name_2}" tvg-name="{channel_name_2}" '
             f'tvg-logo="https://skystreaming.{SKYSTR}/content/auto_site_logo.png" '
             f'group-title="SkyStreaming", {channel_name_2} (SS)\n'
-            f'{proxy_url}\n'
+            f'{proxy_url}\n\n'
         )
         with open("247ita.m3u8", "a") as f:
             f.write(m3u_line)

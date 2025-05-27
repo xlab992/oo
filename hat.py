@@ -290,7 +290,7 @@ def create_m3u_entry(channel_name, proxy_url):
     # Crea la riga EXTINF
     extinf = f'#EXTINF:-1 tvg-id="{info["tvg_id"]}" tvg-name="{info["tvg_name"]} " tvg-logo="{info["tvg_logo"]}" group-title="{info["group_title"]}", {info["tvg_name"]} {info["suffix"]}'
     
-    return f"{extinf}\n{proxy_url}\n"
+    return f"{extinf}\n{proxy_url}\n\n"
 
 def add_channels_to_m3u(channels, m3u_file):
     """Aggiunge i canali al file M3U"""

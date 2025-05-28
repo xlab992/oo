@@ -9,6 +9,7 @@ PROXYMFP = os.getenv("PROXYMFP", "")
 NOMEGITHUB = os.getenv("NOMEGITHUB")
 NOMEREPO = os.getenv("NOMEREPO")
 PROXYMFPNOPSW = os.getenv("PROXYMFPNOPSW", "")
+PROXY = os.getenv("PROXY", "")
 
 HEADER = "&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/"
 OUTPUT_FILE = "channels_italy.m3u8"
@@ -309,7 +310,7 @@ def save_m3u8(channels):
                tvg_id_modified = SPECIAL_CHANNEL_MAPPING[tvg_id_modified]
 
             f.write(f'#EXTINF:-1 tvg-id="{tvg_id_modified}.it" tvg-name="{tvg_id}" tvg-logo="{logo}" group-title="{category}",{name}\n')
-            f.write(f"{PROXYMFP}{PROXYMFPNOPSW}{url}{HEADER}\n\n")
+            f.write(f"{PROXY}{PROXYMFP}{PROXYMFPNOPSW}{url}{HEADER}\n\n")
 
 def main():
     channels = fetch_channels()

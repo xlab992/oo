@@ -51,9 +51,13 @@ jobs:
           python itaevents.py
           python fullita.py
 
+      - name: Run script mpdenv
+        run: |
+          python mpdenv.py
+
       - name: Run script mergelists
         run: |
-          python mergelists.py channels_italy.m3u8 247ita.m3u8 itaevents.m3u8
+          python mergelists.py channels_italy.m3u8 247ita.m3u8 mpd.m3u8 itaevents.m3u8
 
       - name: Run script epg
         run: |

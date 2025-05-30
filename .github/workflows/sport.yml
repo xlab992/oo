@@ -1,4 +1,4 @@
-name: SportStreaming Scraper
+name: 5 SportStreaming Scraper
 
 on:
   workflow_dispatch:

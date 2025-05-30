@@ -1,4 +1,4 @@
-name: SportZone Scraper
+name: 4 SportZone Scraper
 
 on:
   workflow_dispatch:  # Permette l'esecuzione manuale

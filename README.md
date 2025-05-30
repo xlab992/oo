@@ -46,28 +46,59 @@ Modifica il file:
   
     Descrizione del file
   ```python
-#lasciare vuoto proxy e inserire mfpdd e mfpdd2 se si vuole tutto su mfp, altrimenti vuoto mfpdd e mfpdd2 con link proxy propolato
+#Ci sono 3 modi per vedere i canali, 
+# 1) Daddy e Vavoo con Proxy nostro (TVproxy) https://github.com/nzo66/tvproxy e tutto il resto con MFP normale dal branch originale (in questo modo non funzionano gli mpd)
+# per questo primo caso va compilata la variabile : PROXY 
+# LASCIARE TUTTE LE ALTRE VARIABILI VUOTE TRANNE GUARCAL,DADDY,SKYSTR, HEADER, NOMEGITHUB e NOMEREPO TUTTE LE ALTRE SOLO ""   PER ESEMPIO MFPDD="" 
+#
+# 2) Tutto con 1 MFP con Password, non funzionano link MPD  https://github.com/mhdzumair/mediaflow-proxy
+# per questo secondo caso compilare le variabili : MFPDD, MFPDD2, PROXYMFP, PSWMFP
+# LASCIARE TUTTE LE ALTRE VARIABILI VUOTE TRANNE GUARCAL,DADDY,SKYSTR, HEADER, NOMEGITHUB e NOMEREPO TUTTE LE ALTRE SOLO ""   PER ESEMPIO PROXY="" 
+#
+# 3) Tutto con 1 MFP senza password, fork di https://github.com/aleZZ2001/mediaflow-proxy
+# per questo secondo caso compilare le variabili : MFPDD, MFPDDNOPSW(lasciare stringa come la trovate, non serve inserire nulla), PROXYMFPNOPSW, PROXYMFPMPD
+# LASCIARE TUTTE LE ALTRE VARIABILI VUOTE TRANNE GUARCAL,DADDY,SKYSTR, HEADER, NOMEGITHUB e NOMEREPO TUTTE LE ALTRE SOLO ""   PER ESEMPIO PROXY="" 
+
+
+
 PROXY=""
-#https://link.proxy.tvproxy/proxy/m3u?url=  
-MFPDD="link.proxy.mfp/extractor/video?host=DLHD&d=" 
-#inserire link mfp lasciare virgolette  (cambiare link.proxy.mfp con il proprio link)
-MFPDD2="&redirect_stream=true&api_password=PASSWORD"  
-#inserire PASSWORD
+#https://link.proxy.tvproxy/proxy/m3u?url=
+
+MFPDD="https://link.proxy.mfp/extractor/video?host=DLHD&d=" 
+#inserire link mfp
+
+MFPDD2=""  
+#inserire password, lasciare vuoto se si vuole usare mfp senza psw. altrimenti    
+#&redirect_stream=true&api_password=PASSWORD
+
+MFPDDNOPSW="&redirect_stream=true"
+#se si usa mfp con psw lasciare vuoto
+
 GUARCAL="sbs"  
-#cambiare se non funzionano i loghi per la serie a verificare sito guardacalcio https://t.me/guardacalcio
+#cambiare se non funzionano i loghi per la serie a verificare sito guardacalcio
 DADDY="dad"   
-#cambiare se daddylive cambka dominio https://daddylive.sx
+#cambiare se daddylive cambka dominio 
 SKYSTR="stream"  
-#cambiate se slystreaming non prende piu nessun link  controllate su giardiniblog o siti vari
-PROXYMFP="link.proxy.mfp/proxy/hls/manifest.m3u8?api_password=PASSWORD&d="  
-#inserire link e password solo per vavoo e skystreaming (modificare link.proxy.mfp e PASSWORD)
-PROXYMFPMPD="link.proxy.mpd/proxy/mpd/manifest.m3u8" 
-# inserire link, serve solo ler mfp quindi hattrick link H e Hd     (modificare link.proxy.mpd)
+#cambiate se skystreaming non prende piu nessun link 
+
+PROXYMFP=""  
+#inserire link e password solo per vavoo e skystreaming lasciare vuoto se si usa mfp senza psw altrimenti 
+#https://link.proxy.mfp/proxy/hls/manifest.m3u8?api_password=PASSWORD&d=
+
+PROXYMFPNOPSW="https://link.proxy.mfp/proxy/hls/manifest.m3u8?&d=" 
+#inserire link, per mfp senza psw
+
+PROXYMFPMPD="https://link.proxy.mpd/proxy/mpd/manifest.m3u8" 
+# inserire link, serve solo ler mfp quindi hattrick link H e Hd
+
 PSWMFP="PASSWORD"  
-# password mfp
+# password mfp per mpd hattrick 
+
 HEADER="&h_user-agent=VAVOO/2.6&h_referer= https://vavoo.to/"
+
 NOMEGITHUB=NOMEGIT   
 #nome utente di git
+
 NOMEREPO=NOMEREPO  
 #nome repo di gir default OMGTV
   ```
@@ -86,7 +117,10 @@ Dopo aver modificato e committato gli script sul tuo repository GitHub:
 
    
 ### Esecuzione dei Workflow (solo la prima volta, poi va in automatico)
-Torna alla sezione Actions . Esegui i workflow nel seguente ordine:
+### RINOMINA FILEmpd.m3u8 in mpd.3u8 
+Torna alla sezione Actions . 
+
+Esegui i workflow nel seguente ordine:
 
 1. 🚀 1 Update 24 7 :
    - Clicca sul nome del workflow.
@@ -100,21 +134,34 @@ Torna alla sezione Actions . Esegui i workflow nel seguente ordine:
    - Clicca sul nome del workflow.
    - Sulla destra, clicca su "Run workflow".
    - Conferma cliccando sul pulsante verde "Run workflow".
-3. 🚀 3.5 Update thisnot :
+4. 🚀 3.5 Update thisnot :
    - Clicca sul nome del workflow.
    - Sulla destra, clicca su "Run workflow".
    - Conferma cliccando sul pulsante verde "Run workflow".
-4. 🚀 4 Update itaEvents :
+5. 🚀 4 Update SportZone Scraper :
    - Clicca sul nome del workflow.
    - Sulla destra, clicca su "Run workflow".
    - Conferma cliccando sul pulsante verde "Run workflow".
-2. ⏳ ATTENDI IL COMPLETAMENTO del workflow precedente (deve apparire una spunta verde ✅).
+3. 🚀 5 Update SportStreaming Scraper :
+   - Clicca sul nome del workflow.
+   - Sulla destra, clicca su "Run workflow".
+   - Conferma cliccando sul pulsante verde "Run workflow".
+6. 🚀 6 Update top1 Scraper :
+   - Clicca sul nome del workflow.
+   - Sulla destra, clicca su "Run workflow".
+   - Conferma cliccando sul pulsante verde "Run workflow".
+7. 🚀 7 Update itaEvents :
+   - Clicca sul nome del workflow.
+   - Sulla destra, clicca su "Run workflow".
+   - Conferma cliccando sul pulsante verde "Run workflow".
+8. ⏳ ATTENDI IL COMPLETAMENTO del workflow precedente (deve apparire una spunta verde ✅).
 
      
-4. (Opzionale) 🌍1 Update OnlyEvents :
+9. (Opzionale) 🌍1 Update OnlyEvents :
    - Se desideri la lista con TUTTI gli eventi sportivi (molto estesa e potenzialmente con sport di nicchia), esegui anche questo workflow dopo il completamento degli altri.
 Attendi che tutti i workflow selezionati abbiano una spunta verde ✅. Questo indica che le liste M3U sono state generate e aggiornate nel tuo repository.
 
+Per i giorni a seguire non serve fare nulla, partono in automatico, mettere l'aggiornamento delle playlist su OMG ogni ora
 
 
 ## 🔗 Usare la lista con OMG

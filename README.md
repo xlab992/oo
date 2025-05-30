@@ -121,7 +121,7 @@ Dopo aver modificato e committato gli script sul tuo repository GitHub:
 
    
 ### Esecuzione dei Workflow (solo la prima volta, poi va in automatico)
-### RINOMINA FILEmpd.m3u8 in mpd.3u8 
+### RINOMINA FILEmpd.m3u8 in mpd.m3u8 
 Torna alla sezione Actions . 
 
 Esegui i workflow nel seguente ordine:

@@ -12,6 +12,10 @@ seguire le info di installazione nel readme
 
 https://github.com/mhdzumair/mediaflow-proxy
 
+
+questo invece serve per i link mpd, va installato senza API_PASSWORD!
+https://github.com/aleZZ2001/mediaflow-proxy
+
 per far girare anche i link HAT andarà installata una versione diversa di Mediaflow, quando sarà disponibile aggiornerò il readme
 
 ## ✨ Liste M3U Disponibili

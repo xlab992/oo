@@ -1,8 +1,8 @@
 name: 1 opzionale Update OnlyEvents
 
 on:
-  schedule:
-    - cron: "0 4 * * *" #alle 6 ogni giorno
+#  schedule:
+#    - cron: "0 4 * * *" #alle 6 ogni giorno
   workflow_dispatch:
 permissions:
   contents: write  # To push changes to repository

@@ -1,7 +1,7 @@
 name: 3 Update skystreaming
 on:
-  schedule:
-    - cron: "25 10 * * *"
+#  schedule:
+#    - cron: "25 10 * * *"
   workflow_dispatch:
 permissions:
   contents: write  # To push changes to repository

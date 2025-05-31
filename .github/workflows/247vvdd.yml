@@ -1,8 +1,8 @@
 name: 1 Update 24 7
 
 on:
-  schedule:
-    - cron: "10 10 * * *" # ogni 2 giorni alle 2 di notte CEST
+#  schedule:
+#    - cron: "10 10 * * *" # ogni 2 giorni alle 2 di notte CEST
   workflow_dispatch:
 
 jobs:

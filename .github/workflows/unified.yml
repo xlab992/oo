@@ -2,7 +2,7 @@ name: Unified Workflow - All Scripts Sequential
 
 on:
   schedule:
-    - cron: "0 7,9,10,12,14 * * *"  # 07:30 UTC orario unificato
+    - cron: "0 7,9,10,12,14,16 * * *"  # 07:30 UTC orario unificato
   workflow_dispatch:
 
 permissions:

@@ -1,7 +1,7 @@
 name: 3.5 Update thisnot
 on:
-  schedule:
-    - cron: "35 10 * * *"
+#  schedule:
+#    - cron: "35 10 * * *"
   workflow_dispatch:
 permissions:
   contents: write  # To push changes to repository

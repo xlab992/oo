@@ -2,8 +2,8 @@ name: 4 SportZone Scraper
 
 on:
   workflow_dispatch:  # Permette l'esecuzione manuale
-  schedule:
-    - cron: "32 8 * * *"  # Esegue ogni 15 minuti
+#  schedule:
+#    - cron: "32 8 * * *"  # Esegue ogni 15 minuti
 
 jobs:
   scrape:

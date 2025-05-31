@@ -2,8 +2,8 @@ name: 5 SportStreaming Scraper
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "42 8 * * *"  # Ogni 3 ore
+#  schedule:
+#    - cron: "42 8 * * *"  # Ogni 3 ore
 
 jobs:
   scrape:

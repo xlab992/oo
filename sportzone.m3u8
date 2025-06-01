@@ -24,18 +24,14 @@
 
 
 
-#EXTINF:-1 group-title="SportZone" tvg-logo="https://sportzone.yoga//images/67039b55acd48.png" tvg-name="Basket",Sky Sport vs NBA (SZ)
-https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair
-#EXTINF:-1 group-title="SportZone" tvg-logo="https://sportzone.yoga//images/67039b6f4b47a.png" tvg-name="Basket",Sky Sport vs NBA (SZ)
-https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair
+#EXTINF:-1 group-title="SportZone" tvg-logo="https://sportzone.yoga//images/683832581d9cf.png" tvg-name="Calcio",Ternana vs Pescara (SZ)
+https://hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair
 #EXTINF:-1 group-title="SportZone" tvg-logo="https://sportzone.yoga//images/683831f9395ea.png" tvg-name="Calcio",Spezia vs Cremonese (SZ)
 https://hls.kangal.icu/hls/serieb/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair
 #EXTINF:-1 group-title="SportZone" tvg-logo="https://sportzone.yoga//images/683832148813f.png" tvg-name="Calcio",Vizela vs AFS (SZ)
 https://hls.kangal.icu/hls/portugal/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair
 #EXTINF:-1 group-title="SportZone" tvg-logo="https://sportzone.yoga//images/6838323282a52.png" tvg-name="Calcio",Huracan vs Platense (SZ)
 https://hls.kangal.icu/hls/sportitalia/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair
-#EXTINF:-1 group-title="SportZone" tvg-logo="https://sportzone.yoga//images/683832581d9cf.png" tvg-name="Calcio",Ternana vs Pescara (SZ)
-https://hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair
 #EXTINF:-1 group-title="SportZone" tvg-logo="https://sportzone.yoga//images/683830cc310e6.jpg" tvg-name="FORMULA 1",Gara vs GP Spagna (SZ)
 https://hls.kangal.icu/hls/formula/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair
 #EXTINF:-1 group-title="SportZone" tvg-logo="https://sportzone.yoga//images/6683b5fc5db3b.jpg" tvg-name="Tennis",ATP & WTA vs Sky Sport Tennis (SZ)
@@ -50,3 +46,7 @@ https://hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhon
 https://hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair
 #EXTINF:-1 group-title="SportZone" tvg-logo="https://sportzone.yoga//images/683314eb927b2.png" tvg-name="Tennis",ATP - SINGOLARE - Open di Francia vs ES2 (SZ)
 https://hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair
+#EXTINF:-1 group-title="SportZone" tvg-logo="https://sportzone.yoga//images/67039b55acd48.png" tvg-name="Basket",Sky Sport vs NBA (SZ)
+https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair
+#EXTINF:-1 group-title="SportZone" tvg-logo="https://sportzone.yoga//images/67039b6f4b47a.png" tvg-name="Basket",Sky Sport vs NBA (SZ)
+https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair

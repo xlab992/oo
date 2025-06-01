@@ -12,8 +12,7 @@ from urllib.parse import urljoin
 from dotenv import load_dotenv
 load_dotenv()
 
-PROXYMFPMPD = os.getenv("PROXYMFPMPD")
-PSWMFP = os.getenv("PSWMFP")
+PROXYMFPMPD = os.getenv("MPDPROXYMFP")
 
 # Funzioni dal tuo mpd_decoder.py
 def extract_mpd_link_from_page(url):

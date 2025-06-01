@@ -16,7 +16,7 @@ headers = {
 }
 
 # Prefisso per il proxy dello stream
-PROXY_STREAM_PREFIX = os.getenv("PROXYMFP")
+PROXY_STREAM_PREFIX = os.getenv("HLSPROXYMFP")
 
 # Funzione helper per formattare la data dell'evento
 def format_event_date(date_text):

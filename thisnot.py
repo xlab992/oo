@@ -13,8 +13,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Carica le variabili d'ambiente necessarie
-PROXYMFPMPD = os.getenv("PROXYMFPMPD")
-PSWMFP = os.getenv("PSWMFP")
+PROXYMFPMPD = os.getenv("MPDPROXYMFP")
 
 if not PROXYMFPMPD:
     print("Errore: La variabile d'ambiente PROXYMFPMPD non è impostata. Impossibile generare URL proxy.")

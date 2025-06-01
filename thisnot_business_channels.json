@@ -1,16 +1,4 @@
 {
-  "https://thisnot.business/player.php?id=SportCalcio_IT": {
-    "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665",
-    "info": {
-      "category": "CALCIO",
-      "title": "SERIE C PLAYOFF, FINALE - ITALIA",
-      "date": "LUNEDI 2 GIUGNO (Andata)",
-      "event": "21:15 Ternana - Pescara",
-      "channel": "Sky Sport",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=SportCalcio_IT"
-    }
-  },
   "https://thisnot.business/player.php?id=SportF1_IT": {
     "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd%3F%26ck%3DMDAzNmE5NmI2YmJiZjE4Mjg0ODhmOTBlNmIyY2ExZjQ6ZDI0ZTZhZTkyNmU4OGY4MzAzYjY5MjYyNzFmZjgxNTU%3D&key_id=0036a96b6bbbf1828488f90e6b2ca1f4&key=d24e6ae926e88f8303b6926271ff8155",
     "info": {
@@ -19,7 +7,7 @@
       "date": "DOMENICA 1 GIUGNO",
       "event": "15:00 Gara",
       "channel": "Sky Sport",
-      "language": "it",
+      "language": "",
       "url": "https://thisnot.business/player.php?id=SportF1_IT"
     }
   },
@@ -35,6 +23,18 @@
       "url": "https://thisnot.business/player.php?id=TSN5"
     }
   },
+  "https://thisnot.business/player.php?id=SportCalcio_IT": {
+    "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665",
+    "info": {
+      "category": "CALCIO",
+      "title": "SERIE C PLAYOFF, FINALE - ITALIA",
+      "date": "LUNEDI 2 GIUGNO (Andata)",
+      "event": "21:15 Ternana - Pescara",
+      "channel": "Sky Sport",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=SportCalcio_IT"
+    }
+  },
   "https://thisnot.business/player.php?id=Eurosport1RG": {
     "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750",
     "info": {
@@ -43,7 +43,7 @@
       "date": "LUNEDI 26 MAGGIO - DOMENICA 8 GIUGNO",
       "event": "11:00 Live",
       "channel": "Eurosport 1",
-      "language": "ca",
+      "language": "it",
       "url": "https://thisnot.business/player.php?id=Eurosport1RG"
     }
   },
@@ -107,6 +107,18 @@
       "url": "https://thisnot.business/player.php?id=Eurosport6RG"
     }
   },
+  "https://thisnot.business/player.php?id=SportMax_IT": {
+    "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear305-it-dash1-prd.selector.skycdn.it/016a/31248/FHD/skysportmax/master_stereo.mpd%3F%26ck%3DMDAzNmYxM2JjYTFjNTYwM2I5ZjNiYjI4ZWMyOGZhODA6ZjAxNDAzYmNiNWEwMmM2MTE1M2QyOTdmYjBjNDM5NWY%3D&key_id=0036f13bca1c5603b9f3bb28ec28fa80&key=f01403bcb5a02c61153d297fb0c4395f",
+    "info": {
+      "category": "INDYCAR SERIES",
+      "title": "GP DETROIT - USA",
+      "date": "DOMENICA 1 GIUGNO",
+      "event": "18:45 Gara",
+      "channel": "Sky Sport",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=SportMax_IT"
+    }
+  },
   "https://thisnot.business/player.php?id=Eurosport1_IT": {
     "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/master_stereo.mpd%3F%26ck%3DeyIwMDM2YmIzZmE3ZTZmMmMzMzRkN2NiYTVjMjhiNmNhZiI6IjIxN2ZhMzU3MzljZDY4ZTkwYjJjZDIzMzIyYzAxMzEyIn0%3D&key_id=0036bb3fa7e6f2c334d7cba5c28b6caf&key=217fa35739cd68e90b2cd23322c01312",
     "info": {
@@ -125,7 +137,7 @@
       "category": "BASKET",
       "title": "LBA SERIE A, SEMIFINALI - ITALIA",
       "date": "DOMENICA 1 GIUGNO",
-      "event": "02:30 Oklahoma City Thunder v Pacers/Knicks",
+      "event": "02:30 Oklahoma City Thunder v Indiana Pacers",
       "channel": "Sky Sport",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=SportNBA_IT"

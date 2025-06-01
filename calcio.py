@@ -14,7 +14,7 @@ load_dotenv(dotenv_path=dotenv_path)
 output_path = os.path.join(os.getcwd(), "calcio_playlist.m3u8")
 
 # Recupera la variabile d'ambiente PROXYMFP (ora potenzialmente caricata da .env)
-proxy_prefix = os.getenv("PROXYMFP")
+proxy_prefix = os.getenv("HLSPROXYMFP")
 if proxy_prefix is None:
     print("Attenzione: La variabile d'ambiente PROXYMFP non è impostata. I link M3U8 non saranno prefissati.")
     proxy_prefix = "" # Default a stringa vuota se non impostata

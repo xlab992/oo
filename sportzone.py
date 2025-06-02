@@ -361,7 +361,7 @@ def create_m3u8_playlist(events, base_url):
                 original_group_title = event["group_title"] # Es. "Tennis"
                 channel_display_name = f'{event["title"]} (SZ)' # Es. "ATP & WTA vs Sky Sport Tennis (SZ)"
 
-                f.write(f'#EXTINF:-1 group-title="SportZone"{tvg_logo_attr} tvg-name="{original_group_title}",{channel_display_name}\n')
+                f.write(f'#EXTINF:-1 group-title="Sport;SportZone"{tvg_logo_attr} tvg-name="{original_group_title}",{channel_display_name}\n')
                 f.write(f'{final_stream_url}\n\n')
                 print(f"Added to playlist: {channel_display_name} (stream: {final_stream_url}, image: {image_url})")
             else:

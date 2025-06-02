@@ -122,6 +122,7 @@ jobs:
         run: |
           echo "=== STEP 7: Starting Calcio update ==="
           python calcio.py
+          python mpdenv.py
           echo "=== STEP 7: Calcio completed ==="
 
       # STEP 8: Update Itaevents (ULTIMO)

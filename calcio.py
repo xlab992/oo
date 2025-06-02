@@ -21,6 +21,7 @@ if proxy_prefix is None:
 
 base_url = "https://calcionew.newkso.ru/calcio/"
 logo_url = "https://i.postimg.cc/NFGs2Ptq/photo-2025-03-12-12-36-48.png"
+HEADER = "&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fcalcionew.newkso.ru%2F&h_origin=https%3A%2F%2Fcalcionew.newkso.ru"
 
 # Lista dei canali fornita
 channels_raw = [
@@ -132,7 +133,7 @@ for channel_name, channel_url in channels:
     display_name_formatted = f"{channel_name} (CT1)"
 
     m3u8_content += f'#EXTINF:-1 tvg-id="{tvg_id_formatted}" tvg-name="{channel_name}" tvg-logo="{logo_url}" group-title="Calcio Top1",{display_name_formatted}\n'
-    m3u8_content += f"{channel_url}\n\n"
+    m3u8_content += f"{channel_url}{HEADER}\n\n"
 
 # Salva il file
 try:

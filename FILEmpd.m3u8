@@ -1,64 +1,64 @@
-#EXTINF:-1 tvg-id="skysport24.it" group-title="Sky;MPD",Sky Sport 24 (MPD)
+#EXTINF:-1 tvg-id="skysport24.it" group-title="Sport;MPD",Sky Sport 24 (MPD)
 {MPDPROXYMFP}?d=https://linear303-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/master.mpd&key_id=003663ddf1acb25ea88a7cf973afc0d5&key=35ea91b4151d6975007998c328daee6c
 
-#EXTINF:-1 tvg-id="skysportuno.it" group-title="Sky;MPD",Sky Sport Uno (MPD)
+#EXTINF:-1 tvg-id="skysportuno.it" group-title="Sport;MPD",Sky Sport Uno (MPD)
 {MPDPROXYMFP}?d=https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd&key_id=0036aaa1d68c6b487e29a5cb080a8a28&key=a3e8db3ff3c876f7b43a961b64a63474
 
-#EXTINF:-1 tvg-id="skysportcalcio.it" group-title="Sky;MPD",Sky Sport Calcio (MPD)
+#EXTINF:-1 tvg-id="skysportcalcio.it" group-title="Sport;MPD",Sky Sport Calcio (MPD)
 {MPDPROXYMFP}?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665
 
-#EXTINF:-1 tvg-id="skysportf1.it" group-title="Sky;MPD",Sky Sport F1 (MPD)
+#EXTINF:-1 tvg-id="skysportf1.it" group-title="Sport;MPD",Sky Sport F1 (MPD)
 {MPDPROXYMFP}?d=https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master.mpd&key_id=0036a96b6bbbf1828488f90e6b2ca1f4&key=d24e6ae926e88f8303b6926271ff8155
 
-#EXTINF:-1 tvg-id="skysportmotogp.it" group-title="Sky;MPD",Sky Sport MotoGP (MPD)
+#EXTINF:-1 tvg-id="skysportmotogp.it" group-title="Sport;MPD",Sky Sport MotoGP (MPD)
 {MPDPROXYMFP}?d=https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd&key_id=00362e9181eaa0c5f91761ade3515eb8&key=52cf3c27885d58ad76aaf36d4217a984
 
-#EXTINF:-1 tvg-id="skysportarena.it" group-title="Sky;MPD",Sky Sport Arena (MPD)
+#EXTINF:-1 tvg-id="skysportarena.it" group-title="Sport;MPD",Sky Sport Arena (MPD)
 {MPDPROXYMFP}?d=https://linear304-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31024/FHD/skysportarena/master.mpd&key_id=00368f2bf10736c9c2c02ab0fa694d00&key=92eec9d841ac0c1ff16b90a0db82c792
 
-#EXTINF:-1 tvg-id="skysporttennis.it" group-title="Sky;MPD",Sky Sport Tennis (MPD)
+#EXTINF:-1 tvg-id="skysporttennis.it" group-title="Sport;MPD",Sky Sport Tennis (MPD)
 {MPDPROXYMFP}?d=https://linear310-it-dash1-prd.selector.skycdn.it/016a/32559/FHD/skysporttennis/master.mpd&key_id=0036fb7c564c4eb99e310f5fa82ab2f2&key=647f07b6858a669456e73ca103b4c2c0
 
-#EXTINF:-1 tvg-id="skysportnba.it" group-title="Sky;MPD",Sky Sport NBA (MPD)
+#EXTINF:-1 tvg-id="skysportnba.it" group-title="Sport;MPD",Sky Sport NBA (MPD)
 {MPDPROXYMFP}?d=https://linear308-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31764/FHD/skysportnba/master.mpd&key_id=00364eac2ffee337640e39682439b540&key=0960172d9000c470ade0658bd36c1d53
 
-#EXTINF:-1 tvg-id="skysportmax.it" group-title="Sky;MPD",Sky Sport Max (MPD)
+#EXTINF:-1 tvg-id="skysportmax.it" group-title="Sport;MPD",Sky Sport Max (MPD)
 {MPDPROXYMFP}?d=https://linear305-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31248/FHD/skysportmax/master.mpd&key_id=0036f13bca1c5603b9f3bb28ec28fa80&key=f01403bcb5a02c61153d297fb0c4395f
 
-#EXTINF:-1 tvg-id="skysportgolf.it" group-title="Sky;MPD",Sky Sport Golf (MPD)
+#EXTINF:-1 tvg-id="skysportgolf.it" group-title="Sport;MPD",Sky Sport Golf (MPD)
 {MPDPROXYMFP}?d=https://linear309-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32768/FHD/skysportgolf/master.mpd&key_id=00360b7729f74bf56a0a4eb0eda15ec5&key=f8a5f4723c71ac84c2f1ff6f55939a63
 
-#EXTINF:-1 tvg-id="eurosport1.it" group-title="Sky;MPD",Eurosport 1 (MPD)
+#EXTINF:-1 tvg-id="eurosport1.it" group-title="Sport;MPD",Eurosport 1 (MPD)
 {MPDPROXYMFP}?d=https://linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/master.mpd&key_id=0036bb3fa7e6f2c334d7cba5c28b6caf&key=217fa35739cd68e90b2cd23322c01312
 
-#EXTINF:-1 tvg-id="eurosport2.it" group-title="Sky;MPD",Eurosport 2 (MPD)
+#EXTINF:-1 tvg-id="eurosport2.it" group-title="Sport;MPD",Eurosport 2 (MPD)
 {MPDPROXYMFP}?d=https://linear312-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31150/FHD/eurosport2/master.mpd&key_id=003670a7034342a4a07c91173818c61c&key=7b90055c1a1ea34d9090e9ebf6c4db8a
 
-#EXTINF:-1 tvg-id="skysport251.it" group-title="Sky;MPD",Sky Sport Calcio 1 (MPD)
+#EXTINF:-1 tvg-id="skysport251.it" group-title="Sport;MPD",Sky Sport Calcio 1 (MPD)
 {MPDPROXYMFP}?d=https://linear311-it-dash1-prd.selector.skycdn.it/016a/31917/FHD/skysport251/master.mpd&key_id=0036384f59a2b80ed142f82250c79f77&key=2e6507cb779a28739b0bb1564f418823
 
-#EXTINF:-1 tvg-id="skysport252.it" group-title="Sky;MPD",Sky Sport Calcio 2 (MPD)
+#EXTINF:-1 tvg-id="skysport252.it" group-title="Sport;MPD",Sky Sport Calcio 2 (MPD)
 {MPDPROXYMFP}?d=https://linear312-it-dash1-prd.selector.skycdn.it/016a/32951/FHD/skysport252/master.mpd&key_id=003610b4ce44ba838c199b6636cf7431&key=8369cbbccf0c1ff6bdbacbdae9252a04
 
-#EXTINF:-1 tvg-id="skysport253.it" group-title="Sky;MPD",Sky Sport Calcio 3 (MPD)
+#EXTINF:-1 tvg-id="skysport253.it" group-title="Sport;MPD",Sky Sport Calcio 3 (MPD)
 {MPDPROXYMFP}?d=https://linear311-it-dash1-prd.selector.skycdn.it/016a/32233/FHD/skysport253/master.mpd&key_id=0036d3b63b421abd69d9f0d3b6bdcf19&key=0725c3162d5aefbf9c6d144f06ea0c92
 
-#EXTINF:-1 tvg-id="skysport254.it" group-title="Sky;MPD",Sky Sport Calcio 4 (MPD)
+#EXTINF:-1 tvg-id="skysport254.it" group-title="Sport;MPD",Sky Sport Calcio 4 (MPD)
 {MPDPROXYMFP}?d=https://linear312-it-dash1-prd.selector.skycdn.it/016a/31234/FHD/skysport254/master.mpd&key_id=00369c14c20b78aadb1ec0e3c0e74979&key=e768767e2c7238d8069887bb36aed7fa
 
-#EXTINF:-1 tvg-id="skysport255.it" group-title="Sky;MPD",Sky Sport Calcio 5 (MPD)
+#EXTINF:-1 tvg-id="skysport255.it" group-title="Sport;MPD",Sky Sport Calcio 5 (MPD)
 {MPDPROXYMFP}?d=https://linear311-it-dash1-prd.selector.skycdn.it/016a/32910/FHD/skysport255/master.mpd&key_id=0036b781a22ebb0c20c16ac27d5d1448&key=f309b94acfda720bf1ed5741489f8967
 
-#EXTINF:-1 tvg-id="skysport256.it" group-title="Sky;MPD",Sky Sport Calcio 6 (MPD)
+#EXTINF:-1 tvg-id="skysport256.it" group-title="Sport;MPD",Sky Sport Calcio 6 (MPD)
 {MPDPROXYMFP}?d=https://linear312-it-dash1-prd.selector.skycdn.it/016a/31912/FHD/skysport256/master.mpd&key_id=00366f263859fc1cc82d2c4da6a66ef6&key=754ae922d113c54349002cd9a88694a4
 
-#EXTINF:-1 tvg-id="skysport257.it" group-title="Sky;MPD",Sky Sport Calcio 7 (MPD)
+#EXTINF:-1 tvg-id="skysport257.it" group-title="Sport;MPD",Sky Sport Calcio 7 (MPD)
 {MPDPROXYMFP}?d=https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31775/FHD/skysport257/master.mpd&key_id=0036faeace9872d3ceeb8b1b63f0baa3&key=dbd41ee944243307d39b7b27f16615a8
 
-#EXTINF:-1 tvg-id="skysport258.it" group-title="Sky;MPD",Sky Sport Calcio 8 (MPD)
+#EXTINF:-1 tvg-id="skysport258.it" group-title="Sport;MPD",Sky Sport Calcio 8 (MPD)
 {MPDPROXYMFP}?d=https://linear312-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32772/skysport258/master.mpd&key_id=0036fd8ccfddba47c8b40aeff63a797c&key=dfd5c9d0f4ac6f3a1bd89803399e7026
 
-#EXTINF:-1 tvg-id="skysport259.it" group-title="Sky;MPD",Sky Sport Calcio 9 (MPD)
+#EXTINF:-1 tvg-id="skysport259.it" group-title="Sport;MPD",Sky Sport Calcio 9 (MPD)
 {MPDPROXYMFP}?d=https://linear311-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31613/skysport259/master.mpd&key_id=0036644f7699f43e401f88d920dc385c&key=e5b0cebdc3edd7996d283041535fce9c
 
 #EXTINF:-1 tvg-id="skycinemauno.it" group-title="Sky;MPD",Sky Cinema Uno (MPD)
@@ -121,5 +121,5 @@
 #EXTINF:-1 tvg-id="comedycentral.it" group-title="Sky;MPD",Comedy Central (MPD)
 {MPDPROXYMFP}?d=https://linear309-it-dash1-prd-akp1.cdn13.skycdp.com/016a/32404/comedycentral/master.mpd&key_id=0036f3ec4ac7d836b5bf9fa79f3041b6&key=c02271563d97b1e7e755484279f2b55c
 
-#EXTINF:-1 tvg-id="dazn1.it" group-title="Sky;MPD",DAZN 1 (MPD)
+#EXTINF:-1 tvg-id="dazn1.it" group-title="Sport;MPD",DAZN 1 (MPD)
 {MPDPROXYMFP}?d=https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-024/stream.mpd&key_id=8ab47741930c476780515f9a00decb0a&key=7ab4b9ae5a48aa526e511a913b832769

@@ -10,7 +10,7 @@ def update_proxy_links(m3u8_filepath, env_filepath):
     load_dotenv(dotenv_path=env_filepath)
 
     # Ottieni le configurazioni dal file .env
-    proxy_base_url = os.getenv("PROXYMFPMPD")
+    proxy_base_url = os.getenv("MPDPROXYMFP")
 
     # Validazione delle variabili d'ambiente necessarie
     if not proxy_base_url:
@@ -20,7 +20,7 @@ def update_proxy_links(m3u8_filepath, env_filepath):
     print(f"Utilizzo del proxy base URL: {proxy_base_url}")
 
     # Il placeholder specifico da cercare e sostituire nel file M3U8
-    placeholder_to_replace = "{PROXYMFPMPD}"
+    placeholder_to_replace = "{MPDPROXYMFP}"
     print(f"Placeholder da cercare e sostituire: {placeholder_to_replace}")
 
     

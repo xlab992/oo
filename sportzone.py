@@ -14,11 +14,12 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
+SPZO = os.getenv("SPZO")
 PROXY_STREAM_PREFIX = os.getenv("HLSPROXYMFP")
 SCRIPT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1", # O qualsiasi UA tu stia usando
-    "Referer": "https://sportzone.hair/", # O qualsiasi Referer tu stia usando
-    "Origin": "https://sportzone.hair"   # O qualsiasi Origin tu stia usando
+    "Referer": f"https://sportzone.{SPZO}/", # O qualsiasi Referer tu stia usando
+    "Origin": f"https://sportzone.{SPZO}"   # O qualsiasi Origin tu stia usando
 }
 
 

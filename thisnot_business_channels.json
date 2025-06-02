@@ -1,35 +1,11 @@
 {
-  "https://thisnot.business/player.php?id=SportF1_IT": {
-    "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd%3F%26ck%3DMDAzNmE5NmI2YmJiZjE4Mjg0ODhmOTBlNmIyY2ExZjQ6ZDI0ZTZhZTkyNmU4OGY4MzAzYjY5MjYyNzFmZjgxNTU%3D&key_id=0036a96b6bbbf1828488f90e6b2ca1f4&key=d24e6ae926e88f8303b6926271ff8155",
-    "info": {
-      "category": "FORMULA 1",
-      "title": "GP BARCELLONA - SPAGNA",
-      "date": "DOMENICA 1 GIUGNO",
-      "event": "15:00 Gara",
-      "channel": "Sky Sport",
-      "language": "",
-      "url": "https://thisnot.business/player.php?id=SportF1_IT"
-    }
-  },
-  "https://thisnot.business/player.php?id=TSN5": {
-    "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://live-cito.9c9media.ca/5d56690552e77e26848799912ac055919f78d5e71725017868382/f/tsn5/manifest.mpd&key_id=f4608dc9b6164cd7b96791af91cc334c&key=8d4bc6537629d3f7ad5aa4e75516f6da",
-    "info": {
-      "category": "FORMULA 1",
-      "title": "GP BARCELLONA - SPAGNA",
-      "date": "DOMENICA 1 GIUGNO",
-      "event": "15:00 Gara",
-      "channel": "TSN",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=TSN5"
-    }
-  },
   "https://thisnot.business/player.php?id=SportCalcio_IT": {
     "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665",
     "info": {
       "category": "CALCIO",
-      "title": "SERIE C PLAYOFF, FINALE - ITALIA",
-      "date": "LUNEDI 2 GIUGNO (Andata)",
-      "event": "21:15 Ternana - Pescara",
+      "title": "UEFA NATIONS LEAGUE - SEMIFINALI",
+      "date": "MERCOLEDI 4 GIUGNO",
+      "event": "21:00 Spagna - Francia",
       "channel": "Sky Sport",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=SportCalcio_IT"
@@ -107,52 +83,28 @@
       "url": "https://thisnot.business/player.php?id=Eurosport6RG"
     }
   },
-  "https://thisnot.business/player.php?id=SportMax_IT": {
-    "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear305-it-dash1-prd.selector.skycdn.it/016a/31248/FHD/skysportmax/master_stereo.mpd%3F%26ck%3DMDAzNmYxM2JjYTFjNTYwM2I5ZjNiYjI4ZWMyOGZhODA6ZjAxNDAzYmNiNWEwMmM2MTE1M2QyOTdmYjBjNDM5NWY%3D&key_id=0036f13bca1c5603b9f3bb28ec28fa80&key=f01403bcb5a02c61153d297fb0c4395f",
+  "https://thisnot.business/player.php?id=Eurosport2_IT": {
+    "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/master_stereo.mpd%3F%26ck%3DeyIwMDM2NzBhNzAzNDM0MmE0YTA3YzkxMTczODE4YzYxYyI6IjdiOTAwNTVjMWExZWEzNGQ5MDkwZTllYmY2YzRkYjhhIn0%3D&key_id=003670a7034342a4a07c91173818c61c&key=7b90055c1a1ea34d9090e9ebf6c4db8a",
     "info": {
-      "category": "INDYCAR SERIES",
-      "title": "GP DETROIT - USA",
-      "date": "DOMENICA 1 GIUGNO",
-      "event": "18:45 Gara",
-      "channel": "Sky Sport",
+      "category": "BASKET",
+      "title": "NBA FINALS, GARA 2 - USA",
+      "date": "LUNEDI 9 GIUGNO",
+      "event": "20:45 Virtus Bologna v EA7 Milano (Gara 3)",
+      "channel": "Eurosport 2",
       "language": "it",
-      "url": "https://thisnot.business/player.php?id=SportMax_IT"
-    }
-  },
-  "https://thisnot.business/player.php?id=Eurosport1_IT": {
-    "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/master_stereo.mpd%3F%26ck%3DeyIwMDM2YmIzZmE3ZTZmMmMzMzRkN2NiYTVjMjhiNmNhZiI6IjIxN2ZhMzU3MzljZDY4ZTkwYjJjZDIzMzIyYzAxMzEyIn0%3D&key_id=0036bb3fa7e6f2c334d7cba5c28b6caf&key=217fa35739cd68e90b2cd23322c01312",
-    "info": {
-      "category": "EXTRA",
-      "title": "CANALI SPORTIVI",
-      "date": "TUTTI I GIORNI",
-      "event": "Live",
-      "channel": "Eurosport 1",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=Eurosport1_IT"
+      "url": "https://thisnot.business/player.php?id=Eurosport2_IT"
     }
   },
   "https://thisnot.business/player.php?id=SportNBA_IT": {
     "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd&key_id=00364eac2ffee337640e39682439b540&key=0960172d9000c470ade0658bd36c1d53",
     "info": {
       "category": "BASKET",
-      "title": "LBA SERIE A, SEMIFINALI - ITALIA",
-      "date": "DOMENICA 1 GIUGNO",
+      "title": "NBA FINALS, GARA 2 - USA",
+      "date": "LUNEDI 9 GIUGNO",
       "event": "02:30 Oklahoma City Thunder v Indiana Pacers",
       "channel": "Sky Sport",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=SportNBA_IT"
-    }
-  },
-  "https://thisnot.business/player.php?id=Eurosport2_IT": {
-    "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/master_stereo.mpd%3F%26ck%3DeyIwMDM2NzBhNzAzNDM0MmE0YTA3YzkxMTczODE4YzYxYyI6IjdiOTAwNTVjMWExZWEzNGQ5MDkwZTllYmY2YzRkYjhhIn0%3D&key_id=003670a7034342a4a07c91173818c61c&key=7b90055c1a1ea34d9090e9ebf6c4db8a",
-    "info": {
-      "category": "EXTRA",
-      "title": "CANALI SPORTIVI",
-      "date": "TUTTI I GIORNI",
-      "event": "Live",
-      "channel": "Eurosport 2",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=Eurosport2_IT"
     }
   },
   "https://thisnot.business/player.php?id=Sport24_IT": {

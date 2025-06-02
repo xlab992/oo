@@ -12,8 +12,10 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Carica le variabili d'ambiente
-PROXY_URL = os.getenv("PROXYMFP")
+PROXY_URL = os.getenv("HLSPROXYMFP", "")
 SKYSTR = os.getenv("SKYSTR")
+PROXY_NOPSW = os.getenv("HLSPROXYMFPNOPSW", "")
+
 
 # Definizione degli headers per le richieste
 headers = {

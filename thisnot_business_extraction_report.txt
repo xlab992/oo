@@ -6,19 +6,11 @@ Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
   Stato Estrazione: OK - Proxy generato: https://xlab992-enzumfp.hf.space/proxy/mpd/manifest.m3u8?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665
 
 Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
-  Dettagli: Categoria='CALCIO', Evento='21:15 Ternana - Pescara', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://xlab992-enzumfp.hf.space/proxy/mpd/manifest.m3u8?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665
-
-Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
   Dettagli: Categoria='CALCIO', Evento='21:00 Germania - Portogallo', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://xlab992-enzumfp.hf.space/proxy/mpd/manifest.m3u8?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665
 
 Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
   Dettagli: Categoria='CALCIO', Evento='21:00 Spagna - Francia', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://xlab992-enzumfp.hf.space/proxy/mpd/manifest.m3u8?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665
-
-Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
-  Dettagli: Categoria='CALCIO', Evento='21:15 Ternana - Pescara', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://xlab992-enzumfp.hf.space/proxy/mpd/manifest.m3u8?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665
 
 Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
@@ -52,10 +44,6 @@ Pagina Evento: https://thisnot.business/player.php?id=Eurosport4RG
 Pagina Evento: https://thisnot.business/player.php?id=Eurosport5RG
   Dettagli: Categoria='TENNIS', Evento='11:00 Live', Canale='Eurosport (Simonne-Mathieu)'
   Stato Estrazione: OK - Proxy generato: https://xlab992-enzumfp.hf.space/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport5%29/manifest.mpd&key_id=b48e7e6d96da479da65e435ce65faeb1&key=48c703879ce4deedb5a2124a30a13bc4
-
-Pagina Evento: https://thisnot.business/player.php?id=Eurosport6RG
-  Dettagli: Categoria='TENNIS', Evento='11:00 Live', Canale='Eurosport (Campo 14)'
-  Stato Estrazione: OK - Proxy generato: https://xlab992-enzumfp.hf.space/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport6%29/manifest.mpd&key_id=ead1c567a3df48619799b2e78b18fdfa&key=1de9d9af5651296aa67913979ad8c694
 
 Pagina Evento: https://thisnot.business/player.php?id=Eurosport2_IT
   Dettagli: Categoria='BASKET', Evento='20:45 Virtus Bologna v EA7 Milano (Gara 2)', Canale='Eurosport 2'

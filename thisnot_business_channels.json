@@ -71,18 +71,6 @@
       "url": "https://thisnot.business/player.php?id=Eurosport5RG"
     }
   },
-  "https://thisnot.business/player.php?id=Eurosport6RG": {
-    "proxy_url": "https://xlab992-enzumfp.hf.space/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport6%29/manifest.mpd&key_id=ead1c567a3df48619799b2e78b18fdfa&key=1de9d9af5651296aa67913979ad8c694",
-    "info": {
-      "category": "TENNIS",
-      "title": "ROLAND GARROS - FRANCIA",
-      "date": "LUNEDI 26 MAGGIO - DOMENICA 8 GIUGNO",
-      "event": "11:00 Live",
-      "channel": "Eurosport (Campo 14)",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=Eurosport6RG"
-    }
-  },
   "https://thisnot.business/player.php?id=Eurosport2_IT": {
     "proxy_url": "https://xlab992-enzumfp.hf.space/proxy/mpd/manifest.m3u8?d=https://linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/master_stereo.mpd%3F%26ck%3DeyIwMDM2NzBhNzAzNDM0MmE0YTA3YzkxMTczODE4YzYxYyI6IjdiOTAwNTVjMWExZWEzNGQ5MDkwZTllYmY2YzRkYjhhIn0%3D&key_id=003670a7034342a4a07c91173818c61c&key=7b90055c1a1ea34d9090e9ebf6c4db8a",
     "info": {

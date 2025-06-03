@@ -17,13 +17,13 @@ from PIL import Image, ImageDraw, ImageFont
 from dotenv import load_dotenv
 load_dotenv()
 
-PROXY = os.getenv("PROXY", "")
-MFPDD= os.getenv("MFPDD", "")
-MFPDD2= os.getenv("MFPDD2", "")
+PROXY = os.getenv("DDTVPROXY", "")
+MFPDD= os.getenv("DDPROXYMFP", "")
+MFPDD2= os.getenv("DDPROXYMFP2", "")
 GUARCAL = os.getenv("GUARCAL")
 DADDY = os.getenv("DADDY")
 SKYSTR = os.getenv("SKYSTR")
-MFPDDNOPSW = os.getenv("MFPDDNOPSW", "")
+
 
 
 def get_github_logo_url(local_path):
@@ -949,7 +949,7 @@ def process_events():
                                     # Traduci il termine sportivo in italiano
                                     italian_sport_key = translate_sport_to_italian(clean_sport_key)
                                     file.write(f'#EXTINF:-1 tvg-id="{event_name} - {event_details.split(":", 1)[1].strip() if ":" in event_details else event_details}" tvg-name="{tvg_name}" tvg-logo="{event_logo}" group-title="{italian_sport_key}", {channel_name_str}\n')
-                                    file.write(f"{PROXY}{MFPDD}{stream_url_dynamic}{MFPDD2}{MFPDDNOPSW}\n\n")
+                                    file.write(f"{PROXY}{MFPDD}{stream_url_dynamic}{MFPDD2}\n\n")
 
                                 processed_channels += 1
                                 filtered_channels += 1

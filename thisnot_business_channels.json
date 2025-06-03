@@ -42,7 +42,7 @@
       "title": "ROLAND GARROS - FRANCIA",
       "date": "LUNEDI 26 MAGGIO - DOMENICA 8 GIUGNO",
       "event": "11:00 Live",
-      "channel": "Eurosport Extra",
+      "channel": "Eurosport (Philippe-Chatrier)",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=Eurosport3RG"
     }
@@ -54,7 +54,7 @@
       "title": "ROLAND GARROS - FRANCIA",
       "date": "LUNEDI 26 MAGGIO - DOMENICA 8 GIUGNO",
       "event": "11:00 Live",
-      "channel": "Eurosport Extra",
+      "channel": "Eurosport (Suzanne Lenglen)",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=Eurosport4RG"
     }
@@ -66,21 +66,9 @@
       "title": "ROLAND GARROS - FRANCIA",
       "date": "LUNEDI 26 MAGGIO - DOMENICA 8 GIUGNO",
       "event": "11:00 Live",
-      "channel": "Eurosport Extra",
+      "channel": "Eurosport (Simonne-Mathieu)",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=Eurosport5RG"
-    }
-  },
-  "https://thisnot.business/player.php?id=Eurosport6RG": {
-    "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport6%29/manifest.mpd&key_id=ead1c567a3df48619799b2e78b18fdfa&key=1de9d9af5651296aa67913979ad8c694",
-    "info": {
-      "category": "TENNIS",
-      "title": "ROLAND GARROS - FRANCIA",
-      "date": "LUNEDI 26 MAGGIO - DOMENICA 8 GIUGNO",
-      "event": "11:00 Live",
-      "channel": "Eurosport Extra",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=Eurosport6RG"
     }
   },
   "https://thisnot.business/player.php?id=Eurosport2_IT": {

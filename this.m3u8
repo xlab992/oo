@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="SportCalcio_IT" tvg-name="SERIE C PLAYOFF, FINALE - ITALIA SABATO 7 GIUGNO (Ritorno) 21:15 Ternana - Pescara" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sky Sport (TN)
 https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665
 
-#EXTINF:-1 tvg-id="Eurosport1RG" tvg-name="ROLAND GARROS - FRANCIA LUNEDI 26 MAGGIO - DOMENICA 8 GIUGNO 11:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Eurosport 1 (TN)
-https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750
-
 #EXTINF:-1 tvg-id="Eurosport3RG" tvg-name="ROLAND GARROS - FRANCIA LUNEDI 26 MAGGIO - DOMENICA 8 GIUGNO 11:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Eurosport (Philippe-Chatrier) (TN)
 https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport3%29/manifest.mpd&key_id=1e2398b0eeb04829b4711e14b4a91244&key=11e26659ebfecf6a22ed56da340448cd
 

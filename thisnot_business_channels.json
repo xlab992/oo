@@ -23,18 +23,6 @@
       "url": "https://thisnot.business/player.php?id=Eurosport1RG"
     }
   },
-  "https://thisnot.business/player.php?id=Eurosport2RG": {
-    "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport2%29/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec",
-    "info": {
-      "category": "TENNIS",
-      "title": "ROLAND GARROS - FRANCIA",
-      "date": "LUNEDI 26 MAGGIO - DOMENICA 8 GIUGNO",
-      "event": "11:00 Live",
-      "channel": "Eurosport 2",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=Eurosport2RG"
-    }
-  },
   "https://thisnot.business/player.php?id=Eurosport3RG": {
     "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport3%29/manifest.mpd&key_id=1e2398b0eeb04829b4711e14b4a91244&key=11e26659ebfecf6a22ed56da340448cd",
     "info": {
@@ -57,18 +45,6 @@
       "channel": "Eurosport (Suzanne Lenglen)",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=Eurosport4RG"
-    }
-  },
-  "https://thisnot.business/player.php?id=Eurosport5RG": {
-    "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport5%29/manifest.mpd&key_id=b48e7e6d96da479da65e435ce65faeb1&key=48c703879ce4deedb5a2124a30a13bc4",
-    "info": {
-      "category": "TENNIS",
-      "title": "ROLAND GARROS - FRANCIA",
-      "date": "LUNEDI 26 MAGGIO - DOMENICA 8 GIUGNO",
-      "event": "11:00 Live",
-      "channel": "Eurosport (Simonne-Mathieu)",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=Eurosport5RG"
     }
   },
   "https://thisnot.business/player.php?id=Eurosport2_IT": {

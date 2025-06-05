@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="21:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="http://clipart-library.com/images_k/spanish-flag-transparent/spanish-flag-transparent-14.png" group-title="Calcio", TF1 France
+#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="21:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="https://brandslogo.net/wp-content/uploads/2013/05/flag-of-spain-vector-logo.png" group-title="Calcio", TF1 France
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-469.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="21:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="http://clipart-library.com/images_k/spanish-flag-transparent/spanish-flag-transparent-14.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="21:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="https://brandslogo.net/wp-content/uploads/2013/05/flag-of-spain-vector-logo.png" group-title="Calcio", SuperSport Premier League
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sabalenka A. vs Swiatek I." tvg-name="15:00 WTA - ROLAND GARROS : Sabalenka A. vs Swiatek I. - 05/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Sabalenka%20A._vs_Swiatek%20I..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 16
@@ -230,7 +230,7 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="NBL - Taranaki Mountainairs vs Southland Sharks" tvg-name="09:00 NBL : Taranaki Mountainairs vs Southland Sharks - 05/06/25" tvg-logo="https://www.smokeylemon.com/assets/projects/projects-blocks/Mountainairs-Project-page_Block-2.png" group-title="Basket", Sky Sport 2 NZ
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-589.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="Lithuanian League - Playoffs - 1/2 Final (G4): Jonavos vs Zalgiris" tvg-name="17:30 Lithuanian League : Playoffs - 1/2 Final (G4): Jonavos vs Zalgiris - 05/06/25" tvg-logo="https://1.bp.blogspot.com/-lHW46NlMNeo/X3nN2JqMDeI/AAAAAAABgpU/b3fYr_G4ddA6M89kdfJt1ED4VpuoIva7QCLcBGAsYHQ/s256/Sky%2BBet%2BPlay-Offs256x.png" group-title="Basket", Sportklub 4 Croatia
+#EXTINF:-1 tvg-id="Lithuanian League - Playoffs - 1/2 Final (G4): Jonavos vs Zalgiris" tvg-name="17:30 Lithuanian League : Playoffs - 1/2 Final (G4): Jonavos vs Zalgiris - 05/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/2%20Final%20%28G4%29%3A%20Jonavos_vs_Zalgiris.png" group-title="Basket", Sportklub 4 Croatia
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="Friendly Games Women - Czech Republic vs. Latvia" tvg-name="18:30 Friendly Games Women : Czech Republic vs. Latvia - 05/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Czech%20Republic_vs_Latvia.png" group-title="Basket", CT Sport Czech HD
@@ -269,19 +269,19 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="Lega A - Olimpia Milano vs. Virtus Bologna" tvg-name="20:45 Lega A : Olimpia Milano vs. Virtus Bologna - 05/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Olimpia%20Milano_vs_Virtus%20Bologna.png" group-title="Basket", Sport 3 Israel
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-142.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="LNB - Lyon-Villeurbanne vs Monaco" tvg-name="21:00 LNB : Lyon-Villeurbanne vs Monaco - 05/06/25" tvg-logo="https://images.seeklogo.com/logo-png/14/3/ville-de-villeurbanne-logo-png_seeklogo-149326.png?v=1955950514555252832" group-title="Basket", DAZN France
+#EXTINF:-1 tvg-id="LNB - Lyon-Villeurbanne vs Monaco" tvg-name="21:00 LNB : Lyon-Villeurbanne vs Monaco - 05/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Lyon-Villeurbanne_vs_Monaco.png" group-title="Basket", DAZN France
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-68.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="LNB - Lyon-Villeurbanne vs Monaco" tvg-name="21:00 LNB : Lyon-Villeurbanne vs Monaco - 05/06/25" tvg-logo="https://images.seeklogo.com/logo-png/14/3/ville-de-villeurbanne-logo-png_seeklogo-149326.png?v=1955950514555252832" group-title="Basket", Arena Sport 2 Serbia
+#EXTINF:-1 tvg-id="LNB - Lyon-Villeurbanne vs Monaco" tvg-name="21:00 LNB : Lyon-Villeurbanne vs Monaco - 05/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Lyon-Villeurbanne_vs_Monaco.png" group-title="Basket", Arena Sport 2 Serbia
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-430.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="LNB - Lyon-Villeurbanne vs Monaco" tvg-name="21:00 LNB : Lyon-Villeurbanne vs Monaco - 05/06/25" tvg-logo="https://images.seeklogo.com/logo-png/14/3/ville-de-villeurbanne-logo-png_seeklogo-149326.png?v=1955950514555252832" group-title="Basket", Arena 2 Premium Serbia
+#EXTINF:-1 tvg-id="LNB - Lyon-Villeurbanne vs Monaco" tvg-name="21:00 LNB : Lyon-Villeurbanne vs Monaco - 05/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Lyon-Villeurbanne_vs_Monaco.png" group-title="Basket", Arena 2 Premium Serbia
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="LNB - Lyon-Villeurbanne vs Monaco" tvg-name="21:00 LNB : Lyon-Villeurbanne vs Monaco - 05/06/25" tvg-logo="https://images.seeklogo.com/logo-png/14/3/ville-de-villeurbanne-logo-png_seeklogo-149326.png?v=1955950514555252832" group-title="Basket", Sportklub 2 Croatia
+#EXTINF:-1 tvg-id="LNB - Lyon-Villeurbanne vs Monaco" tvg-name="21:00 LNB : Lyon-Villeurbanne vs Monaco - 05/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Lyon-Villeurbanne_vs_Monaco.png" group-title="Basket", Sportklub 2 Croatia
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="LNB - Lyon-Villeurbanne vs Monaco" tvg-name="21:00 LNB : Lyon-Villeurbanne vs Monaco - 05/06/25" tvg-logo="https://images.seeklogo.com/logo-png/14/3/ville-de-villeurbanne-logo-png_seeklogo-149326.png?v=1955950514555252832" group-title="Basket", Sport 5 Live Israel
+#EXTINF:-1 tvg-id="LNB - Lyon-Villeurbanne vs Monaco" tvg-name="21:00 LNB : Lyon-Villeurbanne vs Monaco - 05/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Lyon-Villeurbanne_vs_Monaco.png" group-title="Basket", Sport 5 Live Israel
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-146.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="Liga ABA - KK Budućnost VOLI vs KK Partizan Mozzart Bet" tvg-name="21:00 Liga ABA : KK Budućnost VOLI vs KK Partizan Mozzart Bet - 05/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/KK%20Budu%C4%87nost%20VOLI_vs_KK%20Partizan%20Mozzart%20Bet.png" group-title="Basket", Arena 1 Premium Serbia
@@ -302,7 +302,7 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="WNBA - New York Liberty vs Washington Mystics" tvg-name="01:30 WNBA : New York Liberty vs Washington Mystics - 05/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/New%20York%20Liberty_vs_Washington%20Mystics.png" group-title="Basket", Monumental Sports Network
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-778.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Phoenix Mercury" tvg-name="04:00 WNBA : Golden State Valkyries W vs Phoenix Mercury - 05/06/25" tvg-logo="https://images.seeklogo.com/logo-png/53/2/golden-state-valkyries-logo-png_seeklogo-534305.png" group-title="Basket", WNBA League Pass
+#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Phoenix Mercury" tvg-name="04:00 WNBA : Golden State Valkyries W vs Phoenix Mercury - 05/06/25" tvg-logo="https://images.prismic.io/wnba/ZjVrS0MTzAJOCh36_gsv-logo-menu.png?auto=format,compress?auto=compress,format" group-title="Basket", WNBA League Pass
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-10.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="NBA - Indiana Pacers vs Oklahoma City Thunder" tvg-name="02:30 NBA : Indiana Pacers vs Oklahoma City Thunder - 05/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Indiana%20Pacers_vs_Oklahoma%20City%20Thunder.png" group-title="Basket", Home Feed

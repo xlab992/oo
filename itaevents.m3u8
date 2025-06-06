@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="21:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="http://clipart-library.com/images_k/spanish-flag-transparent/spanish-flag-transparent-14.png" group-title="Calcio", TF1 France
+#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="21:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20221230/original/pngtree-spain-flag-round-shape-png-image_8832627.png" group-title="Calcio", TF1 France
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-469.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="21:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="http://clipart-library.com/images_k/spanish-flag-transparent/spanish-flag-transparent-14.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="21:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20221230/original/pngtree-spain-flag-round-shape-png-image_8832627.png" group-title="Calcio", SuperSport Premier League
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sabalenka A. vs Swiatek I." tvg-name="15:00 WTA - ROLAND GARROS : Sabalenka A. vs Swiatek I. - 05/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Sabalenka%20A._vs_Swiatek%20I..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 16
@@ -899,7 +899,7 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="VTB LIGA - Zenit vs CSKA" tvg-name="18:30 VTB LIGA : Zenit vs CSKA - 06/06/25" tvg-logo="http://lofrev.net/wp-content/photos/2014/08/FC-Zenit-Logo.png" group-title="Basket", Arena 2 Premium Serbia
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ACB - FC Barcelona vs. CB Unicaja Malaga" tvg-name="19:00 ACB : FC Barcelona vs. CB Unicaja Malaga - 06/06/25" tvg-logo="http://logos-download.com/wp-content/uploads/2016/05/FC_Barcelona_logo_logotipo_crest.png" group-title="Basket", Movistar Deportes Spain
+#EXTINF:-1 tvg-id="ACB - FC Barcelona vs. CB Unicaja Malaga" tvg-name="19:00 ACB : FC Barcelona vs. CB Unicaja Malaga - 06/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/FC%20Barcelona_vs_CB%20Unicaja%20Malaga.png" group-title="Basket", Movistar Deportes Spain
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-436.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ACB - FC Barcelona vs. CB Unicaja Malaga" tvg-name="19:00 ACB : FC Barcelona vs. CB Unicaja Malaga - 06/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/FC%20Barcelona_vs_CB%20Unicaja%20Malaga.png" group-title="Basket", Sportdigital+ DE
@@ -1076,10 +1076,10 @@ https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/s
 #EXTINF:-1 tvg-id="Golden League - Finland vs. Slovakia" tvg-name="17:00 Golden League : Finland vs. Slovakia - 06/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Finland_vs_Slovakia.png" group-title="Pallavolo", JOJ Sport Slovakia
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-23.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="Golden League - Spain vs Greece" tvg-name="18:00 Golden League : Spain vs Greece - 06/06/25" tvg-logo="http://clipart-library.com/images_k/spanish-flag-transparent/spanish-flag-transparent-14.png" group-title="Pallavolo", ERT 2 Greece
+#EXTINF:-1 tvg-id="Golden League - Spain vs Greece" tvg-name="18:00 Golden League : Spain vs Greece - 06/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20221230/original/pngtree-spain-flag-round-shape-png-image_8832627.png" group-title="Pallavolo", ERT 2 Greece
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-5.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="Golden League - Spain vs Greece" tvg-name="18:00 Golden League : Spain vs Greece - 06/06/25" tvg-logo="http://clipart-library.com/images_k/spanish-flag-transparent/spanish-flag-transparent-14.png" group-title="Pallavolo", Sport TV4 Portugal
+#EXTINF:-1 tvg-id="Golden League - Spain vs Greece" tvg-name="18:00 Golden League : Spain vs Greece - 06/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20221230/original/pngtree-spain-flag-round-shape-png-image_8832627.png" group-title="Pallavolo", Sport TV4 Portugal
 https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-289.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="Golden League - Croatia vs Israel" tvg-name="19:00 Golden League : Croatia vs Israel - 06/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/341/original/circle-flag-of-croatia-free-png.png" group-title="Pallavolo", Arena Sport 3 Croatia

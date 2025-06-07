@@ -18,6 +18,42 @@ headers = {
 # Prefisso per il proxy dello stream
 PROXY_STREAM_PREFIX = os.getenv("HLSPROXYMFP")
 
+# --- INIZIO MODIFICHE RICHIESTE ---
+
+# 1. Esclusione canali live-temp specifici
+# Escludere: 25-30 (compresi), 32, 34, 35-40 (compresi)
+EXCLUDED_TEMP_CHANNELS = set(list(range(25, 31)) + [32, 34] + list(range(35, 41)))
+
+# 2. Mappatura completa tvg-id
+TVG_ID_MAPPING = {
+    'golf': 'skysportgolf.it',
+    'sport uno': 'skysportuno.it',
+    'sport calcio': 'skysportcalcio.it',
+    'sport max': 'skysportmax.it',
+    'sport arena': 'skysportarena.it',
+    'cinema uno': 'skycinemauno.it',
+    'cinema due': 'skycinemadue.it',
+    'cinema collection': 'skycinemacollection.it',
+    'cinema action': 'skycinemaaction.it',
+    'cinema family': 'skycinemafamily.it',
+    'cinema romance': 'skycinemaromance.it',
+    'cinema comedy': 'skycinemacomedy.it',
+    'cinema drama': 'skycinemadrama.it',
+    'uno': 'skyuno.it',
+    'atlantic': 'skyatlantic.it',
+    'serie': 'skyserie.it',
+    'investigation': 'skyinvestigation.it',
+    'comedy central': 'comedycentral.it',
+    'arte': 'skyarte.it',
+    'documentaries': 'skydocumentaries.it',
+    'nature': 'skynature.it'
+}
+
+# 3. Immagine per live-temp
+TEMP_CHANNEL_LOGO = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sky_italia_2018.png/500px-Sky_italia_2018.png"
+
+# --- FINE MODIFICHE RICHIESTE ---
+
 # Funzione helper per formattare la data dell'evento
 def format_event_date(date_text):
     if not date_text:
@@ -67,11 +103,14 @@ def find_event_pages():
 
         # Aggiungi i canali live-temp-1 fino a live-temp-40
         for i in range(1, 41):
+            # Modifica: Esclusione canali specifici
+            if i in EXCLUDED_TEMP_CHANNELS:
+                continue
             temp_url = f"https://sportstreaming.net/live-temp-{i}"
             if temp_url not in seen_links:
                 event_links.append(temp_url)
                 seen_links.add(temp_url)
-#fine aggiunta
+
         return event_links
 
     except requests.RequestException as e:
@@ -156,17 +195,25 @@ def get_event_details(event_url):
         print(f"Errore durante l'accesso a {event_url}: {e}")
         return None, "", "Unknown Event", "Event"
 
-# Funzione per generare un tvg-id pulito
+# Funzione per generare tvg-id pulito e mappato
 def generate_clean_tvg_id(name_input):
-    if not name_input or name_input.lower() == "unknown event" or name_input.lower() == "event":
+    if not name_input or name_input.lower() in ["unknown event", "event", "live temp"]: # Aggiunto "live temp" per genericità
         return "unknown-event"
-    # Converti in minuscolo
-    s = name_input.lower()
-    # Sostituisci spazi e caratteri speciali comuni con trattini
-    s = re.sub(r'[\s\W_]+', '-', s)
-    # Rimuovi eventuali trattini multipli o trattini all'inizio/fine
-    s = re.sub(r'^-+|-+$', '', s)
-    return s if s else "unknown-event"
+    
+    s = name_input.lower().strip()
+    
+    # Controllo mappatura personalizzata
+    for keyword, tvg_id_map_val in TVG_ID_MAPPING.items():
+        if keyword in s:
+            return tvg_id_map_val
+    
+    # Pulizia standard se nessuna mappatura trovata
+    cleaned_s = re.sub(r'[\s\W_]+', '-', s) # Sostituisce spazi e non alfanumerici con '-'
+    cleaned_s = re.sub(r'^-+|-+$', '', cleaned_s) # Rimuove trattini iniziali/finali
+    
+    # Fallback se la stringa pulita è vuota
+    return cleaned_s if cleaned_s else "unknown-event"
+
 
 # Funzione per aggiornare il file M3U8
 def update_m3u_file(video_streams, m3u_file="sportstreaming_playlist.m3u8"):
@@ -182,41 +229,37 @@ def update_m3u_file(video_streams, m3u_file="sportstreaming_playlist.m3u8"):
             if not stream_url:
                 continue
 
-            # Determina se è un canale permanente o standard
-            is_perma = "perma" in event_url.lower()
-            if is_perma:
+            # Modifica: Gestione immagine per live-temp, perma, e standard
+            if "live-temp-" in event_url:
+                image_url = TEMP_CHANNEL_LOGO
+            elif "perma" in event_url.lower():
                 image_url = f"https://sportstreaming.net/assets/img/live/perma/live{perma_count}.png"
                 perma_count += 1
             else:
-                # Estrai il numero dall'URL per i canali standard (es. live-3 -> 3)
                 match = re.search(r'live-(\d+)', event_url)
                 if match:
                     live_number = match.group(1)
                     image_url = f"https://sportstreaming.net/assets/img/live/standard/live{live_number}.png"
                 else:
-                    image_url = "https://sportstreaming.net/assets/img/live/standard/live1.png"  # Fallback
+                    image_url = "https://sportstreaming.net/assets/img/live/standard/live1.png" # Fallback per standard
 
-            # Determina il tvg-name e il nome visualizzato
-            if is_perma:
-                display_name = league_info if league_info and league_info != "Event" else event_title
-            else:
-                display_name = event_title
+            # Modifica: Logica per display_name (usato per tvg-id e tvg-name)
+            # Se è un canale "perma" e league_info non è il default "Event", usa league_info.
+            # Altrimenti (canali non-perma o perma con league_info generico), usa event_title.
+            # Per i canali live-temp, event_title sarà tipicamente "Live Temp X" o "Unknown Event".
+            display_name = league_info if ("perma" in event_url.lower() and league_info != "Event") else event_title
             
-            if not display_name or display_name == "Unknown Event":
-                display_name = "Evento" # Fallback
-
-            tvg_id_generated = generate_clean_tvg_id(display_name)
+            tvg_id = generate_clean_tvg_id(display_name)
 
             # Codifica gli header per l'URL
             encoded_ua = quote_plus(headers["User-Agent"])
             encoded_referer = quote_plus(headers["Referer"])
             encoded_origin = quote_plus(headers["Origin"])
-
             # Costruisci l'URL finale con il proxy e gli header
             # stream_url qui è l'URL originale dello stream (es. https://xuione.sportstreaming.net/...)
             final_stream_url = f"{PROXY_STREAM_PREFIX}{stream_url}&h_user-agent={encoded_ua}&h_referer={encoded_referer}&h_origin={encoded_origin}"
 
-            f.write(f"#EXTINF:-1 group-title=\"SportStreaming\" tvg-logo=\"{image_url}\" tvg-id=\"{tvg_id_generated}\" tvg-name=\"{display_name}\",{display_name} (SpS)\n")
+            f.write(f"#EXTINF:-1 group-title=\"SportStreaming\" tvg-logo=\"{image_url}\" tvg-id=\"{tvg_id}\" tvg-name=\"{display_name}\",{display_name} (SpS)\n")
             f.write(f"{final_stream_url}\n")
             f.write("\n") # Aggiungi una riga vuota dopo ogni canale
 

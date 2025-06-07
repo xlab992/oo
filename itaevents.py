@@ -41,6 +41,58 @@ LOCAL_LOGO_FILE = "guardacalcio_image_links.txt"
 # Define keywords for EXCLUDING channels
 EXCLUDE_KEYWORDS_FROM_CHANNEL_INFO = ["college", "youth"]
 
+# Dizionario per traduzione termini sportivi inglesi in italiano
+SPORT_TRANSLATIONS = {
+    "soccer": "calcio",
+    "football": "football americano",
+    "basketball": "basket",
+    "tennis": "tennis",
+    "swimming": "nuoto",
+    "athletics": "atletica",
+    "cycling": "ciclismo",
+    "golf": "golf",
+    "baseball": "baseball",
+    "rugby": "rugby",
+    "boxing": "boxe",
+    "wrestling": "lotta",
+    "volleyball": "pallavolo",
+    "hockey": "hockey",
+    "horse racing": "ippica",
+    "motor sports": "automobilismo",
+    "motorsports": "automobilismo",
+    "gymnastics": "ginnastica",
+    "martial arts": "arti marziali",
+    "running": "corsa",
+    "ice hockey": "hockey su ghiaccio",
+    "field hockey": "hockey su prato",
+    "water polo": "pallanuoto",
+    "weight lifting": "sollevamento pesi",
+    "weightlifting": "sollevamento pesi",
+    "skiing": "sci",
+    "skating": "pattinaggio",
+    "ice skating": "pattinaggio su ghiaccio",
+    "fencing": "scherma",
+    "archery": "tiro con l'arco",
+    "climbing": "arrampicata",
+    "rowing": "canottaggio",
+    "sailing": "vela",
+    "surfing": "surf",
+    "fishing": "pesca",
+    "dancing": "danza",
+    "chess": "scacchi",
+    "snooker": "biliardo",
+    "billiards": "biliardo",
+    "darts": "freccette",
+    "badminton": "badminton",
+    "cricket": "cricket",
+    "aussie rules": "football australiano",
+    "australian football": "football australiano",
+    "cross country": "corsa campestre",
+    "biathlon": "biathlon",
+    "waterpolo": "pallanuoto",
+    "handball": "pallamano"
+}
+
 # Headers for requests
 headers = {
     "Accept": "*/*",
@@ -346,6 +398,20 @@ def clean_group_title(sport_key):
     # Convert to title case to standardize
     return clean_key.title()
 
+def translate_sport_to_italian(sport_key):
+    """Traduce i termini sportivi inglesi in italiano"""
+    # Pulisce il termine dai tag HTML
+    clean_key = re.sub(r'<[^>]+>', '', sport_key).strip().lower()
+
+    # Cerca la traduzione nel dizionario
+    if clean_key in SPORT_TRANSLATIONS:
+        translated = SPORT_TRANSLATIONS[clean_key]
+        # Mantieni la formattazione originale (maiuscole/minuscole)
+        return translated.title()
+
+    # Se non trova traduzione, restituisce il termine originale pulito
+    return clean_group_title(sport_key)
+
 def should_include_channel(channel_name, event_name, sport_key):
     """Controlla se il canale deve essere incluso. Esclude se una keyword è trovata."""
     combined_text = (str(channel_name) + " " + str(event_name) + " " + str(sport_key)).lower()
@@ -373,7 +439,7 @@ def process_events():
     excluded_categories = [
         "TV Shows", "Cricket", "Aussie rules", "Snooker", "Baseball",
         "Biathlon", "Cross Country", "Horse Racing", "Ice Hockey",
-        "Waterpolo", "Golf", "Darts", "Cycling", "Badminton", "Handball"
+        "Waterpolo", "Golf", "Darts", "Cycling", "Badminton", "Handball, Equestrian, Lacrosse, Floorball"
     ]
 
     # First pass to gather category statistics
@@ -644,9 +710,9 @@ def process_events():
                                     # Get dynamic logo for this event
                                     event_logo = get_dynamic_logo(game["event"])
 
-                                    file.write(f'#EXTINF:-1 tvg-id="{event_name} - {event_details.split(":", 1)[1].strip() if ":" in event_details else event_details}" tvg-name="{tvg_name}" tvg-logo="{event_logo}" group-title="{clean_sport_key}", {channel_name_str}\n')
+                                    italian_sport_key = translate_sport_to_italian(clean_sport_key)
+                                    file.write(f'#EXTINF:-1 tvg-id="{event_name} - {event_details.split(":", 1)[1].strip() if ":" in event_details else event_details}" tvg-name="{tvg_name}" tvg-logo="{event_logo}" group-title="{italian_sport_key}", {channel_name_str}\n')
                                     file.write(f"{DDTVPROXY}{DDPROXYMFP}{stream_url_dynamic}{DDPROXYMFP2}\n\n")
-
                                 included_channels_count += 1
 
                             else:

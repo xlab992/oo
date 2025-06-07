@@ -439,7 +439,7 @@ def process_events():
     excluded_categories = [
         "TV Shows", "Cricket", "Aussie rules", "Snooker", "Baseball",
         "Biathlon", "Cross Country", "Horse Racing", "Ice Hockey",
-        "Waterpolo", "Golf", "Darts", "Cycling", "Badminton", "Handball, Equestrian, Lacrosse, Floorball"
+        "Waterpolo", "Golf", "Darts", "Cycling", "Badminton", "Handball", "Equestrian", "Lacrosse", "Floorball"
     ]
 
     # First pass to gather category statistics

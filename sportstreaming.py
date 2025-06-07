@@ -64,7 +64,13 @@ def find_event_pages():
                 if href not in seen_links:
                     event_links.append(href)
                     seen_links.add(href)
-
+        # Aggiungi i canali live-temp-1 fino a live-temp-40
+        for i in range(1, 41):
+            temp_url = f"https://sportstreaming.net/live-temp-{i}"
+            if temp_url not in seen_links:
+                event_links.append(temp_url)
+                seen_links.add(temp_url)
+                
         return event_links
 
     except requests.RequestException as e:

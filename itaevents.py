@@ -377,12 +377,12 @@ def get_stream_link(dlhd_id, event_name="", channel_name="", max_retries=3):
     print(f"Getting stream link for channel ID: {dlhd_id} - {event_name} on {channel_name}...")
     
     # Verifica se è un canale Tennis Stream
-    if channel_name and "Tennis Stream" in channel_name:
-        print(f"Canale Tennis Stream rilevato, utilizzo link fisso per: {event_name}")
-        return "https://daddylive.dad/embed/stream-576.php"
+    #if channel_name and "Tennis Stream" in channel_name:
+    #    print(f"Canale Tennis Stream rilevato, utilizzo link fisso per: {event_name}")
+    #    return "https://daddylive.dad/embed/stream-576.php"
     
     # Restituisci direttamente l'URL senza fare richieste HTTP
-    return f"https://daddylive.dad/embed/stream-{dlhd_id}.php"
+    return f"https://daddylive.dad/stream/stream-{dlhd_id}.php"
 
 
 def clean_group_title(sport_key):

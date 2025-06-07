@@ -12,8 +12,9 @@ import time
 from dotenv import load_dotenv
 load_dotenv()
 
-PROXY = os.getenv("PROXY")
-
+PROXY = os.getenv("DDTVPROXY")
+DDMFP = os.getenv("DDMFP")
+DDMFP2 = os.getenv("DDMFP2")
 # Constants
 #REFERER = "forcedtoplay.xyz"
 #ORIGIN = "forcedtoplay.xyz"

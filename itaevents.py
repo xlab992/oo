@@ -15,8 +15,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 PROXY = os.getenv("DDTVPROXY", "")
-MFPDD= os.getenv("DDPROXYMFP", "")
-MFPDD2= os.getenv("DDPROXYMFP2", "")
+DDMFP= os.getenv("DDPROXYMFP", "")
+DDMFP2= os.getenv("DDPROXYMFP2", "")
 GUARCAL = os.getenv("GUARCAL")
 DADDY = os.getenv("DADDY")
 SKYSTR = os.getenv("SKYSTR")

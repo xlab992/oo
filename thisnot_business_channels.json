@@ -12,18 +12,6 @@
     }
   },
   "https://thisnot.business/player.php?id=Rai1": {
-    "proxy_url": "https://link.proxy.mpd/proxy/hls/manifest.m3u8?d=https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
-    "info": {
-      "category": "CALCIO",
-      "title": "SERIE C PLAYOFF, FINALE - ITALIA",
-      "date": "SABATO 7 GIUGNO (Ritorno)",
-      "event": "20:45 Norvegia - Italia",
-      "channel": "Rai",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=Rai1"
-    }
-  },
-  "https://thisnot.business/player.php?id=Rai1x": {
     "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd",
     "info": {
       "category": "CALCIO",
@@ -32,7 +20,7 @@
       "event": "20:45 Norvegia - Italia",
       "channel": "Rai",
       "language": "it",
-      "url": "https://thisnot.business/player.php?id=Rai1x"
+      "url": "https://thisnot.business/player.php?id=Rai1"
     }
   },
   "https://thisnot.business/player.php?id=SportUno_IT": {
@@ -107,35 +95,11 @@
       "url": "https://thisnot.business/player.php?id=Eurosport3RG"
     }
   },
-  "https://thisnot.business/player.php?id=Eurosport4RG": {
-    "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport4%29/manifest.mpd&key_id=9dd7be79e44f4d08a91ec5d1553f17b8&key=8a62369f81a4b6e5f2d4846f7bd5e7d1",
-    "info": {
-      "category": "TENNIS",
-      "title": "ROLAND GARROS - FRANCIA",
-      "date": "LUNEDI 26 MAGGIO - DOMENICA 8 GIUGNO",
-      "event": "11:00 Live",
-      "channel": "Eurosport (Suzanne Lenglen)",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=Eurosport4RG"
-    }
-  },
-  "https://thisnot.business/player.php?id=Eurosport5RG": {
-    "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport5%29/manifest.mpd&key_id=b48e7e6d96da479da65e435ce65faeb1&key=48c703879ce4deedb5a2124a30a13bc4",
-    "info": {
-      "category": "TENNIS",
-      "title": "ROLAND GARROS - FRANCIA",
-      "date": "LUNEDI 26 MAGGIO - DOMENICA 8 GIUGNO",
-      "event": "11:00 Live",
-      "channel": "Eurosport (Simonne-Mathieu)",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=Eurosport5RG"
-    }
-  },
   "https://thisnot.business/player.php?id=Eurosport2_IT": {
     "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/master_stereo.mpd%3F%26ck%3DeyIwMDM2NzBhNzAzNDM0MmE0YTA3YzkxMTczODE4YzYxYyI6IjdiOTAwNTVjMWExZWEzNGQ5MDkwZTllYmY2YzRkYjhhIn0%3D&key_id=003670a7034342a4a07c91173818c61c&key=7b90055c1a1ea34d9090e9ebf6c4db8a",
     "info": {
       "category": "BASKET",
-      "title": "NBA FINALS, GARA 2 - USA",
+      "title": "NBA FINALS, GARA 1 - USA",
       "date": "LUNEDI 9 GIUGNO",
       "event": "20:45 Virtus Bologna v EA7 Milano (Gara 4)",
       "channel": "Eurosport 2",
@@ -147,7 +111,7 @@
     "proxy_url": "https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd&key_id=00364eac2ffee337640e39682439b540&key=0960172d9000c470ade0658bd36c1d53",
     "info": {
       "category": "BASKET",
-      "title": "NBA FINALS, GARA 2 - USA",
+      "title": "NBA FINALS, GARA 1 - USA",
       "date": "LUNEDI 9 GIUGNO",
       "event": "02:30 Oklahoma City Thunder v Indiana Pacers",
       "channel": "Sky Sport",
@@ -160,7 +124,7 @@
     "info": {
       "category": "MOTOMONDIALE",
       "title": "GP ARAGON - SPAGNA",
-      "date": "VENERDI 6 GIUGNO",
+      "date": "SABATO 7 GIUGNO",
       "event": "14:00 MotoGP - Gara",
       "channel": "Sky Sport",
       "language": "it",

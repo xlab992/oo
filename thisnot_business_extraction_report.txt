@@ -7,14 +7,10 @@ Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
 
 Pagina Evento: https://thisnot.business/player.php?id=Rai1
   Dettagli: Categoria='CALCIO', Evento='20:45 Norvegia - Italia', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/hls/manifest.m3u8?d=https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-
-Pagina Evento: https://thisnot.business/player.php?id=Rai1x
-  Dettagli: Categoria='CALCIO', Evento='20:45 Norvegia - Italia', Canale='Rai'
   Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=SportUno_IT
-  Dettagli: Categoria='CALCIO', Evento='20:45 Norvegia - Italia', Canale='Sky Sport'
+  Dettagli: Categoria='CALCIO', Evento='20:45 North Macedonia - Belgio', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd%3F%26ck%3DMDAzNmFhYTFkNjhjNmI0ODdlMjlhNWNiMDgwYThhMjg6YTNlOGRiM2ZmM2M4NzZmN2I0M2E5NjFiNjRhNjM0NzQ%3D&key_id=0036aaa1d68c6b487e29a5cb080a8a28&key=a3e8db3ff3c876f7b43a961b64a63474
 
 Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
@@ -55,14 +51,10 @@ Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
 
 Pagina Evento: https://thisnot.business/player.php?id=Rai1
   Dettagli: Categoria='CALCIO', Evento='20:45 Norvegia - Italia', Canale='Rai'
-  Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/hls/manifest.m3u8?d=https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-
-Pagina Evento: https://thisnot.business/player.php?id=Rai1x
-  Dettagli: Categoria='CALCIO', Evento='20:45 Norvegia - Italia', Canale='Rai'
   Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=SportUno_IT
-  Dettagli: Categoria='CALCIO', Evento='20:45 Norvegia - Italia', Canale='Sky Sport'
+  Dettagli: Categoria='CALCIO', Evento='20:45 North Macedonia - Belgio', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd%3F%26ck%3DMDAzNmFhYTFkNjhjNmI0ODdlMjlhNWNiMDgwYThhMjg6YTNlOGRiM2ZmM2M4NzZmN2I0M2E5NjFiNjRhNjM0NzQ%3D&key_id=0036aaa1d68c6b487e29a5cb080a8a28&key=a3e8db3ff3c876f7b43a961b64a63474
 
 Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
@@ -105,21 +97,9 @@ Pagina Evento: https://thisnot.business/player.php?id=Eurosport3RG
   Dettagli: Categoria='TENNIS', Evento='11:00 Live', Canale='Eurosport (Philippe-Chatrier)'
   Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport3%29/manifest.mpd&key_id=1e2398b0eeb04829b4711e14b4a91244&key=11e26659ebfecf6a22ed56da340448cd
 
-Pagina Evento: https://thisnot.business/player.php?id=Eurosport4RG
-  Dettagli: Categoria='TENNIS', Evento='11:00 Live', Canale='Eurosport (Suzanne Lenglen)'
-  Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport4%29/manifest.mpd&key_id=9dd7be79e44f4d08a91ec5d1553f17b8&key=8a62369f81a4b6e5f2d4846f7bd5e7d1
-
-Pagina Evento: https://thisnot.business/player.php?id=Eurosport5RG
-  Dettagli: Categoria='TENNIS', Evento='11:00 Live', Canale='Eurosport (Simonne-Mathieu)'
-  Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport5%29/manifest.mpd&key_id=b48e7e6d96da479da65e435ce65faeb1&key=48c703879ce4deedb5a2124a30a13bc4
-
 Pagina Evento: https://thisnot.business/player.php?id=Eurosport2_IT
   Dettagli: Categoria='BASKET', Evento='20:45 Virtus Bologna v EA7 Milano (Gara 4)', Canale='Eurosport 2'
   Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/master_stereo.mpd%3F%26ck%3DeyIwMDM2NzBhNzAzNDM0MmE0YTA3YzkxMTczODE4YzYxYyI6IjdiOTAwNTVjMWExZWEzNGQ5MDkwZTllYmY2YzRkYjhhIn0%3D&key_id=003670a7034342a4a07c91173818c61c&key=7b90055c1a1ea34d9090e9ebf6c4db8a
-
-Pagina Evento: https://thisnot.business/player.php?id=SportNBA_IT
-  Dettagli: Categoria='BASKET', Evento='02:30 Oklahoma City Thunder v Indiana Pacers', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd&key_id=00364eac2ffee337640e39682439b540&key=0960172d9000c470ade0658bd36c1d53
 
 Pagina Evento: https://thisnot.business/player.php?id=SportNBA_IT
   Dettagli: Categoria='BASKET', Evento='02:30 Oklahoma City Thunder v Indiana Pacers', Canale='Sky Sport'
@@ -132,46 +112,6 @@ Pagina Evento: https://thisnot.business/player.php?id=Eurosport2_IT
 Pagina Evento: https://thisnot.business/player.php?id=SportNBA_IT
   Dettagli: Categoria='BASKET', Evento='02:30 Oklahoma City Thunder v Indiana Pacers', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd&key_id=00364eac2ffee337640e39682439b540&key=0960172d9000c470ade0658bd36c1d53
-
-Pagina Evento: https://thisnot.business/player.php?id=SportNBA_IT
-  Dettagli: Categoria='BASKET', Evento='02:30 Oklahoma City Thunder v Indiana Pacers', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd&key_id=00364eac2ffee337640e39682439b540&key=0960172d9000c470ade0658bd36c1d53
-
-Pagina Evento: https://thisnot.business/player.php?id=Eurosport2_IT
-  Dettagli: Categoria='BASKET', Evento='20:45 Virtus Bologna v EA7 Milano (Gara 4)', Canale='Eurosport 2'
-  Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/master_stereo.mpd%3F%26ck%3DeyIwMDM2NzBhNzAzNDM0MmE0YTA3YzkxMTczODE4YzYxYyI6IjdiOTAwNTVjMWExZWEzNGQ5MDkwZTllYmY2YzRkYjhhIn0%3D&key_id=003670a7034342a4a07c91173818c61c&key=7b90055c1a1ea34d9090e9ebf6c4db8a
-
-Pagina Evento: https://thisnot.business/player.php?id=SportNBA_IT
-  Dettagli: Categoria='BASKET', Evento='02:30 Oklahoma City Thunder v Indiana Pacers', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd&key_id=00364eac2ffee337640e39682439b540&key=0960172d9000c470ade0658bd36c1d53
-
-Pagina Evento: https://thisnot.business/player.php?id=SportNBA_IT
-  Dettagli: Categoria='BASKET', Evento='02:30 Oklahoma City Thunder v Indiana Pacers', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd&key_id=00364eac2ffee337640e39682439b540&key=0960172d9000c470ade0658bd36c1d53
-
-Pagina Evento: https://thisnot.business/player.php?id=SportMotoGP_IT
-  Dettagli: Categoria='MOTOMONDIALE', Evento='09:00 Moto3 - Prove Libere 1', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_stereo.mpd%3F%26ck%3DMDAzNjJlOTE4MWVhYTBjNWY5MTc2MWFkZTM1MTVlYjg6NTJjZjNjMjc4ODVkNThhZDc2YWFmMzZkNDIxN2E5ODQ%3D&key_id=00362e9181eaa0c5f91761ade3515eb8&key=52cf3c27885d58ad76aaf36d4217a984
-
-Pagina Evento: https://thisnot.business/player.php?id=SportMotoGP_IT
-  Dettagli: Categoria='MOTOMONDIALE', Evento='09:50 Moto2 - Prove Libere 1', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_stereo.mpd%3F%26ck%3DMDAzNjJlOTE4MWVhYTBjNWY5MTc2MWFkZTM1MTVlYjg6NTJjZjNjMjc4ODVkNThhZDc2YWFmMzZkNDIxN2E5ODQ%3D&key_id=00362e9181eaa0c5f91761ade3515eb8&key=52cf3c27885d58ad76aaf36d4217a984
-
-Pagina Evento: https://thisnot.business/player.php?id=SportMotoGP_IT
-  Dettagli: Categoria='MOTOMONDIALE', Evento='10:45 MotoGP - Prove Libere 1', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_stereo.mpd%3F%26ck%3DMDAzNjJlOTE4MWVhYTBjNWY5MTc2MWFkZTM1MTVlYjg6NTJjZjNjMjc4ODVkNThhZDc2YWFmMzZkNDIxN2E5ODQ%3D&key_id=00362e9181eaa0c5f91761ade3515eb8&key=52cf3c27885d58ad76aaf36d4217a984
-
-Pagina Evento: https://thisnot.business/player.php?id=SportMotoGP_IT
-  Dettagli: Categoria='MOTOMONDIALE', Evento='13:15 Moto3 - Prove 1', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_stereo.mpd%3F%26ck%3DMDAzNjJlOTE4MWVhYTBjNWY5MTc2MWFkZTM1MTVlYjg6NTJjZjNjMjc4ODVkNThhZDc2YWFmMzZkNDIxN2E5ODQ%3D&key_id=00362e9181eaa0c5f91761ade3515eb8&key=52cf3c27885d58ad76aaf36d4217a984
-
-Pagina Evento: https://thisnot.business/player.php?id=SportMotoGP_IT
-  Dettagli: Categoria='MOTOMONDIALE', Evento='14:05 Moto2 - Prove 1', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_stereo.mpd%3F%26ck%3DMDAzNjJlOTE4MWVhYTBjNWY5MTc2MWFkZTM1MTVlYjg6NTJjZjNjMjc4ODVkNThhZDc2YWFmMzZkNDIxN2E5ODQ%3D&key_id=00362e9181eaa0c5f91761ade3515eb8&key=52cf3c27885d58ad76aaf36d4217a984
-
-Pagina Evento: https://thisnot.business/player.php?id=SportMotoGP_IT
-  Dettagli: Categoria='MOTOMONDIALE', Evento='15:00 MotoGP - Prove', Canale='Sky Sport'
-  Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_stereo.mpd%3F%26ck%3DMDAzNjJlOTE4MWVhYTBjNWY5MTc2MWFkZTM1MTVlYjg6NTJjZjNjMjc4ODVkNThhZDc2YWFmMzZkNDIxN2E5ODQ%3D&key_id=00362e9181eaa0c5f91761ade3515eb8&key=52cf3c27885d58ad76aaf36d4217a984
 
 Pagina Evento: https://thisnot.business/player.php?id=SportMotoGP_IT
   Dettagli: Categoria='MOTOMONDIALE', Evento='08:40 Moto3 - Prove 2', Canale='Sky Sport'

@@ -16,7 +16,7 @@ headers = {
 }
 
 # Prefisso per il proxy dello stream
-PROXY_STREAM_PREFIX = os.getenv("HLSPROXYMFP")
+PROXY_STREAM_PREFIX = os.getenv("PROXYMFP")
 
 # Funzione helper per formattare la data dell'evento
 def format_event_date(date_text):
@@ -64,13 +64,14 @@ def find_event_pages():
                 if href not in seen_links:
                     event_links.append(href)
                     seen_links.add(href)
+
         # Aggiungi i canali live-temp-1 fino a live-temp-40
         for i in range(1, 41):
             temp_url = f"https://sportstreaming.net/live-temp-{i}"
             if temp_url not in seen_links:
                 event_links.append(temp_url)
                 seen_links.add(temp_url)
-                
+#fine aggiunta
         return event_links
 
     except requests.RequestException as e:
@@ -155,6 +156,18 @@ def get_event_details(event_url):
         print(f"Errore durante l'accesso a {event_url}: {e}")
         return None, "", "Unknown Event", "Event"
 
+# Funzione per generare un tvg-id pulito
+def generate_clean_tvg_id(name_input):
+    if not name_input or name_input.lower() == "unknown event" or name_input.lower() == "event":
+        return "unknown-event"
+    # Converti in minuscolo
+    s = name_input.lower()
+    # Sostituisci spazi e caratteri speciali comuni con trattini
+    s = re.sub(r'[\s\W_]+', '-', s)
+    # Rimuovi eventuali trattini multipli o trattini all'inizio/fine
+    s = re.sub(r'^-+|-+$', '', s)
+    return s if s else "unknown-event"
+
 # Funzione per aggiornare il file M3U8
 def update_m3u_file(video_streams, m3u_file="sportstreaming_playlist.m3u8"):
     REPO_PATH = os.getenv('GITHUB_WORKSPACE', '.')
@@ -183,9 +196,16 @@ def update_m3u_file(video_streams, m3u_file="sportstreaming_playlist.m3u8"):
                 else:
                     image_url = "https://sportstreaming.net/assets/img/live/standard/live1.png"  # Fallback
 
-            tvg_name_final = f"{formatted_date} {event_title}".strip()
-            if not tvg_name_final: # Fallback se sia data che titolo sono vuoti
-                tvg_name_final = "Event"
+            # Determina il tvg-name e il nome visualizzato
+            if is_perma:
+                display_name = league_info if league_info and league_info != "Event" else event_title
+            else:
+                display_name = event_title
+            
+            if not display_name or display_name == "Unknown Event":
+                display_name = "Evento" # Fallback
+
+            tvg_id_generated = generate_clean_tvg_id(display_name)
 
             # Codifica gli header per l'URL
             encoded_ua = quote_plus(headers["User-Agent"])
@@ -196,7 +216,7 @@ def update_m3u_file(video_streams, m3u_file="sportstreaming_playlist.m3u8"):
             # stream_url qui è l'URL originale dello stream (es. https://xuione.sportstreaming.net/...)
             final_stream_url = f"{PROXY_STREAM_PREFIX}{stream_url}&h_user-agent={encoded_ua}&h_referer={encoded_referer}&h_origin={encoded_origin}"
 
-            f.write(f"#EXTINF:-1 group-title=\"SportStreaming\" tvg-logo=\"{image_url}\" tvg-name=\"{tvg_name_final}\", {league_info} (SpS)\n")
+            f.write(f"#EXTINF:-1 group-title=\"SportStreaming\" tvg-logo=\"{image_url}\" tvg-id=\"{tvg_id_generated}\" tvg-name=\"{display_name}\",{display_name} (SpS)\n")
             f.write(f"{final_stream_url}\n")
             f.write("\n") # Aggiungi una riga vuota dopo ogni canale
 

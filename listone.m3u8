@@ -1550,86 +1550,86 @@ https://ale-akhz.onrender.com/proxy/hls/manifest.m3u8?d=https://di-kzbhv8pw.vo.l
 https://ale-akhz.onrender.com/proxy/hls/manifest.m3u8?d=https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24/chunklist.m3u8
 
 # Playlist generata da SkyStreaming
-#EXTINF:-1 tvg-id="skysport256.it" tvg-name="Sky Sport 256" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 256 (SS)
-https%3A//hls.kangal.icu/hls/sky256/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport255.it" tvg-name="Sky Sport 255" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 255 (SS)
-https%3A//hls.kangal.icu/hls/sky255/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport MotoGP" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport MotoGP (SS)
-https%3A//hls.kangal.icu/hls/moto/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Eurosport 2 (SS)
-https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
 #EXTINF:-1 tvg-id="skysport259.it" tvg-name="Sky Sport 259" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 259 (SS)
 https%3A//hls.kangal.icu/hls/sky259/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Diretta Gol vs Qualificazioni Mondiali" tvg-name="Diretta Gol vs Qualificazioni Mondiali" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Diretta Gol vs Qualificazioni Mondiali (SS)
-https%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport258.it" tvg-name="Sky Sport 258" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 258 (SS)
-https%3A//hls.kangal.icu/hls/sky258/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport260.it" tvg-name="Sky Sport 260" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 260 (SS)
-https%3A//hls.kangal.icu/hls/sky260/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport252.it" tvg-name="Sky Sport 252" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 252 (SS)
-https%3A//hls.kangal.icu/hls/sky252/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Uno (SS)
-https%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Calcio (SS)
-https%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Estonia vs Norvegia" tvg-name="Estonia vs Norvegia" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Estonia vs Norvegia (SS)
-https%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Tennis (SS)
-https%3A//hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Italia vs Moldavia" tvg-name="Italia vs Moldavia" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Italia vs Moldavia (SS)
-https%3A//hls.kangal.icu/hls/italia/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport251.it" tvg-name="Sky Sport 251" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 251 (SS)
-https%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 24 (SS)
 https%3A//hls.kangal.icu/hls/sky24/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
-#EXTINF:-1 tvg-id="skysport253.it" tvg-name="Sky Sport 253" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 253 (SS)
-https%3A//hls.kangal.icu/hls/sky253/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport257.it" tvg-name="Sky Sport 257" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 257 (SS)
-https%3A//hls.kangal.icu/hls/sky257/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport261.it" tvg-name="Sky Sport 261" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 261 (SS)
-https%3A//hls.kangal.icu/hls/sky261/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Sky Sport NBA" tvg-name="Sky Sport NBA" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport NBA (SS)
-https%3A//hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysportmax.it" tvg-name="Sky Sport Max" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Max (SS)
-https%3A//hls.kangal.icu/hls/skymax/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport254.it" tvg-name="Sky Sport 254" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 254 (SS)
-https%3A//hls.kangal.icu/hls/sky254/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Estonia vs Norvegia" tvg-name="Estonia vs Norvegia" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Estonia vs Norvegia (SS)
+https%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
 #EXTINF:-1 tvg-id="Liechtenstein vs Scozia" tvg-name="Liechtenstein vs Scozia" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Liechtenstein vs Scozia (SS)
 https%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
-#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport F1 (SS)
-https%3A//hls.kangal.icu/hls/formula/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport MotoGP" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport MotoGP (SS)
+https%3A//hls.kangal.icu/hls/moto/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
-#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Golf (SS)
-https%3A//hls.kangal.icu/hls/golf/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Uno (SS)
+https%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
 #EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Arena (SS)
 https%3A//hls.kangal.icu/hls/arena/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
+#EXTINF:-1 tvg-id="skysport251.it" tvg-name="Sky Sport 251" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 251 (SS)
+https%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport252.it" tvg-name="Sky Sport 252" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 252 (SS)
+https%3A//hls.kangal.icu/hls/sky252/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Diretta Gol vs Qualificazioni Mondiali" tvg-name="Diretta Gol vs Qualificazioni Mondiali" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Diretta Gol vs Qualificazioni Mondiali (SS)
+https%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Tennis (SS)
+https%3A//hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysportmax.it" tvg-name="Sky Sport Max" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Max (SS)
+https%3A//hls.kangal.icu/hls/skymax/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Italia vs Moldavia" tvg-name="Italia vs Moldavia" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Italia vs Moldavia (SS)
+https%3A//hls.kangal.icu/hls/italia/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport F1 (SS)
+https%3A//hls.kangal.icu/hls/formula/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Eurosport 1 (SS)
 https%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Calcio (SS)
+https%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Eurosport 2 (SS)
+https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport257.it" tvg-name="Sky Sport 257" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 257 (SS)
+https%3A//hls.kangal.icu/hls/sky257/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport254.it" tvg-name="Sky Sport 254" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 254 (SS)
+https%3A//hls.kangal.icu/hls/sky254/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport255.it" tvg-name="Sky Sport 255" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 255 (SS)
+https%3A//hls.kangal.icu/hls/sky255/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport261.it" tvg-name="Sky Sport 261" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 261 (SS)
+https%3A//hls.kangal.icu/hls/sky261/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport260.it" tvg-name="Sky Sport 260" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 260 (SS)
+https%3A//hls.kangal.icu/hls/sky260/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport253.it" tvg-name="Sky Sport 253" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 253 (SS)
+https%3A//hls.kangal.icu/hls/sky253/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport258.it" tvg-name="Sky Sport 258" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 258 (SS)
+https%3A//hls.kangal.icu/hls/sky258/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Golf (SS)
+https%3A//hls.kangal.icu/hls/golf/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport256.it" tvg-name="Sky Sport 256" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 256 (SS)
+https%3A//hls.kangal.icu/hls/sky256/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Sky Sport NBA" tvg-name="Sky Sport NBA" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport NBA (SS)
+https%3A//hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
 #EXTINF:-1 tvg-id="Asian Cup Qualification - Myanmar vs Pakistan" tvg-name="12:30 Asian Cup Qualification : Myanmar vs Pakistan - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", A Sports Pakistan
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-269.php
@@ -1718,16 +1718,16 @@ https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream
 #EXTINF:-1 tvg-id="Africa - COSAFA Cup - South Africa vs Mauritius" tvg-name="15:00 Africa - COSAFA Cup : South Africa vs Mauritius - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Variety 4
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-419.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Kyrgyzstan vs United Arab Emirates" tvg-name="15:45 World Cup Qualifying : Kyrgyzstan vs United Arab Emirates - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
+#EXTINF:-1 tvg-id="World Cup Qualifying - Kyrgyzstan vs United Arab Emirates" tvg-name="15:45 World Cup Qualifying : Kyrgyzstan vs United Arab Emirates - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550527_kyrgyzstan-x-united-arab-emirates.png" group-title="Calcio", Optus Sport
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-69.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Kyrgyzstan vs United Arab Emirates" tvg-name="15:45 World Cup Qualifying : Kyrgyzstan vs United Arab Emirates - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport Bulgaria
+#EXTINF:-1 tvg-id="World Cup Qualifying - Kyrgyzstan vs United Arab Emirates" tvg-name="15:45 World Cup Qualifying : Kyrgyzstan vs United Arab Emirates - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550527_kyrgyzstan-x-united-arab-emirates.png" group-title="Calcio", Nova Sport Bulgaria
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-468.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Kyrgyzstan vs United Arab Emirates" tvg-name="15:45 World Cup Qualifying : Kyrgyzstan vs United Arab Emirates - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 3 Croatia
+#EXTINF:-1 tvg-id="World Cup Qualifying - Kyrgyzstan vs United Arab Emirates" tvg-name="15:45 World Cup Qualifying : Kyrgyzstan vs United Arab Emirates - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550527_kyrgyzstan-x-united-arab-emirates.png" group-title="Calcio", Sportklub 3 Croatia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Kyrgyzstan vs United Arab Emirates" tvg-name="15:45 World Cup Qualifying : Kyrgyzstan vs United Arab Emirates - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 2
+#EXTINF:-1 tvg-id="World Cup Qualifying - Kyrgyzstan vs United Arab Emirates" tvg-name="15:45 World Cup Qualifying : Kyrgyzstan vs United Arab Emirates - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550527_kyrgyzstan-x-united-arab-emirates.png" group-title="Calcio", beIN Sports MENA 2
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-92.php
 
 #EXTINF:-1 tvg-id="World Cup Qualifying - Uzbekistan vs Qatar" tvg-name="15:45 World Cup Qualifying : Uzbekistan vs Qatar - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
@@ -1799,61 +1799,61 @@ https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream
 #EXTINF:-1 tvg-id="World Cup Qualifying - Iran vs Korea DPR" tvg-name="18:00 World Cup Qualifying : Iran vs Korea DPR - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 4
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-94.php
 
-#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 2 USA
+#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550317_azerbaijan-x-hungary.png" group-title="Calcio", Fox Sports 2 USA
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-758.php
 
-#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M4 Sports Hungary
+#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550317_azerbaijan-x-hungary.png" group-title="Calcio", M4 Sports Hungary
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-265.php
 
-#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CBC Sport Azerbaijan
+#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550317_azerbaijan-x-hungary.png" group-title="Calcio", CBC Sport Azerbaijan
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-3.php
 
-#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN 2 DE
+#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550317_azerbaijan-x-hungary.png" group-title="Calcio", DAZN 2 DE
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-427.php
 
-#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550317_azerbaijan-x-hungary.png" group-title="Calcio", Polsat Sport 1 Poland
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
 
-#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Calcio IT
+#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550317_azerbaijan-x-hungary.png" group-title="Calcio", Sky Sport Calcio IT
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-870.php
 
-#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportv2 Brazil
+#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550317_azerbaijan-x-hungary.png" group-title="Calcio", Sportv2 Brazil
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-79.php
 
-#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 1 Czech
+#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550317_azerbaijan-x-hungary.png" group-title="Calcio", Sport 1 Czech
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-21.php
 
-#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 3 Croatia
+#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550317_azerbaijan-x-hungary.png" group-title="Calcio", Sportklub 3 Croatia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
 
-#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport Bulgaria
+#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550317_azerbaijan-x-hungary.png" group-title="Calcio", Diema Sport Bulgaria
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-465.php
 
-#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 8
+#EXTINF:-1 tvg-id="Friendly - Azerbaijan vs Hungary" tvg-name="18:00 Friendly : Azerbaijan vs Hungary - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550317_azerbaijan-x-hungary.png" group-title="Calcio", beIN Sports MENA 8
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-98.php
 
-#EXTINF:-1 tvg-id="Friendly - Slovenia vs Bosnia and Herzegovina" tvg-name="18:00 Friendly : Slovenia vs Bosnia and Herzegovina - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fubo Sports Network
+#EXTINF:-1 tvg-id="Friendly - Slovenia vs Bosnia and Herzegovina" tvg-name="18:00 Friendly : Slovenia vs Bosnia and Herzegovina - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550262_slovenia-x-bosnia-and-herzegovina.png" group-title="Calcio", Fubo Sports Network
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-4.php
 
-#EXTINF:-1 tvg-id="Friendly - Slovenia vs Bosnia and Herzegovina" tvg-name="18:00 Friendly : Slovenia vs Bosnia and Herzegovina - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BHT 1 Bosnia
+#EXTINF:-1 tvg-id="Friendly - Slovenia vs Bosnia and Herzegovina" tvg-name="18:00 Friendly : Slovenia vs Bosnia and Herzegovina - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550262_slovenia-x-bosnia-and-herzegovina.png" group-title="Calcio", BHT 1 Bosnia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-5.php
 
-#EXTINF:-1 tvg-id="Friendly - Slovenia vs Bosnia and Herzegovina" tvg-name="18:00 Friendly : Slovenia vs Bosnia and Herzegovina - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SportKlub 1 Slovenia
+#EXTINF:-1 tvg-id="Friendly - Slovenia vs Bosnia and Herzegovina" tvg-name="18:00 Friendly : Slovenia vs Bosnia and Herzegovina - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550262_slovenia-x-bosnia-and-herzegovina.png" group-title="Calcio", SportKlub 1 Slovenia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-6.php
 
-#EXTINF:-1 tvg-id="Friendly - Slovenia vs Bosnia and Herzegovina" tvg-name="18:00 Friendly : Slovenia vs Bosnia and Herzegovina - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 DE
+#EXTINF:-1 tvg-id="Friendly - Slovenia vs Bosnia and Herzegovina" tvg-name="18:00 Friendly : Slovenia vs Bosnia and Herzegovina - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550262_slovenia-x-bosnia-and-herzegovina.png" group-title="Calcio", DAZN1 DE
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-426.php
 
-#EXTINF:-1 tvg-id="Friendly - Slovenia vs Bosnia and Herzegovina" tvg-name="18:00 Friendly : Slovenia vs Bosnia and Herzegovina - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 3 Romania
+#EXTINF:-1 tvg-id="Friendly - Slovenia vs Bosnia and Herzegovina" tvg-name="18:00 Friendly : Slovenia vs Bosnia and Herzegovina - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550262_slovenia-x-bosnia-and-herzegovina.png" group-title="Calcio", Prima Sport 3 Romania
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-585.php
 
-#EXTINF:-1 tvg-id="Friendly - Slovenia vs Bosnia and Herzegovina" tvg-name="18:00 Friendly : Slovenia vs Bosnia and Herzegovina - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="Friendly - Slovenia vs Bosnia and Herzegovina" tvg-name="18:00 Friendly : Slovenia vs Bosnia and Herzegovina - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550262_slovenia-x-bosnia-and-herzegovina.png" group-title="Calcio", Diema Sport 2 Bulgaria
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-466.php
 
-#EXTINF:-1 tvg-id="Friendly - Slovenia vs Bosnia and Herzegovina" tvg-name="18:00 Friendly : Slovenia vs Bosnia and Herzegovina - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="Friendly - Slovenia vs Bosnia and Herzegovina" tvg-name="18:00 Friendly : Slovenia vs Bosnia and Herzegovina - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550262_slovenia-x-bosnia-and-herzegovina.png" group-title="Calcio", Sport Klub 1 Croatia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-101.php
 
-#EXTINF:-1 tvg-id="Friendly - Slovenia vs Bosnia and Herzegovina" tvg-name="18:00 Friendly : Slovenia vs Bosnia and Herzegovina - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 1 Israel
+#EXTINF:-1 tvg-id="Friendly - Slovenia vs Bosnia and Herzegovina" tvg-name="18:00 Friendly : Slovenia vs Bosnia and Herzegovina - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550262_slovenia-x-bosnia-and-herzegovina.png" group-title="Calcio", Sport 1 Israel
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-140.php
 
 #EXTINF:-1 tvg-id="Friendly - Belarus vs Russia" tvg-name="19:00 Friendly : Belarus vs Russia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match TV Russia
@@ -1862,70 +1862,70 @@ https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream
 #EXTINF:-1 tvg-id="Friendly - Belarus vs Russia" tvg-name="19:00 Friendly : Belarus vs Russia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match Premier Russia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-573.php
 
-#EXTINF:-1 tvg-id="Friendly - Denmark vs Lithuania" tvg-name="19:00 Friendly : Denmark vs Lithuania - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Denmark
+#EXTINF:-1 tvg-id="Friendly - Denmark vs Lithuania" tvg-name="19:00 Friendly : Denmark vs Lithuania - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550268_denmark-x-lithuania.png" group-title="Calcio", TV2 Denmark
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-817.php
 
-#EXTINF:-1 tvg-id="Friendly - Sweden vs Algeria" tvg-name="19:00 Friendly : Sweden vs Algeria - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV6 Sweden
+#EXTINF:-1 tvg-id="Friendly - Sweden vs Algeria" tvg-name="19:00 Friendly : Sweden vs Algeria - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550237_sweden-x-algeria.png" group-title="Calcio", TV6 Sweden
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-7.php
 
-#EXTINF:-1 tvg-id="Friendly - Sweden vs Algeria" tvg-name="19:00 Friendly : Sweden vs Algeria - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV 6 Algeria
+#EXTINF:-1 tvg-id="Friendly - Sweden vs Algeria" tvg-name="19:00 Friendly : Sweden vs Algeria - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550237_sweden-x-algeria.png" group-title="Calcio", TV 6 Algeria
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-8.php
 
-#EXTINF:-1 tvg-id="Friendly - Sweden vs Algeria" tvg-name="19:00 Friendly : Sweden vs Algeria - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV4 Portugal
+#EXTINF:-1 tvg-id="Friendly - Sweden vs Algeria" tvg-name="19:00 Friendly : Sweden vs Algeria - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550237_sweden-x-algeria.png" group-title="Calcio", Sport TV4 Portugal
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-289.php
 
-#EXTINF:-1 tvg-id="Friendly - Sweden vs Algeria" tvg-name="19:00 Friendly : Sweden vs Algeria - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 6
+#EXTINF:-1 tvg-id="Friendly - Sweden vs Algeria" tvg-name="19:00 Friendly : Sweden vs Algeria - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550237_sweden-x-algeria.png" group-title="Calcio", beIN Sports MENA 6
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-96.php
 
-#EXTINF:-1 tvg-id="Friendly - Sweden vs Algeria" tvg-name="19:00 Friendly : Sweden vs Algeria - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport klub 7 Croatia
+#EXTINF:-1 tvg-id="Friendly - Sweden vs Algeria" tvg-name="19:00 Friendly : Sweden vs Algeria - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550237_sweden-x-algeria.png" group-title="Calcio", Sport klub 7 Croatia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-26.php
 
-#EXTINF:-1 tvg-id="Friendly - Sweden vs Algeria" tvg-name="19:00 Friendly : Sweden vs Algeria - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport klub 10 Croatia
+#EXTINF:-1 tvg-id="Friendly - Sweden vs Algeria" tvg-name="19:00 Friendly : Sweden vs Algeria - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550237_sweden-x-algeria.png" group-title="Calcio", Sport klub 10 Croatia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-27.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Saudi Arabia vs Australia" tvg-name="20:15 World Cup Qualifying : Saudi Arabia vs Australia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
+#EXTINF:-1 tvg-id="World Cup Qualifying - Saudi Arabia vs Australia" tvg-name="20:15 World Cup Qualifying : Saudi Arabia vs Australia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550183_saudi-arabia-x-australia.png" group-title="Calcio", Optus Sport
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-55.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Saudi Arabia vs Australia" tvg-name="20:15 World Cup Qualifying : Saudi Arabia vs Australia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL DE
+#EXTINF:-1 tvg-id="World Cup Qualifying - Saudi Arabia vs Australia" tvg-name="20:15 World Cup Qualifying : Saudi Arabia vs Australia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550183_saudi-arabia-x-australia.png" group-title="Calcio", Sportdigital FUSSBALL DE
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-571.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Saudi Arabia vs Australia" tvg-name="20:15 World Cup Qualifying : Saudi Arabia vs Australia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 1 NL
+#EXTINF:-1 tvg-id="World Cup Qualifying - Saudi Arabia vs Australia" tvg-name="20:15 World Cup Qualifying : Saudi Arabia vs Australia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550183_saudi-arabia-x-australia.png" group-title="Calcio", ESPN 1 NL
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-379.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Saudi Arabia vs Australia" tvg-name="20:15 World Cup Qualifying : Saudi Arabia vs Australia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Mexico
+#EXTINF:-1 tvg-id="World Cup Qualifying - Saudi Arabia vs Australia" tvg-name="20:15 World Cup Qualifying : Saudi Arabia vs Australia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550183_saudi-arabia-x-australia.png" group-title="Calcio", ESPN2 Mexico
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-926.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Saudi Arabia vs Australia" tvg-name="20:15 World Cup Qualifying : Saudi Arabia vs Australia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 6 Serbia
+#EXTINF:-1 tvg-id="World Cup Qualifying - Saudi Arabia vs Australia" tvg-name="20:15 World Cup Qualifying : Saudi Arabia vs Australia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550183_saudi-arabia-x-australia.png" group-title="Calcio", Arena Sport 6 Serbia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-941.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Saudi Arabia vs Australia" tvg-name="20:15 World Cup Qualifying : Saudi Arabia vs Australia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN4 Brazil
+#EXTINF:-1 tvg-id="World Cup Qualifying - Saudi Arabia vs Australia" tvg-name="20:15 World Cup Qualifying : Saudi Arabia vs Australia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550183_saudi-arabia-x-australia.png" group-title="Calcio", ESPN4 Brazil
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-85.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Saudi Arabia vs Australia" tvg-name="20:15 World Cup Qualifying : Saudi Arabia vs Australia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub HD Croatia
+#EXTINF:-1 tvg-id="World Cup Qualifying - Saudi Arabia vs Australia" tvg-name="20:15 World Cup Qualifying : Saudi Arabia vs Australia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550183_saudi-arabia-x-australia.png" group-title="Calcio", Sportklub HD Croatia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-453.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Saudi Arabia vs Australia" tvg-name="20:15 World Cup Qualifying : Saudi Arabia vs Australia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 1
+#EXTINF:-1 tvg-id="World Cup Qualifying - Saudi Arabia vs Australia" tvg-name="20:15 World Cup Qualifying : Saudi Arabia vs Australia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550183_saudi-arabia-x-australia.png" group-title="Calcio", beIN Sports MENA 1
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-91.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Saudi Arabia vs Australia" tvg-name="20:15 World Cup Qualifying : Saudi Arabia vs Australia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 5 Stars Israel
+#EXTINF:-1 tvg-id="World Cup Qualifying - Saudi Arabia vs Australia" tvg-name="20:15 World Cup Qualifying : Saudi Arabia vs Australia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550183_saudi-arabia-x-australia.png" group-title="Calcio", Sport 5 Stars Israel
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-147.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Jordan vs Iraq" tvg-name="20:15 World Cup Qualifying : Jordan vs Iraq - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
+#EXTINF:-1 tvg-id="World Cup Qualifying - Jordan vs Iraq" tvg-name="20:15 World Cup Qualifying : Jordan vs Iraq - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550175_jordan-x-iraq.png" group-title="Calcio", Optus Sport
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-59.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Jordan vs Iraq" tvg-name="20:15 World Cup Qualifying : Jordan vs Iraq - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 8 Serbia
+#EXTINF:-1 tvg-id="World Cup Qualifying - Jordan vs Iraq" tvg-name="20:15 World Cup Qualifying : Jordan vs Iraq - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550175_jordan-x-iraq.png" group-title="Calcio", Arena Sport 8 Serbia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-943.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Jordan vs Iraq" tvg-name="20:15 World Cup Qualifying : Jordan vs Iraq - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 3
+#EXTINF:-1 tvg-id="World Cup Qualifying - Jordan vs Iraq" tvg-name="20:15 World Cup Qualifying : Jordan vs Iraq - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550175_jordan-x-iraq.png" group-title="Calcio", beIN Sports MENA 3
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-93.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Palestine vs Oman" tvg-name="20:15 World Cup Qualifying : Palestine vs Oman - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
+#EXTINF:-1 tvg-id="World Cup Qualifying - Palestine vs Oman" tvg-name="20:15 World Cup Qualifying : Palestine vs Oman - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549807_romania-x-cyprus.png" group-title="Calcio", Optus Sport
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-68.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Palestine vs Oman" tvg-name="20:15 World Cup Qualifying : Palestine vs Oman - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Arena 2
+#EXTINF:-1 tvg-id="World Cup Qualifying - Palestine vs Oman" tvg-name="20:15 World Cup Qualifying : Palestine vs Oman - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549807_romania-x-cyprus.png" group-title="Calcio", Astro Arena 2
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-9.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Palestine vs Oman" tvg-name="20:15 World Cup Qualifying : Palestine vs Oman - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 2
+#EXTINF:-1 tvg-id="World Cup Qualifying - Palestine vs Oman" tvg-name="20:15 World Cup Qualifying : Palestine vs Oman - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549807_romania-x-cyprus.png" group-title="Calcio", beIN Sports MENA 2
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-92.php
 
 #EXTINF:-1 tvg-id="World Cup Qualifying - Simulcast" tvg-name="20:45 World Cup Qualifying : Simulcast - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports Prime Greece
@@ -1934,109 +1934,109 @@ https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream
 #EXTINF:-1 tvg-id="World Cup Qualifying - Simulcast" tvg-name="20:45 World Cup Qualifying : Simulcast - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", L'Equipe France
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-645.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", Optus Sport
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-69.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fubo Sports Network
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", Fubo Sports Network
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-4.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", YLE TV2 Finland
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", YLE TV2 Finland
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP Sport Poland
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", TVP Sport Poland
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-128.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP1 Poland
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", TVP1 Poland
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-560.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV3 Portugal
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", Sport TV3 Portugal
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-454.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 7 NZ
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", Sky Sport 7 NZ
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-594.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 1 NL
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", Ziggo Sport 1 NL
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-393.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Uno IT
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", Sky Sport Uno IT
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-461.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 3 Romania
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", Digi Sport 3 Romania
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-402.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 1 Romania
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", Prima Sport 1 Romania
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-583.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cytavision Sports 6 Cyprus
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", Cytavision Sports 6 Cyprus
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-916.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Serbia
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", Arena Sport 1 Serbia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-429.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Sport Norway
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", TV2 Sport Norway
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-10.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports 3 Greece
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", Nova Sports 3 Greece
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-633.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", Diema Sport 2 Bulgaria
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-466.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV3 BR
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", SporTV3 BR
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-80.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Argentina
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", ESPN2 Argentina
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-150.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 1 Croatia
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", Sportklub 1 Croatia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-101.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 8
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", beIN Sports MENA 8
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-98.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 1 Israel
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Poland" tvg-name="20:45 World Cup Qualifying : Finland vs Poland - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_finland-x-poland.png" group-title="Calcio", Sport 1 Israel
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-140.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Romania vs Cyprus" tvg-name="20:45 World Cup Qualifying : Romania vs Cyprus - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
+#EXTINF:-1 tvg-id="World Cup Qualifying - Romania vs Cyprus" tvg-name="20:45 World Cup Qualifying : Romania vs Cyprus - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549807_romania-x-cyprus.png" group-title="Calcio", Optus Sport
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-76.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Romania vs Cyprus" tvg-name="20:45 World Cup Qualifying : Romania vs Cyprus - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Antena 1 Romania
+#EXTINF:-1 tvg-id="World Cup Qualifying - Romania vs Cyprus" tvg-name="20:45 World Cup Qualifying : Romania vs Cyprus - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549807_romania-x-cyprus.png" group-title="Calcio", Antena 1 Romania
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-11.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Romania vs Cyprus" tvg-name="20:45 World Cup Qualifying : Romania vs Cyprus - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 5 NZ
+#EXTINF:-1 tvg-id="World Cup Qualifying - Romania vs Cyprus" tvg-name="20:45 World Cup Qualifying : Romania vs Cyprus - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549807_romania-x-cyprus.png" group-title="Calcio", Sky Sport 5 NZ
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-592.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Romania vs Cyprus" tvg-name="20:45 World Cup Qualifying : Romania vs Cyprus - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV5 Portugal
+#EXTINF:-1 tvg-id="World Cup Qualifying - Romania vs Cyprus" tvg-name="20:45 World Cup Qualifying : Romania vs Cyprus - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549807_romania-x-cyprus.png" group-title="Calcio", Sport TV5 Portugal
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-290.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Romania vs Cyprus" tvg-name="20:45 World Cup Qualifying : Romania vs Cyprus - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Polsat Sport 2 Poland
+#EXTINF:-1 tvg-id="World Cup Qualifying - Romania vs Cyprus" tvg-name="20:45 World Cup Qualifying : Romania vs Cyprus - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549807_romania-x-cyprus.png" group-title="Calcio", Polsat Sport 2 Poland
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-50.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Romania vs Cyprus" tvg-name="20:45 World Cup Qualifying : Romania vs Cyprus - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 4 Serbia
+#EXTINF:-1 tvg-id="World Cup Qualifying - Romania vs Cyprus" tvg-name="20:45 World Cup Qualifying : Romania vs Cyprus - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549807_romania-x-cyprus.png" group-title="Calcio", Arena Sport 4 Serbia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-581.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Romania vs Cyprus" tvg-name="20:45 World Cup Qualifying : Romania vs Cyprus - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports 2 Greece
+#EXTINF:-1 tvg-id="World Cup Qualifying - Romania vs Cyprus" tvg-name="20:45 World Cup Qualifying : Romania vs Cyprus - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549807_romania-x-cyprus.png" group-title="Calcio", Nova Sports 2 Greece
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-632.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - San Marino vs Austria" tvg-name="20:45 World Cup Qualifying : San Marino vs Austria - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
+#EXTINF:-1 tvg-id="World Cup Qualifying - San Marino vs Austria" tvg-name="20:45 World Cup Qualifying : San Marino vs Austria - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550006_san-marino-x-austria.png" group-title="Calcio", Optus Sport
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-86.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - San Marino vs Austria" tvg-name="20:45 World Cup Qualifying : San Marino vs Austria - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 3 NZ
+#EXTINF:-1 tvg-id="World Cup Qualifying - San Marino vs Austria" tvg-name="20:45 World Cup Qualifying : San Marino vs Austria - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550006_san-marino-x-austria.png" group-title="Calcio", Sky Sport 3 NZ
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-590.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - San Marino vs Austria" tvg-name="20:45 World Cup Qualifying : San Marino vs Austria - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 3 Romania
+#EXTINF:-1 tvg-id="World Cup Qualifying - San Marino vs Austria" tvg-name="20:45 World Cup Qualifying : San Marino vs Austria - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550006_san-marino-x-austria.png" group-title="Calcio", Prima Sport 3 Romania
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-585.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - San Marino vs Austria" tvg-name="20:45 World Cup Qualifying : San Marino vs Austria - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 2 Romania
+#EXTINF:-1 tvg-id="World Cup Qualifying - San Marino vs Austria" tvg-name="20:45 World Cup Qualifying : San Marino vs Austria - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550006_san-marino-x-austria.png" group-title="Calcio", Digi Sport 2 Romania
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-401.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - San Marino vs Austria" tvg-name="20:45 World Cup Qualifying : San Marino vs Austria - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Polsat Sport Premium 1 Poland
+#EXTINF:-1 tvg-id="World Cup Qualifying - San Marino vs Austria" tvg-name="20:45 World Cup Qualifying : San Marino vs Austria - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550006_san-marino-x-austria.png" group-title="Calcio", Polsat Sport Premium 1 Poland
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-25.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - San Marino vs Austria" tvg-name="20:45 World Cup Qualifying : San Marino vs Austria - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports 6 Greece
+#EXTINF:-1 tvg-id="World Cup Qualifying - San Marino vs Austria" tvg-name="20:45 World Cup Qualifying : San Marino vs Austria - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550006_san-marino-x-austria.png" group-title="Calcio", Nova Sports 6 Greece
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-636.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - San Marino vs Austria" tvg-name="20:45 World Cup Qualifying : San Marino vs Austria - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Variety 3
+#EXTINF:-1 tvg-id="World Cup Qualifying - San Marino vs Austria" tvg-name="20:45 World Cup Qualifying : San Marino vs Austria - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550006_san-marino-x-austria.png" group-title="Calcio", SuperSport Variety 3
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-418.php
 
 #EXTINF:-1 tvg-id="World Cup Qualifying - Latvia vs Albania" tvg-name="20:45 World Cup Qualifying : Latvia vs Albania - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
@@ -2060,112 +2060,112 @@ https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream
 #EXTINF:-1 tvg-id="World Cup Qualifying - Latvia vs Albania" tvg-name="20:45 World Cup Qualifying : Latvia vs Albania - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 6
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-96.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Serbia vs Andorra" tvg-name="20:45 World Cup Qualifying : Serbia vs Andorra - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
+#EXTINF:-1 tvg-id="World Cup Qualifying - Serbia vs Andorra" tvg-name="20:45 World Cup Qualifying : Serbia vs Andorra - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_serbia-x-andorra.png" group-title="Calcio", Optus Sport
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-106.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Serbia vs Andorra" tvg-name="20:45 World Cup Qualifying : Serbia vs Andorra - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Soccer Plus
+#EXTINF:-1 tvg-id="World Cup Qualifying - Serbia vs Andorra" tvg-name="20:45 World Cup Qualifying : Serbia vs Andorra - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_serbia-x-andorra.png" group-title="Calcio", Fox Soccer Plus
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-756.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Serbia vs Andorra" tvg-name="20:45 World Cup Qualifying : Serbia vs Andorra - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTS 1 Serbia
+#EXTINF:-1 tvg-id="World Cup Qualifying - Serbia vs Andorra" tvg-name="20:45 World Cup Qualifying : Serbia vs Andorra - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_serbia-x-andorra.png" group-title="Calcio", RTS 1 Serbia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-13.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Serbia vs Andorra" tvg-name="20:45 World Cup Qualifying : Serbia vs Andorra - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 6 NZ
+#EXTINF:-1 tvg-id="World Cup Qualifying - Serbia vs Andorra" tvg-name="20:45 World Cup Qualifying : Serbia vs Andorra - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_serbia-x-andorra.png" group-title="Calcio", Sky Sport 6 NZ
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-593.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Serbia vs Andorra" tvg-name="20:45 World Cup Qualifying : Serbia vs Andorra - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Premium 1 Serbia
+#EXTINF:-1 tvg-id="World Cup Qualifying - Serbia vs Andorra" tvg-name="20:45 World Cup Qualifying : Serbia vs Andorra - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_serbia-x-andorra.png" group-title="Calcio", Arena Premium 1 Serbia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-134.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Serbia vs Andorra" tvg-name="20:45 World Cup Qualifying : Serbia vs Andorra - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport Bulgaria
+#EXTINF:-1 tvg-id="World Cup Qualifying - Serbia vs Andorra" tvg-name="20:45 World Cup Qualifying : Serbia vs Andorra - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_serbia-x-andorra.png" group-title="Calcio", Nova Sport Bulgaria
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-468.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Serbia vs Andorra" tvg-name="20:45 World Cup Qualifying : Serbia vs Andorra - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Brazil
+#EXTINF:-1 tvg-id="World Cup Qualifying - Serbia vs Andorra" tvg-name="20:45 World Cup Qualifying : Serbia vs Andorra - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_serbia-x-andorra.png" group-title="Calcio", ESPN2 Brazil
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-82.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Serbia vs Andorra" tvg-name="20:45 World Cup Qualifying : Serbia vs Andorra - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Laliga
+#EXTINF:-1 tvg-id="World Cup Qualifying - Serbia vs Andorra" tvg-name="20:45 World Cup Qualifying : Serbia vs Andorra - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_serbia-x-andorra.png" group-title="Calcio", SuperSport Laliga
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-415.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Serbia vs Andorra" tvg-name="20:45 World Cup Qualifying : Serbia vs Andorra - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA Xtra 1
+#EXTINF:-1 tvg-id="World Cup Qualifying - Serbia vs Andorra" tvg-name="20:45 World Cup Qualifying : Serbia vs Andorra - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550037_serbia-x-andorra.png" group-title="Calcio", beIN Sports MENA Xtra 1
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-100.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", Optus Sport
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-107.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 2 USA
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", Fox Sports 2 USA
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-758.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Vodafone Sport
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", Vodafone Sport
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-260.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", NPO 3 NL
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", NPO 3 NL
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-14.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 1 NZ
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", Sky Sport 1 NZ
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-588.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN2 DE
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", DAZN2 DE
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-427.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", Sport TV1 Portugal
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-49.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", Polsat Sport 1 Poland
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cytavision Sports 3 Cyprus
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", Cytavision Sports 3 Cyprus
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-913.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 1 Romania
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", Digi Sport 1 Romania
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-400.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 4 Romania
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", Prima Sport 4 Romania
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-586.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 3 Serbia
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", Arena Sport 3 Serbia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-431.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports 1 Greece
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", Nova Sports 1 Greece
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-631.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Sport X Denmark
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", TV2 Sport X Denmark
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-808.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport 3 Bulgaria
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", Diema Sport 3 Bulgaria
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-467.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Brazil
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", ESPN Brazil
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-81.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport PSL
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", SuperSport PSL
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-413.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport MaXimo 1
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", SuperSport MaXimo 1
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-572.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 8 Croatia
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", Sportklub 8 Croatia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-28.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 3
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", beIN Sports MENA 3
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-93.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 5
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", beIN Sports MENA 5
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-95.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Malta" tvg-name="20:45 World Cup Qualifying : Netherlands vs Malta - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749550138_netherlands-x-malta.png" group-title="Calcio", Sport 2 Israel
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-141.php
 
-#EXTINF:-1 tvg-id="Friendly - Greece vs Bulgaria" tvg-name="20:45 Friendly : Greece vs Bulgaria - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BNT 1 Bulgaria
+#EXTINF:-1 tvg-id="Friendly - Greece vs Bulgaria" tvg-name="20:45 Friendly : Greece vs Bulgaria - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549910_greece-x-bulgaria.png" group-title="Calcio", BNT 1 Bulgaria
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-476.php
 
-#EXTINF:-1 tvg-id="Friendly - Greece vs Bulgaria" tvg-name="20:45 Friendly : Greece vs Bulgaria - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BNT 3 Bulgaria
+#EXTINF:-1 tvg-id="Friendly - Greece vs Bulgaria" tvg-name="20:45 Friendly : Greece vs Bulgaria - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549910_greece-x-bulgaria.png" group-title="Calcio", BNT 3 Bulgaria
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-478.php
 
-#EXTINF:-1 tvg-id="Friendly - Greece vs Bulgaria" tvg-name="20:45 Friendly : Greece vs Bulgaria - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports Start Greece
+#EXTINF:-1 tvg-id="Friendly - Greece vs Bulgaria" tvg-name="20:45 Friendly : Greece vs Bulgaria - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549910_greece-x-bulgaria.png" group-title="Calcio", Nova Sports Start Greece
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-637.php
 
-#EXTINF:-1 tvg-id="Friendly - Greece vs Bulgaria" tvg-name="20:45 Friendly : Greece vs Bulgaria - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cytavision Sports 4 Cyprus
+#EXTINF:-1 tvg-id="Friendly - Greece vs Bulgaria" tvg-name="20:45 Friendly : Greece vs Bulgaria - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549910_greece-x-bulgaria.png" group-title="Calcio", Cytavision Sports 4 Cyprus
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-914.php
 
-#EXTINF:-1 tvg-id="Friendly - Greece vs Bulgaria" tvg-name="20:45 Friendly : Greece vs Bulgaria - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Variety 4
+#EXTINF:-1 tvg-id="Friendly - Greece vs Bulgaria" tvg-name="20:45 Friendly : Greece vs Bulgaria - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549910_greece-x-bulgaria.png" group-title="Calcio", SuperSport Variety 4
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-419.php
 
 #EXTINF:-1 tvg-id="Friendly - Northern Ireland vs Iceland" tvg-name="20:45 Friendly : Northern Ireland vs Iceland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Stöð 2 Sport 1 Iceland
@@ -2174,58 +2174,58 @@ https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream
 #EXTINF:-1 tvg-id="Friendly - Northern Ireland vs Iceland" tvg-name="20:45 Friendly : Northern Ireland vs Iceland - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Variety 1
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-416.php
 
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ITV 1 UK
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", ITV 1 UK
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-350.php
 
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN 1 DE
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", DAZN 1 DE
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-426.php
 
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV2 Portugal
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", Sport TV2 Portugal
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-74.php
 
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Polsat Sport 3 Poland
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", Polsat Sport 3 Poland
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-129.php
 
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 251 IT
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", Sky Sport 251 IT
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-16.php
 
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 2 NZ
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", Sky Sport 2 NZ
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-589.php
 
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 4 Romania
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", Digi Sport 4 Romania
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-403.php
 
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports Premier League Greece
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", Nova Sports Premier League Greece
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-599.php
 
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport Bulgaria
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", Diema Sport Bulgaria
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-465.php
 
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Sport Denmark
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", TV2 Sport Denmark
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-810.php
 
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV2 BR
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", SporTV2 BR
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-79.php
 
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", SuperSport Premier League
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-414.php
 
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 4 Croatia
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", Sportklub 4 Croatia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-104.php
 
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 4
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", beIN Sports MENA 4
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-94.php
 
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 1
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", beIN Sports MENA English 1
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-61.php
 
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 4 Israel
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", Sport 4 Israel
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-143.php
 
-#EXTINF:-1 tvg-id="Friendly - Luxembourg vs Ireland Republic" tvg-name="20:45 Friendly : Luxembourg vs Ireland Republic - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTE 2 Ireland
+#EXTINF:-1 tvg-id="Friendly - Luxembourg vs Ireland Republic" tvg-name="20:45 Friendly : Luxembourg vs Ireland Republic - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549870_luxembourg-x-ireland-republic.png" group-title="Calcio", RTE 2 Ireland
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-365.php
 
-#EXTINF:-1 tvg-id="Friendly - Luxembourg vs Ireland Republic" tvg-name="20:45 Friendly : Luxembourg vs Ireland Republic - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Football
+#EXTINF:-1 tvg-id="Friendly - Luxembourg vs Ireland Republic" tvg-name="20:45 Friendly : Luxembourg vs Ireland Republic - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549870_luxembourg-x-ireland-republic.png" group-title="Calcio", SuperSport Football
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-56.php
 
 #EXTINF:-1 tvg-id="Friendly - Slovakia vs Israel" tvg-name="20:45 Friendly : Slovakia vs Israel - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Sport Israel
@@ -2282,25 +2282,25 @@ https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream
 #EXTINF:-1 tvg-id="World Cup Qualifying - Jamaica vs Guatemala" tvg-name="01:00 World Cup Qualifying : Jamaica vs Guatemala - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOX Deportes
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-643.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Uruguay vs Venezuela" tvg-name="01:00 World Cup Qualifying : Uruguay vs Venezuela - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
+#EXTINF:-1 tvg-id="World Cup Qualifying - Uruguay vs Venezuela" tvg-name="01:00 World Cup Qualifying : Uruguay vs Venezuela - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549455_uruguay-x-venezuela.png" group-title="Calcio", Optus Sport
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-69.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Uruguay vs Venezuela" tvg-name="01:00 World Cup Qualifying : Uruguay vs Venezuela - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Movistar Liga de Campeones 3
+#EXTINF:-1 tvg-id="World Cup Qualifying - Uruguay vs Venezuela" tvg-name="01:00 World Cup Qualifying : Uruguay vs Venezuela - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549455_uruguay-x-venezuela.png" group-title="Calcio", Movistar Liga de Campeones 3
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Uruguay vs Venezuela" tvg-name="01:00 World Cup Qualifying : Uruguay vs Venezuela - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Eleven Sports 1 Poland
+#EXTINF:-1 tvg-id="World Cup Qualifying - Uruguay vs Venezuela" tvg-name="01:00 World Cup Qualifying : Uruguay vs Venezuela - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549455_uruguay-x-venezuela.png" group-title="Calcio", Eleven Sports 1 Poland
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-71.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Uruguay vs Venezuela" tvg-name="01:00 World Cup Qualifying : Uruguay vs Venezuela - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 1 Premium Serbia
+#EXTINF:-1 tvg-id="World Cup Qualifying - Uruguay vs Venezuela" tvg-name="01:00 World Cup Qualifying : Uruguay vs Venezuela - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549455_uruguay-x-venezuela.png" group-title="Calcio", Arena 1 Premium Serbia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-134.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Uruguay vs Venezuela" tvg-name="01:00 World Cup Qualifying : Uruguay vs Venezuela - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match Football 1 Russia
+#EXTINF:-1 tvg-id="World Cup Qualifying - Uruguay vs Venezuela" tvg-name="01:00 World Cup Qualifying : Uruguay vs Venezuela - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549455_uruguay-x-venezuela.png" group-title="Calcio", Match Football 1 Russia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-136.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Uruguay vs Venezuela" tvg-name="01:00 World Cup Qualifying : Uruguay vs Venezuela - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Croatia
+#EXTINF:-1 tvg-id="World Cup Qualifying - Uruguay vs Venezuela" tvg-name="01:00 World Cup Qualifying : Uruguay vs Venezuela - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549455_uruguay-x-venezuela.png" group-title="Calcio", Arena Sport 1 Croatia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-432.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Uruguay vs Venezuela" tvg-name="01:00 World Cup Qualifying : Uruguay vs Venezuela - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
+#EXTINF:-1 tvg-id="World Cup Qualifying - Uruguay vs Venezuela" tvg-name="01:00 World Cup Qualifying : Uruguay vs Venezuela - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549455_uruguay-x-venezuela.png" group-title="Calcio", Sport 2 Israel
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-141.php
 
 #EXTINF:-1 tvg-id="World Cup Qualifying - Dominican Republic vs Dominica" tvg-name="01:00 World Cup Qualifying : Dominican Republic vs Dominica - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
@@ -2309,46 +2309,46 @@ https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream
 #EXTINF:-1 tvg-id="World Cup Qualifying - Dominican Republic vs Dominica" tvg-name="01:00 World Cup Qualifying : Dominican Republic vs Dominica - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CDN Deportes Dominican Republic
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-2.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
+#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549412_argentina-x-colombia.png" group-title="Calcio", Optus Sport
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-77.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TyC Sports Argentina
+#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549412_argentina-x-colombia.png" group-title="Calcio", TyC Sports Argentina
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-746.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Caracol TV Colombia
+#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549412_argentina-x-colombia.png" group-title="Calcio", Caracol TV Colombia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-3.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premier Sports 1 Ireland
+#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549412_argentina-x-colombia.png" group-title="Calcio", Premier Sports 1 Ireland
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-771.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Movistar Liga de Campeones
+#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549412_argentina-x-colombia.png" group-title="Calcio", Movistar Liga de Campeones
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-435.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Movistar Plus+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549412_argentina-x-colombia.png" group-title="Calcio", Movistar Plus+
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-437.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match Football 2 Russia
+#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549412_argentina-x-colombia.png" group-title="Calcio", Match Football 2 Russia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-137.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV2 Portugal
+#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549412_argentina-x-colombia.png" group-title="Calcio", Sport TV2 Portugal
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-74.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Premium 2 Serbia
+#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549412_argentina-x-colombia.png" group-title="Calcio", Arena Premium 2 Serbia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-135.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Telemundo
+#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549412_argentina-x-colombia.png" group-title="Calcio", Telemundo
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-131.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 3 NL
+#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549412_argentina-x-colombia.png" group-title="Calcio", ESPN 3 NL
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-888.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 2 Croatia
+#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549412_argentina-x-colombia.png" group-title="Calcio", Arena Sport 2 Croatia
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-433.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV2 BR
+#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549412_argentina-x-colombia.png" group-title="Calcio", SporTV2 BR
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-79.php
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 1 Israel
+#EXTINF:-1 tvg-id="World Cup Qualifying - Argentina vs Colombia" tvg-name="02:00 World Cup Qualifying : Argentina vs Colombia - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549412_argentina-x-colombia.png" group-title="Calcio", Sport 1 Israel
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-140.php
 
 #EXTINF:-1 tvg-id="World Cup Qualifying - Guyana vs Montserrat" tvg-name="02:00 World Cup Qualifying : Guyana vs Montserrat - 10/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport

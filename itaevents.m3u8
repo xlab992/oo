@@ -56,6 +56,9 @@ https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Chelsea vs Los Angeles FC" tvg-name="21:00 FIFA Club World Cup : Chelsea vs Los Angeles FC - 16/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750074234_chelsea-x-los-angeles-fc.jpeg" group-title="Calcio", DAZN1 France
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-7.php
 
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Chelsea vs Los Angeles FC" tvg-name="21:00 FIFA Club World Cup : Chelsea vs Los Angeles FC - 16/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750074234_chelsea-x-los-angeles-fc.jpeg" group-title="Calcio", DAZN Portugal FIFA Mundial de Clubes
+https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-918.php
+
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Chelsea vs Los Angeles FC" tvg-name="21:00 FIFA Club World Cup : Chelsea vs Los Angeles FC - 16/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750074234_chelsea-x-los-angeles-fc.jpeg" group-title="Calcio", DAZN1 DE
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-426.php
 
@@ -112,6 +115,9 @@ https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream
 
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Boca Juniors vs Benfica" tvg-name="00:00 FIFA Club World Cup : Boca Juniors vs Benfica - 16/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV BR
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-78.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Boca Juniors vs Benfica" tvg-name="00:00 FIFA Club World Cup : Boca Juniors vs Benfica - 16/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Portugal FIFA Mundial de Clubes
+https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-918.php
 
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Boca Juniors vs Benfica" tvg-name="00:00 FIFA Club World Cup : Boca Juniors vs Benfica - 16/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Premier League
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-414.php
@@ -175,6 +181,9 @@ https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream
 
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs ES Tunis" tvg-name="03:00 FIFA Club World Cup : Flamengo vs ES Tunis - 16/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV BR
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-78.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs ES Tunis" tvg-name="03:00 FIFA Club World Cup : Flamengo vs ES Tunis - 16/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Portugal FIFA Mundial de Clubes
+https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-918.php
 
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs ES Tunis" tvg-name="03:00 FIFA Club World Cup : Flamengo vs ES Tunis - 16/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Premier League
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-414.php

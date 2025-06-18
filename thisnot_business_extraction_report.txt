@@ -2,16 +2,12 @@ Report Estrazione Link da thisnot.business
 ===========================================
 
 Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
-  Dettagli: Categoria='CALCIO', Evento='00:00 Ulsan - Mamelodi Sundowns', Canale='SporTV'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
-
-Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
-  Dettagli: Categoria='CALCIO', Evento='03:00 Monterrey - Inter', Canale='SporTV'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
-
-Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
   Dettagli: Categoria='CALCIO', Evento='18:00 Manchester City - Wydad Casablanca', Canale='SporTV'
   Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+
+Pagina Evento: https://thisnot.business/player.php?id=Channel5
+  Dettagli: Categoria='CALCIO', Evento='18:00 Manchester City - Wydad Casablanca', Canale='Channel5'
+  Stato Estrazione: OK - Proxy generato: https://ale-akhz.onrender.com/proxy/mpd/manifest.m3u8?d=https://cachehsi2b.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
   Dettagli: Categoria='CALCIO', Evento='21:00 Real Madrid - Al Hilal', Canale='SporTV'
@@ -54,16 +50,12 @@ Pagina Evento: https://thisnot.business/player.php?id=Dazn
   Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
 
 Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
-  Dettagli: Categoria='CALCIO', Evento='00:00 Ulsan - Mamelodi Sundowns', Canale='SporTV'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
-
-Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
-  Dettagli: Categoria='CALCIO', Evento='03:00 Monterrey - Inter', Canale='SporTV'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
-
-Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
   Dettagli: Categoria='CALCIO', Evento='18:00 Manchester City - Wydad Casablanca', Canale='SporTV'
   Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+
+Pagina Evento: https://thisnot.business/player.php?id=Channel5
+  Dettagli: Categoria='CALCIO', Evento='18:00 Manchester City - Wydad Casablanca', Canale='Channel5'
+  Stato Estrazione: OK - Proxy generato: https://ale-akhz.onrender.com/proxy/mpd/manifest.m3u8?d=https://cachehsi2b.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
   Dettagli: Categoria='CALCIO', Evento='21:00 Real Madrid - Al Hilal', Canale='SporTV'
@@ -106,16 +98,12 @@ Pagina Evento: https://thisnot.business/player.php?id=Dazn
   Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
 
 Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
-  Dettagli: Categoria='CALCIO', Evento='00:00 Ulsan - Mamelodi Sundowns', Canale='SporTV'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
-
-Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
-  Dettagli: Categoria='CALCIO', Evento='03:00 Monterrey - Inter', Canale='SporTV'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
-
-Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
   Dettagli: Categoria='CALCIO', Evento='18:00 Manchester City - Wydad Casablanca', Canale='SporTV'
   Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+
+Pagina Evento: https://thisnot.business/player.php?id=Channel5
+  Dettagli: Categoria='CALCIO', Evento='18:00 Manchester City - Wydad Casablanca', Canale='Channel5'
+  Stato Estrazione: OK - Proxy generato: https://ale-akhz.onrender.com/proxy/mpd/manifest.m3u8?d=https://cachehsi2b.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
   Dettagli: Categoria='CALCIO', Evento='21:00 Real Madrid - Al Hilal', Canale='SporTV'

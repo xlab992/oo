@@ -1,4 +1,16 @@
 {
+  "https://thisnot.business/player.php?id=Channel5": {
+    "proxy_url": "https://ale-akhz.onrender.com/proxy/mpd/manifest.m3u8?d=https://cachehsi2b.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd",
+    "info": {
+      "category": "CALCIO",
+      "title": "SERIE B PLAYOUT - ITALIA",
+      "date": "VENERDI 20 GIUGNO (RITORNO)",
+      "event": "18:00 Manchester City - Wydad Casablanca",
+      "channel": "Channel5",
+      "language": "br",
+      "url": "https://thisnot.business/player.php?id=Channel5"
+    }
+  },
   "https://thisnot.business/player.php?id=Italia1_IT": {
     "proxy_url": "https://ale-akhz.onrender.com/proxy/mpd/manifest.m3u8?d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd",
     "info": {

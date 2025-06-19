@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Al Ain vs Juventus" tvg-name="02:00 FIFA Club World Cup : Al Ain vs Juventus - 18/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Italia 1
-https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-4.php
-
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Inter Miami vs Porto" tvg-name="20:00 FIFA Club World Cup : Inter Miami vs Porto - 19/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Italia 1 IT
 https://xlab992-prxdd.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-5.php
 
